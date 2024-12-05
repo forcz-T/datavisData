@@ -1,109 +1,757 @@
-Religion,Age Band,No qualifications,Level 1,Level 2,Apprenticeship,Level 3,Level 4+,Other
-Buddhist,16 to 19,1280,790,3105,185,2495,435,240
-Buddhist,20 to 21,325,345,680,265,2895,1315,155
-Buddhist,22 to 24,460,495,815,380,2380,4880,240
-Buddhist,25 to 29,1215,915,1265,615,2465,10360,405
-Buddhist,30 to 34,2210,1445,1645,725,2695,11610,715
-Buddhist,35 to 39,3605,1985,2070,760,2720,13775,965
-Buddhist,40 to 44,4680,2525,2175,855,3100,14400,1135
-Buddhist,45 to 49,5035,2595,2300,905,3280,13445,1210
-Buddhist,50 to 54,5000,2645,2255,960,3105,11315,1125
-Buddhist,55 to 59,4590,2115,1780,725,2660,9385,865
-Buddhist,60 to 64,3885,1365,1260,570,1710,6915,580
-Buddhist,65+,10170,2450,2150,1475,2810,14455,1220
-Christian,16 to 19,163350,101900,385200,25065,196250,32420,13235
-Christian,20 to 21,27315,34180,55915,22960,200260,64840,6485
-Christian,22 to 24,48355,45345,70000,33760,173180,276775,10340
-Christian,25 to 29,106325,75615,112890,52175,227030,557115,24775
-Christian,30 to 34,138365,96350,140440,57835,239475,649545,33260
-Christian,35 to 39,141030,108070,163135,59530,256635,704705,35245
-Christian,40 to 44,137145,113580,175895,55515,278490,733410,33835
-Christian,45 to 49,160585,165485,225025,71210,305470,725885,35000
-Christian,50 to 54,231730,273165,338465,96715,363245,716185,50700
-Christian,55 to 59,316725,320455,370710,121715,376620,713645,56610
-Christian,60 to 64,405790,280440,301405,148250,320350,616650,61035
-Christian,65+,3036520,745045,691530,786845,642850,1674700,415265
-Hindu,16 to 19,5260,2175,17255,515,12110,1625,935
-Hindu,20 to 21,885,815,1360,520,11070,4470,450
-Hindu,22 to 24,2035,1220,1440,770,5790,24905,855
-Hindu,25 to 29,4260,2395,2460,1120,5330,49650,1685
-Hindu,30 to 34,6085,3850,3710,1265,6250,70425,2640
-Hindu,35 to 39,8075,5195,4935,1465,6790,85840,2850
-Hindu,40 to 44,9135,5670,5360,1455,7275,72460,2645
-Hindu,45 to 49,9390,5730,5120,1145,6590,44335,2225
-Hindu,50 to 54,9145,6100,5605,805,6640,27390,1935
-Hindu,55 to 59,10270,6360,5275,930,6110,19115,1935
-Hindu,60 to 64,13255,6470,4710,1170,4620,15465,1965
-Hindu,65+,46670,11495,7350,2790,6555,35655,6085
-Jewish,16 to 19,2335,1015,4840,105,2975,470,210
-Jewish,20 to 21,500,300,525,85,3215,910,115
-Jewish,22 to 24,735,360,765,130,1915,4715,165
-Jewish,25 to 29,1265,590,1110,190,2040,9580,235
-Jewish,30 to 34,1340,565,1160,180,1875,10035,270
-Jewish,35 to 39,1175,605,1170,185,1630,10365,275
-Jewish,40 to 44,1045,655,1215,160,1790,10425,230
-Jewish,45 to 49,1055,880,1375,200,1860,9810,235
-Jewish,50 to 54,1230,1315,1830,285,1970,8525,300
-Jewish,55 to 59,1300,1340,2040,320,2120,8245,305
-Jewish,60 to 64,1510,1370,1845,380,1990,7720,310
-Jewish,65+,16195,5585,6480,3290,5265,24395,2980
-Muslim,16 to 19,43335,27265,108955,4605,70210,15025,5525
-Muslim,20 to 21,8245,9205,15555,3185,59555,24935,2125
-Muslim,22 to 24,15335,11645,17335,4355,42535,79190,3620
-Muslim,25 to 29,37190,22080,24505,7385,41685,140950,8780
-Muslim,30 to 34,59610,33240,28580,8030,34735,139925,13235
-Muslim,35 to 39,73920,39080,30560,8260,31810,134020,14485
-Muslim,40 to 44,81155,37625,28370,7315,29735,111980,14540
-Muslim,45 to 49,78405,32080,22290,5220,22375,76540,13020
-Muslim,50 to 54,69025,25420,15820,3810,16235,51940,10575
-Muslim,55 to 59,50980,14825,8785,2395,9110,30670,6920
-Muslim,60 to 64,46745,10880,5650,1925,5775,21270,5020
-Muslim,65+,110990,13840,6400,3515,7110,35485,9170
-No religion,16 to 19,221120,154985,474475,30180,291660,35755,16610
-No religion,20 to 21,41205,59765,99350,34095,349135,92445,8740
-No religion,22 to 24,62410,80490,146495,56630,325060,450920,12285
-No religion,25 to 29,124900,133785,256295,87265,481160,950320,21620
-No religion,30 to 34,164155,161535,270360,75925,418005,904590,24480
-No religion,35 to 39,154720,148395,245115,57525,341555,751090,21585
-No religion,40 to 44,142420,130240,213100,45040,295675,644375,19270
-No religion,45 to 49,168420,162215,211995,57710,266260,569115,22105
-No religion,50 to 54,221015,197430,232010,66360,236725,479405,33510
-No religion,55 to 59,233365,157845,178920,64930,186490,405005,28960
-No religion,60 to 64,202255,95680,106380,59885,123590,297190,22440
-No religion,65+,636945,144265,146645,168155,170900,604030,69190
-Sikh,16 to 19,3230,1625,10545,290,7140,970,515
-Sikh,20 to 21,590,665,1170,295,6800,2385,250
-Sikh,22 to 24,1050,905,1340,495,4320,10550,420
-Sikh,25 to 29,2575,1765,2330,780,4760,20685,970
-Sikh,30 to 34,5335,3425,3435,1070,5020,23235,1960
-Sikh,35 to 39,6505,4430,4190,1085,4890,24600,2175
-Sikh,40 to 44,7165,4450,4330,910,5155,21805,2125
-Sikh,45 to 49,7290,4445,4205,720,4695,15295,1740
-Sikh,50 to 54,6970,5065,4550,715,4440,11090,1600
-Sikh,55 to 59,7565,4330,3405,660,3120,7035,1520
-Sikh,60 to 64,9390,3990,2485,855,2165,5265,1520
-Sikh,65+,35910,6300,2820,2005,2675,10085,4180
-Other religion,16 to 19,1580,1105,4940,225,3935,610,215
-Other religion,20 to 21,385,495,1170,265,4910,1490,120
-Other religion,22 to 24,575,755,1830,560,4455,6820,195
-Other religion,25 to 29,1485,1435,2870,920,6050,14290,465
-Other religion,30 to 34,2230,2025,3435,935,5855,16290,560
-Other religion,35 to 39,2685,2250,3495,895,5330,16445,630
-Other religion,40 to 44,3265,2140,3500,745,5400,15535,605
-Other religion,45 to 49,3770,2655,3765,955,5690,14595,750
-Other religion,50 to 54,3930,3175,4470,1120,5500,13565,860
-Other religion,55 to 59,4125,2925,3675,1050,4630,11475,745
-Other religion,60 to 64,3480,2175,2705,930,3305,8780,620
-Other religion,65+,11860,3580,3715,2170,3925,14000,1830
-Not answered,16 to 19,31000,18405,69025,3760,68040,8350,3205
-Not answered,20 to 21,6455,7215,14220,3810,68220,18685,2050
-Not answered,22 to 24,10000,9360,16520,6100,47220,62275,2515
-Not answered,25 to 29,19765,15190,26745,9660,51305,119985,4715
-Not answered,30 to 34,25040,18430,28290,9365,45140,119670,5670
-Not answered,35 to 39,23430,17560,27210,7640,38150,105995,5115
-Not answered,40 to 44,23155,16455,24430,6570,34630,91490,4775
-Not answered,45 to 49,26400,21215,26950,8125,34020,81400,4925
-Not answered,50 to 54,35360,30255,34240,10150,35725,74845,6840
-Not answered,55 to 59,42090,30600,33495,12070,34135,70120,6820
-Not answered,60 to 64,43725,23080,23820,12670,25390,55580,6015
-Not answered,65+,250390,50160,49190,56540,46440,137065,33585
+Religion,Age Band,Qualification Level,Count
+Buddhist,16 to 19,No qualifications,1280
+Buddhist,20 to 21,No qualifications,325
+Buddhist,22 to 24,No qualifications,460
+Buddhist,25 to 29,No qualifications,1215
+Buddhist,30 to 34,No qualifications,2210
+Buddhist,35 to 39,No qualifications,3605
+Buddhist,40 to 44,No qualifications,4680
+Buddhist,45 to 49,No qualifications,5035
+Buddhist,50 to 54,No qualifications,5000
+Buddhist,55 to 59,No qualifications,4590
+Buddhist,60 to 64,No qualifications,3885
+Buddhist,65+,No qualifications,10170
+Christian,16 to 19,No qualifications,163350
+Christian,20 to 21,No qualifications,27315
+Christian,22 to 24,No qualifications,48355
+Christian,25 to 29,No qualifications,106325
+Christian,30 to 34,No qualifications,138365
+Christian,35 to 39,No qualifications,141030
+Christian,40 to 44,No qualifications,137145
+Christian,45 to 49,No qualifications,160585
+Christian,50 to 54,No qualifications,231730
+Christian,55 to 59,No qualifications,316725
+Christian,60 to 64,No qualifications,405790
+Christian,65+,No qualifications,3036520
+Hindu,16 to 19,No qualifications,5260
+Hindu,20 to 21,No qualifications,885
+Hindu,22 to 24,No qualifications,2035
+Hindu,25 to 29,No qualifications,4260
+Hindu,30 to 34,No qualifications,6085
+Hindu,35 to 39,No qualifications,8075
+Hindu,40 to 44,No qualifications,9135
+Hindu,45 to 49,No qualifications,9390
+Hindu,50 to 54,No qualifications,9145
+Hindu,55 to 59,No qualifications,10270
+Hindu,60 to 64,No qualifications,13255
+Hindu,65+,No qualifications,46670
+Jewish,16 to 19,No qualifications,2335
+Jewish,20 to 21,No qualifications,500
+Jewish,22 to 24,No qualifications,735
+Jewish,25 to 29,No qualifications,1265
+Jewish,30 to 34,No qualifications,1340
+Jewish,35 to 39,No qualifications,1175
+Jewish,40 to 44,No qualifications,1045
+Jewish,45 to 49,No qualifications,1055
+Jewish,50 to 54,No qualifications,1230
+Jewish,55 to 59,No qualifications,1300
+Jewish,60 to 64,No qualifications,1510
+Jewish,65+,No qualifications,16195
+Muslim,16 to 19,No qualifications,43335
+Muslim,20 to 21,No qualifications,8245
+Muslim,22 to 24,No qualifications,15335
+Muslim,25 to 29,No qualifications,37190
+Muslim,30 to 34,No qualifications,59610
+Muslim,35 to 39,No qualifications,73920
+Muslim,40 to 44,No qualifications,81155
+Muslim,45 to 49,No qualifications,78405
+Muslim,50 to 54,No qualifications,69025
+Muslim,55 to 59,No qualifications,50980
+Muslim,60 to 64,No qualifications,46745
+Muslim,65+,No qualifications,110990
+No religion,16 to 19,No qualifications,221120
+No religion,20 to 21,No qualifications,41205
+No religion,22 to 24,No qualifications,62410
+No religion,25 to 29,No qualifications,124900
+No religion,30 to 34,No qualifications,164155
+No religion,35 to 39,No qualifications,154720
+No religion,40 to 44,No qualifications,142420
+No religion,45 to 49,No qualifications,168420
+No religion,50 to 54,No qualifications,221015
+No religion,55 to 59,No qualifications,233365
+No religion,60 to 64,No qualifications,202255
+No religion,65+,No qualifications,636945
+Sikh,16 to 19,No qualifications,3230
+Sikh,20 to 21,No qualifications,590
+Sikh,22 to 24,No qualifications,1050
+Sikh,25 to 29,No qualifications,2575
+Sikh,30 to 34,No qualifications,5335
+Sikh,35 to 39,No qualifications,6505
+Sikh,40 to 44,No qualifications,7165
+Sikh,45 to 49,No qualifications,7290
+Sikh,50 to 54,No qualifications,6970
+Sikh,55 to 59,No qualifications,7565
+Sikh,60 to 64,No qualifications,9390
+Sikh,65+,No qualifications,35910
+Other religion,16 to 19,No qualifications,1580
+Other religion,20 to 21,No qualifications,385
+Other religion,22 to 24,No qualifications,575
+Other religion,25 to 29,No qualifications,1485
+Other religion,30 to 34,No qualifications,2230
+Other religion,35 to 39,No qualifications,2685
+Other religion,40 to 44,No qualifications,3265
+Other religion,45 to 49,No qualifications,3770
+Other religion,50 to 54,No qualifications,3930
+Other religion,55 to 59,No qualifications,4125
+Other religion,60 to 64,No qualifications,3480
+Other religion,65+,No qualifications,11860
+Not answered,16 to 19,No qualifications,31000
+Not answered,20 to 21,No qualifications,6455
+Not answered,22 to 24,No qualifications,10000
+Not answered,25 to 29,No qualifications,19765
+Not answered,30 to 34,No qualifications,25040
+Not answered,35 to 39,No qualifications,23430
+Not answered,40 to 44,No qualifications,23155
+Not answered,45 to 49,No qualifications,26400
+Not answered,50 to 54,No qualifications,35360
+Not answered,55 to 59,No qualifications,42090
+Not answered,60 to 64,No qualifications,43725
+Not answered,65+,No qualifications,250390
+Buddhist,16 to 19,Level 1,790
+Buddhist,20 to 21,Level 1,345
+Buddhist,22 to 24,Level 1,495
+Buddhist,25 to 29,Level 1,915
+Buddhist,30 to 34,Level 1,1445
+Buddhist,35 to 39,Level 1,1985
+Buddhist,40 to 44,Level 1,2525
+Buddhist,45 to 49,Level 1,2595
+Buddhist,50 to 54,Level 1,2645
+Buddhist,55 to 59,Level 1,2115
+Buddhist,60 to 64,Level 1,1365
+Buddhist,65+,Level 1,2450
+Christian,16 to 19,Level 1,101900
+Christian,20 to 21,Level 1,34180
+Christian,22 to 24,Level 1,45345
+Christian,25 to 29,Level 1,75615
+Christian,30 to 34,Level 1,96350
+Christian,35 to 39,Level 1,108070
+Christian,40 to 44,Level 1,113580
+Christian,45 to 49,Level 1,165485
+Christian,50 to 54,Level 1,273165
+Christian,55 to 59,Level 1,320455
+Christian,60 to 64,Level 1,280440
+Christian,65+,Level 1,745045
+Hindu,16 to 19,Level 1,2175
+Hindu,20 to 21,Level 1,815
+Hindu,22 to 24,Level 1,1220
+Hindu,25 to 29,Level 1,2395
+Hindu,30 to 34,Level 1,3850
+Hindu,35 to 39,Level 1,5195
+Hindu,40 to 44,Level 1,5670
+Hindu,45 to 49,Level 1,5730
+Hindu,50 to 54,Level 1,6100
+Hindu,55 to 59,Level 1,6360
+Hindu,60 to 64,Level 1,6470
+Hindu,65+,Level 1,11495
+Jewish,16 to 19,Level 1,1015
+Jewish,20 to 21,Level 1,300
+Jewish,22 to 24,Level 1,360
+Jewish,25 to 29,Level 1,590
+Jewish,30 to 34,Level 1,565
+Jewish,35 to 39,Level 1,605
+Jewish,40 to 44,Level 1,655
+Jewish,45 to 49,Level 1,880
+Jewish,50 to 54,Level 1,1315
+Jewish,55 to 59,Level 1,1340
+Jewish,60 to 64,Level 1,1370
+Jewish,65+,Level 1,5585
+Muslim,16 to 19,Level 1,27265
+Muslim,20 to 21,Level 1,9205
+Muslim,22 to 24,Level 1,11645
+Muslim,25 to 29,Level 1,22080
+Muslim,30 to 34,Level 1,33240
+Muslim,35 to 39,Level 1,39080
+Muslim,40 to 44,Level 1,37625
+Muslim,45 to 49,Level 1,32080
+Muslim,50 to 54,Level 1,25420
+Muslim,55 to 59,Level 1,14825
+Muslim,60 to 64,Level 1,10880
+Muslim,65+,Level 1,13840
+No religion,16 to 19,Level 1,154985
+No religion,20 to 21,Level 1,59765
+No religion,22 to 24,Level 1,80490
+No religion,25 to 29,Level 1,133785
+No religion,30 to 34,Level 1,161535
+No religion,35 to 39,Level 1,148395
+No religion,40 to 44,Level 1,130240
+No religion,45 to 49,Level 1,162215
+No religion,50 to 54,Level 1,197430
+No religion,55 to 59,Level 1,157845
+No religion,60 to 64,Level 1,95680
+No religion,65+,Level 1,144265
+Sikh,16 to 19,Level 1,1625
+Sikh,20 to 21,Level 1,665
+Sikh,22 to 24,Level 1,905
+Sikh,25 to 29,Level 1,1765
+Sikh,30 to 34,Level 1,3425
+Sikh,35 to 39,Level 1,4430
+Sikh,40 to 44,Level 1,4450
+Sikh,45 to 49,Level 1,4445
+Sikh,50 to 54,Level 1,5065
+Sikh,55 to 59,Level 1,4330
+Sikh,60 to 64,Level 1,3990
+Sikh,65+,Level 1,6300
+Other religion,16 to 19,Level 1,1105
+Other religion,20 to 21,Level 1,495
+Other religion,22 to 24,Level 1,755
+Other religion,25 to 29,Level 1,1435
+Other religion,30 to 34,Level 1,2025
+Other religion,35 to 39,Level 1,2250
+Other religion,40 to 44,Level 1,2140
+Other religion,45 to 49,Level 1,2655
+Other religion,50 to 54,Level 1,3175
+Other religion,55 to 59,Level 1,2925
+Other religion,60 to 64,Level 1,2175
+Other religion,65+,Level 1,3580
+Not answered,16 to 19,Level 1,18405
+Not answered,20 to 21,Level 1,7215
+Not answered,22 to 24,Level 1,9360
+Not answered,25 to 29,Level 1,15190
+Not answered,30 to 34,Level 1,18430
+Not answered,35 to 39,Level 1,17560
+Not answered,40 to 44,Level 1,16455
+Not answered,45 to 49,Level 1,21215
+Not answered,50 to 54,Level 1,30255
+Not answered,55 to 59,Level 1,30600
+Not answered,60 to 64,Level 1,23080
+Not answered,65+,Level 1,50160
+Buddhist,16 to 19,Level 2,3105
+Buddhist,20 to 21,Level 2,680
+Buddhist,22 to 24,Level 2,815
+Buddhist,25 to 29,Level 2,1265
+Buddhist,30 to 34,Level 2,1645
+Buddhist,35 to 39,Level 2,2070
+Buddhist,40 to 44,Level 2,2175
+Buddhist,45 to 49,Level 2,2300
+Buddhist,50 to 54,Level 2,2255
+Buddhist,55 to 59,Level 2,1780
+Buddhist,60 to 64,Level 2,1260
+Buddhist,65+,Level 2,2150
+Christian,16 to 19,Level 2,385200
+Christian,20 to 21,Level 2,55915
+Christian,22 to 24,Level 2,70000
+Christian,25 to 29,Level 2,112890
+Christian,30 to 34,Level 2,140440
+Christian,35 to 39,Level 2,163135
+Christian,40 to 44,Level 2,175895
+Christian,45 to 49,Level 2,225025
+Christian,50 to 54,Level 2,338465
+Christian,55 to 59,Level 2,370710
+Christian,60 to 64,Level 2,301405
+Christian,65+,Level 2,691530
+Hindu,16 to 19,Level 2,17255
+Hindu,20 to 21,Level 2,1360
+Hindu,22 to 24,Level 2,1440
+Hindu,25 to 29,Level 2,2460
+Hindu,30 to 34,Level 2,3710
+Hindu,35 to 39,Level 2,4935
+Hindu,40 to 44,Level 2,5360
+Hindu,45 to 49,Level 2,5120
+Hindu,50 to 54,Level 2,5605
+Hindu,55 to 59,Level 2,5275
+Hindu,60 to 64,Level 2,4710
+Hindu,65+,Level 2,7350
+Jewish,16 to 19,Level 2,4840
+Jewish,20 to 21,Level 2,525
+Jewish,22 to 24,Level 2,765
+Jewish,25 to 29,Level 2,1110
+Jewish,30 to 34,Level 2,1160
+Jewish,35 to 39,Level 2,1170
+Jewish,40 to 44,Level 2,1215
+Jewish,45 to 49,Level 2,1375
+Jewish,50 to 54,Level 2,1830
+Jewish,55 to 59,Level 2,2040
+Jewish,60 to 64,Level 2,1845
+Jewish,65+,Level 2,6480
+Muslim,16 to 19,Level 2,108955
+Muslim,20 to 21,Level 2,15555
+Muslim,22 to 24,Level 2,17335
+Muslim,25 to 29,Level 2,24505
+Muslim,30 to 34,Level 2,28580
+Muslim,35 to 39,Level 2,30560
+Muslim,40 to 44,Level 2,28370
+Muslim,45 to 49,Level 2,22290
+Muslim,50 to 54,Level 2,15820
+Muslim,55 to 59,Level 2,8785
+Muslim,60 to 64,Level 2,5650
+Muslim,65+,Level 2,6400
+No religion,16 to 19,Level 2,474475
+No religion,20 to 21,Level 2,99350
+No religion,22 to 24,Level 2,146495
+No religion,25 to 29,Level 2,256295
+No religion,30 to 34,Level 2,270360
+No religion,35 to 39,Level 2,245115
+No religion,40 to 44,Level 2,213100
+No religion,45 to 49,Level 2,211995
+No religion,50 to 54,Level 2,232010
+No religion,55 to 59,Level 2,178920
+No religion,60 to 64,Level 2,106380
+No religion,65+,Level 2,146645
+Sikh,16 to 19,Level 2,10545
+Sikh,20 to 21,Level 2,1170
+Sikh,22 to 24,Level 2,1340
+Sikh,25 to 29,Level 2,2330
+Sikh,30 to 34,Level 2,3435
+Sikh,35 to 39,Level 2,4190
+Sikh,40 to 44,Level 2,4330
+Sikh,45 to 49,Level 2,4205
+Sikh,50 to 54,Level 2,4550
+Sikh,55 to 59,Level 2,3405
+Sikh,60 to 64,Level 2,2485
+Sikh,65+,Level 2,2820
+Other religion,16 to 19,Level 2,4940
+Other religion,20 to 21,Level 2,1170
+Other religion,22 to 24,Level 2,1830
+Other religion,25 to 29,Level 2,2870
+Other religion,30 to 34,Level 2,3435
+Other religion,35 to 39,Level 2,3495
+Other religion,40 to 44,Level 2,3500
+Other religion,45 to 49,Level 2,3765
+Other religion,50 to 54,Level 2,4470
+Other religion,55 to 59,Level 2,3675
+Other religion,60 to 64,Level 2,2705
+Other religion,65+,Level 2,3715
+Not answered,16 to 19,Level 2,69025
+Not answered,20 to 21,Level 2,14220
+Not answered,22 to 24,Level 2,16520
+Not answered,25 to 29,Level 2,26745
+Not answered,30 to 34,Level 2,28290
+Not answered,35 to 39,Level 2,27210
+Not answered,40 to 44,Level 2,24430
+Not answered,45 to 49,Level 2,26950
+Not answered,50 to 54,Level 2,34240
+Not answered,55 to 59,Level 2,33495
+Not answered,60 to 64,Level 2,23820
+Not answered,65+,Level 2,49190
+Buddhist,16 to 19,Apprenticeship,185
+Buddhist,20 to 21,Apprenticeship,265
+Buddhist,22 to 24,Apprenticeship,380
+Buddhist,25 to 29,Apprenticeship,615
+Buddhist,30 to 34,Apprenticeship,725
+Buddhist,35 to 39,Apprenticeship,760
+Buddhist,40 to 44,Apprenticeship,855
+Buddhist,45 to 49,Apprenticeship,905
+Buddhist,50 to 54,Apprenticeship,960
+Buddhist,55 to 59,Apprenticeship,725
+Buddhist,60 to 64,Apprenticeship,570
+Buddhist,65+,Apprenticeship,1475
+Christian,16 to 19,Apprenticeship,25065
+Christian,20 to 21,Apprenticeship,22960
+Christian,22 to 24,Apprenticeship,33760
+Christian,25 to 29,Apprenticeship,52175
+Christian,30 to 34,Apprenticeship,57835
+Christian,35 to 39,Apprenticeship,59530
+Christian,40 to 44,Apprenticeship,55515
+Christian,45 to 49,Apprenticeship,71210
+Christian,50 to 54,Apprenticeship,96715
+Christian,55 to 59,Apprenticeship,121715
+Christian,60 to 64,Apprenticeship,148250
+Christian,65+,Apprenticeship,786845
+Hindu,16 to 19,Apprenticeship,515
+Hindu,20 to 21,Apprenticeship,520
+Hindu,22 to 24,Apprenticeship,770
+Hindu,25 to 29,Apprenticeship,1120
+Hindu,30 to 34,Apprenticeship,1265
+Hindu,35 to 39,Apprenticeship,1465
+Hindu,40 to 44,Apprenticeship,1455
+Hindu,45 to 49,Apprenticeship,1145
+Hindu,50 to 54,Apprenticeship,805
+Hindu,55 to 59,Apprenticeship,930
+Hindu,60 to 64,Apprenticeship,1170
+Hindu,65+,Apprenticeship,2790
+Jewish,16 to 19,Apprenticeship,105
+Jewish,20 to 21,Apprenticeship,85
+Jewish,22 to 24,Apprenticeship,130
+Jewish,25 to 29,Apprenticeship,190
+Jewish,30 to 34,Apprenticeship,180
+Jewish,35 to 39,Apprenticeship,185
+Jewish,40 to 44,Apprenticeship,160
+Jewish,45 to 49,Apprenticeship,200
+Jewish,50 to 54,Apprenticeship,285
+Jewish,55 to 59,Apprenticeship,320
+Jewish,60 to 64,Apprenticeship,380
+Jewish,65+,Apprenticeship,3290
+Muslim,16 to 19,Apprenticeship,4605
+Muslim,20 to 21,Apprenticeship,3185
+Muslim,22 to 24,Apprenticeship,4355
+Muslim,25 to 29,Apprenticeship,7385
+Muslim,30 to 34,Apprenticeship,8030
+Muslim,35 to 39,Apprenticeship,8260
+Muslim,40 to 44,Apprenticeship,7315
+Muslim,45 to 49,Apprenticeship,5220
+Muslim,50 to 54,Apprenticeship,3810
+Muslim,55 to 59,Apprenticeship,2395
+Muslim,60 to 64,Apprenticeship,1925
+Muslim,65+,Apprenticeship,3515
+No religion,16 to 19,Apprenticeship,30180
+No religion,20 to 21,Apprenticeship,34095
+No religion,22 to 24,Apprenticeship,56630
+No religion,25 to 29,Apprenticeship,87265
+No religion,30 to 34,Apprenticeship,75925
+No religion,35 to 39,Apprenticeship,57525
+No religion,40 to 44,Apprenticeship,45040
+No religion,45 to 49,Apprenticeship,57710
+No religion,50 to 54,Apprenticeship,66360
+No religion,55 to 59,Apprenticeship,64930
+No religion,60 to 64,Apprenticeship,59885
+No religion,65+,Apprenticeship,168155
+Sikh,16 to 19,Apprenticeship,290
+Sikh,20 to 21,Apprenticeship,295
+Sikh,22 to 24,Apprenticeship,495
+Sikh,25 to 29,Apprenticeship,780
+Sikh,30 to 34,Apprenticeship,1070
+Sikh,35 to 39,Apprenticeship,1085
+Sikh,40 to 44,Apprenticeship,910
+Sikh,45 to 49,Apprenticeship,720
+Sikh,50 to 54,Apprenticeship,715
+Sikh,55 to 59,Apprenticeship,660
+Sikh,60 to 64,Apprenticeship,855
+Sikh,65+,Apprenticeship,2005
+Other religion,16 to 19,Apprenticeship,225
+Other religion,20 to 21,Apprenticeship,265
+Other religion,22 to 24,Apprenticeship,560
+Other religion,25 to 29,Apprenticeship,920
+Other religion,30 to 34,Apprenticeship,935
+Other religion,35 to 39,Apprenticeship,895
+Other religion,40 to 44,Apprenticeship,745
+Other religion,45 to 49,Apprenticeship,955
+Other religion,50 to 54,Apprenticeship,1120
+Other religion,55 to 59,Apprenticeship,1050
+Other religion,60 to 64,Apprenticeship,930
+Other religion,65+,Apprenticeship,2170
+Not answered,16 to 19,Apprenticeship,3760
+Not answered,20 to 21,Apprenticeship,3810
+Not answered,22 to 24,Apprenticeship,6100
+Not answered,25 to 29,Apprenticeship,9660
+Not answered,30 to 34,Apprenticeship,9365
+Not answered,35 to 39,Apprenticeship,7640
+Not answered,40 to 44,Apprenticeship,6570
+Not answered,45 to 49,Apprenticeship,8125
+Not answered,50 to 54,Apprenticeship,10150
+Not answered,55 to 59,Apprenticeship,12070
+Not answered,60 to 64,Apprenticeship,12670
+Not answered,65+,Apprenticeship,56540
+Buddhist,16 to 19,Level 3,2495
+Buddhist,20 to 21,Level 3,2895
+Buddhist,22 to 24,Level 3,2380
+Buddhist,25 to 29,Level 3,2465
+Buddhist,30 to 34,Level 3,2695
+Buddhist,35 to 39,Level 3,2720
+Buddhist,40 to 44,Level 3,3100
+Buddhist,45 to 49,Level 3,3280
+Buddhist,50 to 54,Level 3,3105
+Buddhist,55 to 59,Level 3,2660
+Buddhist,60 to 64,Level 3,1710
+Buddhist,65+,Level 3,2810
+Christian,16 to 19,Level 3,196250
+Christian,20 to 21,Level 3,200260
+Christian,22 to 24,Level 3,173180
+Christian,25 to 29,Level 3,227030
+Christian,30 to 34,Level 3,239475
+Christian,35 to 39,Level 3,256635
+Christian,40 to 44,Level 3,278490
+Christian,45 to 49,Level 3,305470
+Christian,50 to 54,Level 3,363245
+Christian,55 to 59,Level 3,376620
+Christian,60 to 64,Level 3,320350
+Christian,65+,Level 3,642850
+Hindu,16 to 19,Level 3,12110
+Hindu,20 to 21,Level 3,11070
+Hindu,22 to 24,Level 3,5790
+Hindu,25 to 29,Level 3,5330
+Hindu,30 to 34,Level 3,6250
+Hindu,35 to 39,Level 3,6790
+Hindu,40 to 44,Level 3,7275
+Hindu,45 to 49,Level 3,6590
+Hindu,50 to 54,Level 3,6640
+Hindu,55 to 59,Level 3,6110
+Hindu,60 to 64,Level 3,4620
+Hindu,65+,Level 3,6555
+Jewish,16 to 19,Level 3,2975
+Jewish,20 to 21,Level 3,3215
+Jewish,22 to 24,Level 3,1915
+Jewish,25 to 29,Level 3,2040
+Jewish,30 to 34,Level 3,1875
+Jewish,35 to 39,Level 3,1630
+Jewish,40 to 44,Level 3,1790
+Jewish,45 to 49,Level 3,1860
+Jewish,50 to 54,Level 3,1970
+Jewish,55 to 59,Level 3,2120
+Jewish,60 to 64,Level 3,1990
+Jewish,65+,Level 3,5265
+Muslim,16 to 19,Level 3,70210
+Muslim,20 to 21,Level 3,59555
+Muslim,22 to 24,Level 3,42535
+Muslim,25 to 29,Level 3,41685
+Muslim,30 to 34,Level 3,34735
+Muslim,35 to 39,Level 3,31810
+Muslim,40 to 44,Level 3,29735
+Muslim,45 to 49,Level 3,22375
+Muslim,50 to 54,Level 3,16235
+Muslim,55 to 59,Level 3,9110
+Muslim,60 to 64,Level 3,5775
+Muslim,65+,Level 3,7110
+No religion,16 to 19,Level 3,291660
+No religion,20 to 21,Level 3,349135
+No religion,22 to 24,Level 3,325060
+No religion,25 to 29,Level 3,481160
+No religion,30 to 34,Level 3,418005
+No religion,35 to 39,Level 3,341555
+No religion,40 to 44,Level 3,295675
+No religion,45 to 49,Level 3,266260
+No religion,50 to 54,Level 3,236725
+No religion,55 to 59,Level 3,186490
+No religion,60 to 64,Level 3,123590
+No religion,65+,Level 3,170900
+Sikh,16 to 19,Level 3,7140
+Sikh,20 to 21,Level 3,6800
+Sikh,22 to 24,Level 3,4320
+Sikh,25 to 29,Level 3,4760
+Sikh,30 to 34,Level 3,5020
+Sikh,35 to 39,Level 3,4890
+Sikh,40 to 44,Level 3,5155
+Sikh,45 to 49,Level 3,4695
+Sikh,50 to 54,Level 3,4440
+Sikh,55 to 59,Level 3,3120
+Sikh,60 to 64,Level 3,2165
+Sikh,65+,Level 3,2675
+Other religion,16 to 19,Level 3,3935
+Other religion,20 to 21,Level 3,4910
+Other religion,22 to 24,Level 3,4455
+Other religion,25 to 29,Level 3,6050
+Other religion,30 to 34,Level 3,5855
+Other religion,35 to 39,Level 3,5330
+Other religion,40 to 44,Level 3,5400
+Other religion,45 to 49,Level 3,5690
+Other religion,50 to 54,Level 3,5500
+Other religion,55 to 59,Level 3,4630
+Other religion,60 to 64,Level 3,3305
+Other religion,65+,Level 3,3925
+Not answered,16 to 19,Level 3,68040
+Not answered,20 to 21,Level 3,68220
+Not answered,22 to 24,Level 3,47220
+Not answered,25 to 29,Level 3,51305
+Not answered,30 to 34,Level 3,45140
+Not answered,35 to 39,Level 3,38150
+Not answered,40 to 44,Level 3,34630
+Not answered,45 to 49,Level 3,34020
+Not answered,50 to 54,Level 3,35725
+Not answered,55 to 59,Level 3,34135
+Not answered,60 to 64,Level 3,25390
+Not answered,65+,Level 3,46440
+Buddhist,16 to 19,Level 4+,435
+Buddhist,20 to 21,Level 4+,1315
+Buddhist,22 to 24,Level 4+,4880
+Buddhist,25 to 29,Level 4+,10360
+Buddhist,30 to 34,Level 4+,11610
+Buddhist,35 to 39,Level 4+,13775
+Buddhist,40 to 44,Level 4+,14400
+Buddhist,45 to 49,Level 4+,13445
+Buddhist,50 to 54,Level 4+,11315
+Buddhist,55 to 59,Level 4+,9385
+Buddhist,60 to 64,Level 4+,6915
+Buddhist,65+,Level 4+,14455
+Christian,16 to 19,Level 4+,32420
+Christian,20 to 21,Level 4+,64840
+Christian,22 to 24,Level 4+,276775
+Christian,25 to 29,Level 4+,557115
+Christian,30 to 34,Level 4+,649545
+Christian,35 to 39,Level 4+,704705
+Christian,40 to 44,Level 4+,733410
+Christian,45 to 49,Level 4+,725885
+Christian,50 to 54,Level 4+,716185
+Christian,55 to 59,Level 4+,713645
+Christian,60 to 64,Level 4+,616650
+Christian,65+,Level 4+,1674700
+Hindu,16 to 19,Level 4+,1625
+Hindu,20 to 21,Level 4+,4470
+Hindu,22 to 24,Level 4+,24905
+Hindu,25 to 29,Level 4+,49650
+Hindu,30 to 34,Level 4+,70425
+Hindu,35 to 39,Level 4+,85840
+Hindu,40 to 44,Level 4+,72460
+Hindu,45 to 49,Level 4+,44335
+Hindu,50 to 54,Level 4+,27390
+Hindu,55 to 59,Level 4+,19115
+Hindu,60 to 64,Level 4+,15465
+Hindu,65+,Level 4+,35655
+Jewish,16 to 19,Level 4+,470
+Jewish,20 to 21,Level 4+,910
+Jewish,22 to 24,Level 4+,4715
+Jewish,25 to 29,Level 4+,9580
+Jewish,30 to 34,Level 4+,10035
+Jewish,35 to 39,Level 4+,10365
+Jewish,40 to 44,Level 4+,10425
+Jewish,45 to 49,Level 4+,9810
+Jewish,50 to 54,Level 4+,8525
+Jewish,55 to 59,Level 4+,8245
+Jewish,60 to 64,Level 4+,7720
+Jewish,65+,Level 4+,24395
+Muslim,16 to 19,Level 4+,15025
+Muslim,20 to 21,Level 4+,24935
+Muslim,22 to 24,Level 4+,79190
+Muslim,25 to 29,Level 4+,140950
+Muslim,30 to 34,Level 4+,139925
+Muslim,35 to 39,Level 4+,134020
+Muslim,40 to 44,Level 4+,111980
+Muslim,45 to 49,Level 4+,76540
+Muslim,50 to 54,Level 4+,51940
+Muslim,55 to 59,Level 4+,30670
+Muslim,60 to 64,Level 4+,21270
+Muslim,65+,Level 4+,35485
+No religion,16 to 19,Level 4+,35755
+No religion,20 to 21,Level 4+,92445
+No religion,22 to 24,Level 4+,450920
+No religion,25 to 29,Level 4+,950320
+No religion,30 to 34,Level 4+,904590
+No religion,35 to 39,Level 4+,751090
+No religion,40 to 44,Level 4+,644375
+No religion,45 to 49,Level 4+,569115
+No religion,50 to 54,Level 4+,479405
+No religion,55 to 59,Level 4+,405005
+No religion,60 to 64,Level 4+,297190
+No religion,65+,Level 4+,604030
+Sikh,16 to 19,Level 4+,970
+Sikh,20 to 21,Level 4+,2385
+Sikh,22 to 24,Level 4+,10550
+Sikh,25 to 29,Level 4+,20685
+Sikh,30 to 34,Level 4+,23235
+Sikh,35 to 39,Level 4+,24600
+Sikh,40 to 44,Level 4+,21805
+Sikh,45 to 49,Level 4+,15295
+Sikh,50 to 54,Level 4+,11090
+Sikh,55 to 59,Level 4+,7035
+Sikh,60 to 64,Level 4+,5265
+Sikh,65+,Level 4+,10085
+Other religion,16 to 19,Level 4+,610
+Other religion,20 to 21,Level 4+,1490
+Other religion,22 to 24,Level 4+,6820
+Other religion,25 to 29,Level 4+,14290
+Other religion,30 to 34,Level 4+,16290
+Other religion,35 to 39,Level 4+,16445
+Other religion,40 to 44,Level 4+,15535
+Other religion,45 to 49,Level 4+,14595
+Other religion,50 to 54,Level 4+,13565
+Other religion,55 to 59,Level 4+,11475
+Other religion,60 to 64,Level 4+,8780
+Other religion,65+,Level 4+,14000
+Not answered,16 to 19,Level 4+,8350
+Not answered,20 to 21,Level 4+,18685
+Not answered,22 to 24,Level 4+,62275
+Not answered,25 to 29,Level 4+,119985
+Not answered,30 to 34,Level 4+,119670
+Not answered,35 to 39,Level 4+,105995
+Not answered,40 to 44,Level 4+,91490
+Not answered,45 to 49,Level 4+,81400
+Not answered,50 to 54,Level 4+,74845
+Not answered,55 to 59,Level 4+,70120
+Not answered,60 to 64,Level 4+,55580
+Not answered,65+,Level 4+,137065
+Buddhist,16 to 19,Other,240
+Buddhist,20 to 21,Other,155
+Buddhist,22 to 24,Other,240
+Buddhist,25 to 29,Other,405
+Buddhist,30 to 34,Other,715
+Buddhist,35 to 39,Other,965
+Buddhist,40 to 44,Other,1135
+Buddhist,45 to 49,Other,1210
+Buddhist,50 to 54,Other,1125
+Buddhist,55 to 59,Other,865
+Buddhist,60 to 64,Other,580
+Buddhist,65+,Other,1220
+Christian,16 to 19,Other,13235
+Christian,20 to 21,Other,6485
+Christian,22 to 24,Other,10340
+Christian,25 to 29,Other,24775
+Christian,30 to 34,Other,33260
+Christian,35 to 39,Other,35245
+Christian,40 to 44,Other,33835
+Christian,45 to 49,Other,35000
+Christian,50 to 54,Other,50700
+Christian,55 to 59,Other,56610
+Christian,60 to 64,Other,61035
+Christian,65+,Other,415265
+Hindu,16 to 19,Other,935
+Hindu,20 to 21,Other,450
+Hindu,22 to 24,Other,855
+Hindu,25 to 29,Other,1685
+Hindu,30 to 34,Other,2640
+Hindu,35 to 39,Other,2850
+Hindu,40 to 44,Other,2645
+Hindu,45 to 49,Other,2225
+Hindu,50 to 54,Other,1935
+Hindu,55 to 59,Other,1935
+Hindu,60 to 64,Other,1965
+Hindu,65+,Other,6085
+Jewish,16 to 19,Other,210
+Jewish,20 to 21,Other,115
+Jewish,22 to 24,Other,165
+Jewish,25 to 29,Other,235
+Jewish,30 to 34,Other,270
+Jewish,35 to 39,Other,275
+Jewish,40 to 44,Other,230
+Jewish,45 to 49,Other,235
+Jewish,50 to 54,Other,300
+Jewish,55 to 59,Other,305
+Jewish,60 to 64,Other,310
+Jewish,65+,Other,2980
+Muslim,16 to 19,Other,5525
+Muslim,20 to 21,Other,2125
+Muslim,22 to 24,Other,3620
+Muslim,25 to 29,Other,8780
+Muslim,30 to 34,Other,13235
+Muslim,35 to 39,Other,14485
+Muslim,40 to 44,Other,14540
+Muslim,45 to 49,Other,13020
+Muslim,50 to 54,Other,10575
+Muslim,55 to 59,Other,6920
+Muslim,60 to 64,Other,5020
+Muslim,65+,Other,9170
+No religion,16 to 19,Other,16610
+No religion,20 to 21,Other,8740
+No religion,22 to 24,Other,12285
+No religion,25 to 29,Other,21620
+No religion,30 to 34,Other,24480
+No religion,35 to 39,Other,21585
+No religion,40 to 44,Other,19270
+No religion,45 to 49,Other,22105
+No religion,50 to 54,Other,33510
+No religion,55 to 59,Other,28960
+No religion,60 to 64,Other,22440
+No religion,65+,Other,69190
+Sikh,16 to 19,Other,515
+Sikh,20 to 21,Other,250
+Sikh,22 to 24,Other,420
+Sikh,25 to 29,Other,970
+Sikh,30 to 34,Other,1960
+Sikh,35 to 39,Other,2175
+Sikh,40 to 44,Other,2125
+Sikh,45 to 49,Other,1740
+Sikh,50 to 54,Other,1600
+Sikh,55 to 59,Other,1520
+Sikh,60 to 64,Other,1520
+Sikh,65+,Other,4180
+Other religion,16 to 19,Other,215
+Other religion,20 to 21,Other,120
+Other religion,22 to 24,Other,195
+Other religion,25 to 29,Other,465
+Other religion,30 to 34,Other,560
+Other religion,35 to 39,Other,630
+Other religion,40 to 44,Other,605
+Other religion,45 to 49,Other,750
+Other religion,50 to 54,Other,860
+Other religion,55 to 59,Other,745
+Other religion,60 to 64,Other,620
+Other religion,65+,Other,1830
+Not answered,16 to 19,Other,3205
+Not answered,20 to 21,Other,2050
+Not answered,22 to 24,Other,2515
+Not answered,25 to 29,Other,4715
+Not answered,30 to 34,Other,5670
+Not answered,35 to 39,Other,5115
+Not answered,40 to 44,Other,4775
+Not answered,45 to 49,Other,4925
+Not answered,50 to 54,Other,6840
+Not answered,55 to 59,Other,6820
+Not answered,60 to 64,Other,6015
+Not answered,65+,Other,33585
