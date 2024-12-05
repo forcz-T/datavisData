@@ -1,10 +1,64 @@
-﻿Group,No qualifications,Level 1,Level 2,Apprenticeship,Level 3,Level 4+,Other
-England and Wales,18.2,9.6,13.4,5.3,16.9,33.8,2.8
-Buddhist,17.3,8.0,8.8,3.4,13.2,45.7,3.6
-Christian,20.8,10.0,12.8,6.5,15.1,31.6,3.3
-Hindu,15.1,7.0,7.8,1.7,10.3,54.8,3.2
-Jewish,13.9,6.8,11.4,2.6,13.4,49.2,2.6
-Muslim,25.3,10.4,11.7,2.3,13.9,32.3,4.0
-No religion,13.7,9.4,14.9,4.6,20.1,35.6,1.7
-Sikh,22.4,9.9,10.7,2.4,13.2,36.7,4.5
-Other religion,12.5,7.8,12.6,3.4,18.7,42.5,2.4
+Group,Qualification,Percentage
+England and Wales,No qualifications,18.2
+England and Wales,Level 1,9.6
+England and Wales,Level 2,13.4
+England and Wales,Apprenticeship,5.3
+England and Wales,Level 3,16.9
+England and Wales,Level 4+,33.8
+England and Wales,Other,2.8
+Buddhist,No qualifications,17.3
+Buddhist,Level 1,8.0
+Buddhist,Level 2,8.8
+Buddhist,Apprenticeship,3.4
+Buddhist,Level 3,13.2
+Buddhist,Level 4+,45.7
+Buddhist,Other,3.6
+Christian,No qualifications,20.8
+Christian,Level 1,10.0
+Christian,Level 2,12.8
+Christian,Apprenticeship,6.5
+Christian,Level 3,15.1
+Christian,Level 4+,31.6
+Christian,Other,3.3
+Hindu,No qualifications,15.1
+Hindu,Level 1,7.0
+Hindu,Level 2,7.8
+Hindu,Apprenticeship,1.7
+Hindu,Level 3,10.3
+Hindu,Level 4+,54.8
+Hindu,Other,3.2
+Jewish,No qualifications,13.9
+Jewish,Level 1,6.8
+Jewish,Level 2,11.4
+Jewish,Apprenticeship,2.6
+Jewish,Level 3,13.4
+Jewish,Level 4+,49.2
+Jewish,Other,2.6
+Muslim,No qualifications,25.3
+Muslim,Level 1,10.4
+Muslim,Level 2,11.7
+Muslim,Apprenticeship,2.3
+Muslim,Level 3,13.9
+Muslim,Level 4+,32.3
+Muslim,Other,4.0
+No religion,No qualifications,13.7
+No religion,Level 1,9.4
+No religion,Level 2,14.9
+No religion,Apprenticeship,4.6
+No religion,Level 3,20.1
+No religion,Level 4+,35.6
+No religion,Other,1.7
+Sikh,No qualifications,22.4
+Sikh,Level 1,9.9
+Sikh,Level 2,10.7
+Sikh,Apprenticeship,2.4
+Sikh,Level 3,13.2
+Sikh,Level 4+,36.7
+Sikh,Other,4.5
+Other religion,No qualifications,12.5
+Other religion,Level 1,7.8
+Other religion,Level 2,12.6
+Other religion,Apprenticeship,3.4
+Other religion,Level 3,18.7
+Other religion,Level 4+,42.5
+Other religion,Other,2.4
