@@ -1,19 +1,127 @@
-Religion,Sex,No qualifications,Level 1,Level 2,Apprenticeship,Level 3,Level 4+,Other
-Buddhist,Female,26385,11555,11560,3155,16150,63940,5655
-Buddhist,Male,16070,8125,9935,5265,16165,48345,3195
-Christian,Female,2911735,1400625,1847480,395305,1890935,4196435,468055
-Christian,Male,2001500,959000,1183135,1136270,1688925,3269440,307720
-Hindu,Female,69485,30495,33195,4700,42720,220800,13460
-Hindu,Male,54985,26985,31375,9245,42415,230540,12750
-Jewish,Female,14695,7935,14385,2135,15525,53645,3175
-Jewish,Male,14995,6645,9980,3375,13120,51555,2460
-Muslim,Female,349800,134980,150725,23915,188890,419435,51460
-Muslim,Male,325130,142205,162080,36080,181975,442495,55550
-No religion,Female,1080255,737975,1276880,205460,1626265,3056830,135580
-No religion,Male,1292670,888660,1304250,598235,1859950,3127420,165220
-Sikh,Female,49080,20385,21780,2775,26635,80360,9180
-Sikh,Male,44490,21015,23025,7115,28550,72645,9785
-Other religion,Female,20715,13655,23175,3865,33540,79345,4170
-Other religion,Male,18665,11060,16400,6900,25455,54545,3430
-Not answered,Female,280720,130850,197165,36110,252515,492595,46650
-Not answered,Male,256100,127075,176960,110350,275900,452860,39580
+Religion,Sex,Qualification Level,Count
+Buddhist,Female,No qualifications,26385
+Buddhist,Male,No qualifications,16070
+Christian,Female,No qualifications,2911735
+Christian,Male,No qualifications,2001500
+Hindu,Female,No qualifications,69485
+Hindu,Male,No qualifications,54985
+Jewish,Female,No qualifications,14695
+Jewish,Male,No qualifications,14995
+Muslim,Female,No qualifications,349800
+Muslim,Male,No qualifications,325130
+No religion,Female,No qualifications,1080255
+No religion,Male,No qualifications,1292670
+Sikh,Female,No qualifications,49080
+Sikh,Male,No qualifications,44490
+Other religion,Female,No qualifications,20715
+Other religion,Male,No qualifications,18665
+Not answered,Female,No qualifications,280720
+Not answered,Male,No qualifications,256100
+Buddhist,Female,Level 1,11555
+Buddhist,Male,Level 1,8125
+Christian,Female,Level 1,1400625
+Christian,Male,Level 1,959000
+Hindu,Female,Level 1,30495
+Hindu,Male,Level 1,26985
+Jewish,Female,Level 1,7935
+Jewish,Male,Level 1,6645
+Muslim,Female,Level 1,134980
+Muslim,Male,Level 1,142205
+No religion,Female,Level 1,737975
+No religion,Male,Level 1,888660
+Sikh,Female,Level 1,20385
+Sikh,Male,Level 1,21015
+Other religion,Female,Level 1,13655
+Other religion,Male,Level 1,11060
+Not answered,Female,Level 1,130850
+Not answered,Male,Level 1,127075
+Buddhist,Female,Level 2,11560
+Buddhist,Male,Level 2,9935
+Christian,Female,Level 2,1847480
+Christian,Male,Level 2,1183135
+Hindu,Female,Level 2,33195
+Hindu,Male,Level 2,31375
+Jewish,Female,Level 2,14385
+Jewish,Male,Level 2,9980
+Muslim,Female,Level 2,150725
+Muslim,Male,Level 2,162080
+No religion,Female,Level 2,1276880
+No religion,Male,Level 2,1304250
+Sikh,Female,Level 2,21780
+Sikh,Male,Level 2,23025
+Other religion,Female,Level 2,23175
+Other religion,Male,Level 2,16400
+Not answered,Female,Level 2,197165
+Not answered,Male,Level 2,176960
+Buddhist,Female,Apprenticeship,3155
+Buddhist,Male,Apprenticeship,5265
+Christian,Female,Apprenticeship,395305
+Christian,Male,Apprenticeship,1136270
+Hindu,Female,Apprenticeship,4700
+Hindu,Male,Apprenticeship,9245
+Jewish,Female,Apprenticeship,2135
+Jewish,Male,Apprenticeship,3375
+Muslim,Female,Apprenticeship,23915
+Muslim,Male,Apprenticeship,36080
+No religion,Female,Apprenticeship,205460
+No religion,Male,Apprenticeship,598235
+Sikh,Female,Apprenticeship,2775
+Sikh,Male,Apprenticeship,7115
+Other religion,Female,Apprenticeship,3865
+Other religion,Male,Apprenticeship,6900
+Not answered,Female,Apprenticeship,36110
+Not answered,Male,Apprenticeship,110350
+Buddhist,Female,Level 3,16150
+Buddhist,Male,Level 3,16165
+Christian,Female,Level 3,1890935
+Christian,Male,Level 3,1688925
+Hindu,Female,Level 3,42720
+Hindu,Male,Level 3,42415
+Jewish,Female,Level 3,15525
+Jewish,Male,Level 3,13120
+Muslim,Female,Level 3,188890
+Muslim,Male,Level 3,181975
+No religion,Female,Level 3,1626265
+No religion,Male,Level 3,1859950
+Sikh,Female,Level 3,26635
+Sikh,Male,Level 3,28550
+Other religion,Female,Level 3,33540
+Other religion,Male,Level 3,25455
+Not answered,Female,Level 3,252515
+Not answered,Male,Level 3,275900
+Buddhist,Female,Level 4+,63940
+Buddhist,Male,Level 4+,48345
+Christian,Female,Level 4+,4196435
+Christian,Male,Level 4+,3269440
+Hindu,Female,Level 4+,220800
+Hindu,Male,Level 4+,230540
+Jewish,Female,Level 4+,53645
+Jewish,Male,Level 4+,51555
+Muslim,Female,Level 4+,419435
+Muslim,Male,Level 4+,442495
+No religion,Female,Level 4+,3056830
+No religion,Male,Level 4+,3127420
+Sikh,Female,Level 4+,80360
+Sikh,Male,Level 4+,72645
+Other religion,Female,Level 4+,79345
+Other religion,Male,Level 4+,54545
+Not answered,Female,Level 4+,492595
+Not answered,Male,Level 4+,452860
+Buddhist,Female,Other,5655
+Buddhist,Male,Other,3195
+Christian,Female,Other,468055
+Christian,Male,Other,307720
+Hindu,Female,Other,13460
+Hindu,Male,Other,12750
+Jewish,Female,Other,3175
+Jewish,Male,Other,2460
+Muslim,Female,Other,51460
+Muslim,Male,Other,55550
+No religion,Female,Other,135580
+No religion,Male,Other,165220
+Sikh,Female,Other,9180
+Sikh,Male,Other,9785
+Other religion,Female,Other,4170
+Other religion,Male,Other,3430
+Not answered,Female,Other,46650
+Not answered,Male,Other,39580
