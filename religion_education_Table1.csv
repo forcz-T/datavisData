@@ -1,10 +1,64 @@
-Religion,No qualifications,Level 1,Level 2,Apprenticeship,Level 3,Level 4+,Other
-Buddhist,42455,19680,21495,8420,32320,112290,8850
-Christian,4913235,2359630,3030615,1531575,3579860,7465875,775775
-Hindu,124470,57480,64575,13945,85135,451340,26205
-Jewish,29690,14580,24360,5510,28645,105200,5635
-Muslim,674930,277180,312805,59995,370865,861930,107010
-No religion,2372925,1626635,2581130,803695,3486215,6184245,300795
-Sikh,93570,41400,44805,9890,55185,153005,18965
-Other religion,39380,24715,39580,10765,58990,133895,7600
-Not answered,536815,257925,374125,146460,528415,945455,86230
+Religion,Qualification Level,Count
+Buddhist,No qualifications,42455
+Buddhist,Level 1,19680
+Buddhist,Level 2,21495
+Buddhist,Apprenticeship,8420
+Buddhist,Level 3,32320
+Buddhist,Level 4+,112290
+Buddhist,Other,8850
+Christian,No qualifications,4913235
+Christian,Level 1,2359630
+Christian,Level 2,3030615
+Christian,Apprenticeship,1531575
+Christian,Level 3,3579860
+Christian,Level 4+,7465875
+Christian,Other,775775
+Hindu,No qualifications,124470
+Hindu,Level 1,57480
+Hindu,Level 2,64575
+Hindu,Apprenticeship,13945
+Hindu,Level 3,85135
+Hindu,Level 4+,451340
+Hindu,Other,26205
+Jewish,No qualifications,29690
+Jewish,Level 1,14580
+Jewish,Level 2,24360
+Jewish,Apprenticeship,5510
+Jewish,Level 3,28645
+Jewish,Level 4+,105200
+Jewish,Other,5635
+Muslim,No qualifications,674930
+Muslim,Level 1,277180
+Muslim,Level 2,312805
+Muslim,Apprenticeship,59995
+Muslim,Level 3,370865
+Muslim,Level 4+,861930
+Muslim,Other,107010
+No religion,No qualifications,2372925
+No religion,Level 1,1626635
+No religion,Level 2,2581130
+No religion,Apprenticeship,803695
+No religion,Level 3,3486215
+No religion,Level 4+,6184245
+No religion,Other,300795
+Sikh,No qualifications,93570
+Sikh,Level 1,41400
+Sikh,Level 2,44805
+Sikh,Apprenticeship,9890
+Sikh,Level 3,55185
+Sikh,Level 4+,153005
+Sikh,Other,18965
+Other religion,No qualifications,39380
+Other religion,Level 1,24715
+Other religion,Level 2,39580
+Other religion,Apprenticeship,10765
+Other religion,Level 3,58990
+Other religion,Level 4+,133895
+Other religion,Other,7600
+Not answered,No qualifications,536815
+Not answered,Level 1,257925
+Not answered,Level 2,374125
+Not answered,Apprenticeship,146460
+Not answered,Level 3,528415
+Not answered,Level 4+,945455
+Not answered,Other,86230
