@@ -1,0 +1,2318 @@
+Authority Code,Authorities,Qualification Level,Total
+E06000001,Hartlepool,No qualifications,17286
+E06000001,Hartlepool,Level 1,7076
+E06000001,Hartlepool,Level 2,10963
+E06000001,Hartlepool,Apprenticeship,5205
+E06000001,Hartlepool,Level 3,13776
+E06000001,Hartlepool,Level 4+,18526
+E06000001,Hartlepool,Other,1854
+E06000002,Middlesbrough,No qualifications,27282
+E06000002,Middlesbrough,Level 1,11221
+E06000002,Middlesbrough,Level 2,15270
+E06000002,Middlesbrough,Apprenticeship,7040
+E06000002,Middlesbrough,Level 3,19976
+E06000002,Middlesbrough,Level 4+,30127
+E06000002,Middlesbrough,Other,3023
+E06000003,Redcar and Cleveland,No qualifications,24732
+E06000003,Redcar and Cleveland,Level 1,10983
+E06000003,Redcar and Cleveland,Level 2,15663
+E06000003,Redcar and Cleveland,Apprenticeship,8692
+E06000003,Redcar and Cleveland,Level 3,21300
+E06000003,Redcar and Cleveland,Level 4+,28003
+E06000003,Redcar and Cleveland,Other,2969
+E06000004,Stockton-on-Tees,No qualifications,29441
+E06000004,Stockton-on-Tees,Level 1,15324
+E06000004,Stockton-on-Tees,Level 2,23005
+E06000004,Stockton-on-Tees,Apprenticeship,10565
+E06000004,Stockton-on-Tees,Level 3,29004
+E06000004,Stockton-on-Tees,Level 4+,46648
+E06000004,Stockton-on-Tees,Other,4023
+E06000005,Darlington,No qualifications,16972
+E06000005,Darlington,Level 1,8276
+E06000005,Darlington,Level 2,12733
+E06000005,Darlington,Apprenticeship,6215
+E06000005,Darlington,Level 3,16141
+E06000005,Darlington,Level 4+,25517
+E06000005,Darlington,Other,2253
+E06000006,Halton,No qualifications,21865
+E06000006,Halton,Level 1,12338
+E06000006,Halton,Level 2,17403
+E06000006,Halton,Apprenticeship,5718
+E06000006,Halton,Level 3,19057
+E06000006,Halton,Level 4+,24876
+E06000006,Halton,Other,2691
+E06000007,Warrington,No qualifications,28453
+E06000007,Warrington,Level 1,17238
+E06000007,Warrington,Level 2,25489
+E06000007,Warrington,Apprenticeship,10298
+E06000007,Warrington,Level 3,29830
+E06000007,Warrington,Level 4+,56955
+E06000007,Warrington,Other,4454
+E06000008,Blackburn with Darwen,No qualifications,28923
+E06000008,Blackburn with Darwen,Level 1,12968
+E06000008,Blackburn with Darwen,Level 2,16574
+E06000008,Blackburn with Darwen,Apprenticeship,6550
+E06000008,Blackburn with Darwen,Level 3,18823
+E06000008,Blackburn with Darwen,Level 4+,32054
+E06000008,Blackburn with Darwen,Other,3616
+E06000009,Blackpool,No qualifications,28575
+E06000009,Blackpool,Level 1,13677
+E06000009,Blackpool,Level 2,17470
+E06000009,Blackpool,Apprenticeship,7889
+E06000009,Blackpool,Level 3,19382
+E06000009,Blackpool,Level 4+,26177
+E06000009,Blackpool,Other,3170
+E06000010,Kingston upon Hull,No qualifications,54010
+E06000010,Kingston upon Hull,Level 1,24163
+E06000010,Kingston upon Hull,Level 2,30143
+E06000010,Kingston upon Hull,Apprenticeship,14691
+E06000010,Kingston upon Hull,Level 3,37418
+E06000010,Kingston upon Hull,Level 4+,46511
+E06000010,Kingston upon Hull,Other,6944
+E06000011,East Riding of Yorkshire,No qualifications,52477
+E06000011,East Riding of Yorkshire,Level 1,28930
+E06000011,East Riding of Yorkshire,Level 2,40565
+E06000011,East Riding of Yorkshire,Apprenticeship,20621
+E06000011,East Riding of Yorkshire,Level 3,49602
+E06000011,East Riding of Yorkshire,Level 4+,87851
+E06000011,East Riding of Yorkshire,Other,8094
+E06000012,North East Lincolnshire,No qualifications,30907
+E06000012,North East Lincolnshire,Level 1,15531
+E06000012,North East Lincolnshire,Level 2,20513
+E06000012,North East Lincolnshire,Apprenticeship,8313
+E06000012,North East Lincolnshire,Level 3,20885
+E06000012,North East Lincolnshire,Level 4+,27537
+E06000012,North East Lincolnshire,Other,3837
+E06000013,North Lincolnshire,No qualifications,30466
+E06000013,North Lincolnshire,Level 1,16292
+E06000013,North Lincolnshire,Level 2,21104
+E06000013,North Lincolnshire,Apprenticeship,9922
+E06000013,North Lincolnshire,Level 3,23954
+E06000013,North Lincolnshire,Level 4+,33361
+E06000013,North Lincolnshire,Other,4368
+E06000014,York,No qualifications,22953
+E06000014,York,Level 1,12802
+E06000014,York,Level 2,19552
+E06000014,York,Apprenticeship,9032
+E06000014,York,Level 3,37410
+E06000014,York,Level 4+,66749
+E06000014,York,Other,3585
+E06000015,Derby,No qualifications,42141
+E06000015,Derby,Level 1,21586
+E06000015,Derby,Level 2,27706
+E06000015,Derby,Apprenticeship,13064
+E06000015,Derby,Level 3,36230
+E06000015,Derby,Level 4+,62097
+E06000015,Derby,Other,6365
+E06000016,Leicester,No qualifications,77692
+E06000016,Leicester,Level 1,31152
+E06000016,Leicester,Level 2,33954
+E06000016,Leicester,Apprenticeship,11024
+E06000016,Leicester,Level 3,46860
+E06000016,Leicester,Level 4+,77900
+E06000016,Leicester,Other,12431
+E06000017,Rutland,No qualifications,4491
+E06000017,Rutland,Level 1,2953
+E06000017,Rutland,Level 2,5278
+E06000017,Rutland,Apprenticeship,1936
+E06000017,Rutland,Level 3,5835
+E06000017,Rutland,Level 4+,13012
+E06000017,Rutland,Other,795
+E06000018,Nottingham,No qualifications,51554
+E06000018,Nottingham,Level 1,23096
+E06000018,Nottingham,Level 2,29844
+E06000018,Nottingham,Apprenticeship,10835
+E06000018,Nottingham,Level 3,66236
+E06000018,Nottingham,Level 4+,75673
+E06000018,Nottingham,Other,7084
+E06000019,Herefordshire,No qualifications,28315
+E06000019,Herefordshire,Level 1,14982
+E06000019,Herefordshire,Level 2,22184
+E06000019,Herefordshire,Apprenticeship,9258
+E06000019,Herefordshire,Level 3,26573
+E06000019,Herefordshire,Level 4+,51420
+E06000019,Herefordshire,Other,4401
+E06000020,Telford and Wrekin,No qualifications,29666
+E06000020,Telford and Wrekin,Level 1,16732
+E06000020,Telford and Wrekin,Level 2,23218
+E06000020,Telford and Wrekin,Apprenticeship,8212
+E06000020,Telford and Wrekin,Level 3,27765
+E06000020,Telford and Wrekin,Level 4+,38803
+E06000020,Telford and Wrekin,Other,4277
+E06000021,Stoke-on-Trent,No qualifications,53354
+E06000021,Stoke-on-Trent,Level 1,22574
+E06000021,Stoke-on-Trent,Level 2,30443
+E06000021,Stoke-on-Trent,Apprenticeship,14144
+E06000021,Stoke-on-Trent,Level 3,34678
+E06000021,Stoke-on-Trent,Level 4+,44948
+E06000021,Stoke-on-Trent,Other,5757
+E06000022,Bath and North East Somerset,No qualifications,19805
+E06000022,Bath and North East Somerset,Level 1,11972
+E06000022,Bath and North East Somerset,Level 2,19147
+E06000022,Bath and North East Somerset,Apprenticeship,7608
+E06000022,Bath and North East Somerset,Level 3,35318
+E06000022,Bath and North East Somerset,Level 4+,64251
+E06000022,Bath and North East Somerset,Other,3517
+E06000023,Bristol,No qualifications,56657
+E06000023,Bristol,Level 1,29350
+E06000023,Bristol,Level 2,41789
+E06000023,Bristol,Apprenticeship,15282
+E06000023,Bristol,Level 3,73981
+E06000023,Bristol,Level 4+,164106
+E06000023,Bristol,Other,8543
+E06000024,North Somerset,No qualifications,26615
+E06000024,North Somerset,Level 1,17219
+E06000024,North Somerset,Level 2,26482
+E06000024,North Somerset,Apprenticeship,10668
+E06000024,North Somerset,Level 3,32377
+E06000024,North Somerset,Level 4+,60489
+E06000024,North Somerset,Other,4717
+E06000025,South Gloucestershire,No qualifications,33792
+E06000025,South Gloucestershire,Level 1,23996
+E06000025,South Gloucestershire,Level 2,33959
+E06000025,South Gloucestershire,Apprenticeship,15142
+E06000025,South Gloucestershire,Level 3,46440
+E06000025,South Gloucestershire,Level 4+,78233
+E06000025,South Gloucestershire,Other,5802
+E06000026,Plymouth,No qualifications,37894
+E06000026,Plymouth,Level 1,21388
+E06000026,Plymouth,Level 2,30727
+E06000026,Plymouth,Apprenticeship,15836
+E06000026,Plymouth,Level 3,47362
+E06000026,Plymouth,Level 4+,60155
+E06000026,Plymouth,Other,5262
+E06000027,Torbay,No qualifications,23137
+E06000027,Torbay,Level 1,13696
+E06000027,Torbay,Level 2,18096
+E06000027,Torbay,Apprenticeship,8688
+E06000027,Torbay,Level 3,20227
+E06000027,Torbay,Level 4+,29628
+E06000027,Torbay,Other,3560
+E06000030,Swindon,No qualifications,32430
+E06000030,Swindon,Level 1,24335
+E06000030,Swindon,Level 2,30268
+E06000030,Swindon,Apprenticeship,10948
+E06000030,Swindon,Level 3,30591
+E06000030,Swindon,Level 4+,52220
+E06000030,Swindon,Other,6359
+E06000031,Peterborough,No qualifications,37471
+E06000031,Peterborough,Level 1,20666
+E06000031,Peterborough,Level 2,24191
+E06000031,Peterborough,Apprenticeship,9286
+E06000031,Peterborough,Level 3,25727
+E06000031,Peterborough,Level 4+,43956
+E06000031,Peterborough,Other,6276
+E06000032,Luton,No qualifications,39478
+E06000032,Luton,Level 1,19650
+E06000032,Luton,Level 2,21943
+E06000032,Luton,Apprenticeship,8349
+E06000032,Luton,Level 3,24832
+E06000032,Luton,Level 4+,51546
+E06000032,Luton,Other,6900
+E06000033,Southend-on-Sea,No qualifications,28823
+E06000033,Southend-on-Sea,Level 1,17593
+E06000033,Southend-on-Sea,Level 2,23151
+E06000033,Southend-on-Sea,Apprenticeship,7432
+E06000033,Southend-on-Sea,Level 3,25291
+E06000033,Southend-on-Sea,Level 4+,39832
+E06000033,Southend-on-Sea,Other,4288
+E06000034,Thurrock,No qualifications,29443
+E06000034,Thurrock,Level 1,16640
+E06000034,Thurrock,Level 2,21251
+E06000034,Thurrock,Apprenticeship,6757
+E06000034,Thurrock,Level 3,22151
+E06000034,Thurrock,Level 4+,35723
+E06000034,Thurrock,Other,4398
+E06000035,Medway,No qualifications,43158
+E06000035,Medway,Level 1,26898
+E06000035,Medway,Level 2,35426
+E06000035,Medway,Apprenticeship,13625
+E06000035,Medway,Level 3,40009
+E06000035,Medway,Level 4+,57001
+E06000035,Medway,Other,6641
+E06000036,Bracknell Forest,No qualifications,13183
+E06000036,Bracknell Forest,Level 1,10581
+E06000036,Bracknell Forest,Level 2,14929
+E06000036,Bracknell Forest,Apprenticeship,5171
+E06000036,Bracknell Forest,Level 3,17874
+E06000036,Bracknell Forest,Level 4+,35578
+E06000036,Bracknell Forest,Other,2617
+E06000037,West Berkshire,No qualifications,18484
+E06000037,West Berkshire,Level 1,12985
+E06000037,West Berkshire,Level 2,18954
+E06000037,West Berkshire,Apprenticeship,6788
+E06000037,West Berkshire,Level 3,22048
+E06000037,West Berkshire,Level 4+,48376
+E06000037,West Berkshire,Other,3101
+E06000038,Reading,No qualifications,22361
+E06000038,Reading,Level 1,12932
+E06000038,Reading,Level 2,15070
+E06000038,Reading,Apprenticeship,5853
+E06000038,Reading,Level 3,23734
+E06000038,Reading,Level 4+,57149
+E06000038,Reading,Other,4263
+E06000039,Slough,No qualifications,23966
+E06000039,Slough,Level 1,12764
+E06000039,Slough,Level 2,14336
+E06000039,Slough,Apprenticeship,5004
+E06000039,Slough,Level 3,16181
+E06000039,Slough,Level 4+,41423
+E06000039,Slough,Other,5260
+E06000040,Windsor and Maidenhead,No qualifications,15552
+E06000040,Windsor and Maidenhead,Level 1,10077
+E06000040,Windsor and Maidenhead,Level 2,15918
+E06000040,Windsor and Maidenhead,Apprenticeship,5060
+E06000040,Windsor and Maidenhead,Level 3,18341
+E06000040,Windsor and Maidenhead,Level 4+,55603
+E06000040,Windsor and Maidenhead,Other,3124
+E06000041,Wokingham,No qualifications,14671
+E06000041,Wokingham,Level 1,11396
+E06000041,Wokingham,Level 2,17773
+E06000041,Wokingham,Apprenticeship,5746
+E06000041,Wokingham,Level 3,22992
+E06000041,Wokingham,Level 4+,65047
+E06000041,Wokingham,Other,3196
+E06000042,Milton Keynes,No qualifications,35577
+E06000042,Milton Keynes,Level 1,24422
+E06000042,Milton Keynes,Level 2,32011
+E06000042,Milton Keynes,Apprenticeship,10477
+E06000042,Milton Keynes,Level 3,35371
+E06000042,Milton Keynes,Level 4+,80545
+E06000042,Milton Keynes,Other,6428
+E06000043,Brighton and Hove,No qualifications,29215
+E06000043,Brighton and Hove,Level 1,16545
+E06000043,Brighton and Hove,Level 2,25067
+E06000043,Brighton and Hove,Apprenticeship,8052
+E06000043,Brighton and Hove,Level 3,46359
+E06000043,Brighton and Hove,Level 4+,104790
+E06000043,Brighton and Hove,Other,5339
+E06000044,Portsmouth,No qualifications,29766
+E06000044,Portsmouth,Level 1,16434
+E06000044,Portsmouth,Level 2,22404
+E06000044,Portsmouth,Apprenticeship,9093
+E06000044,Portsmouth,Level 3,37296
+E06000044,Portsmouth,Level 4+,51190
+E06000044,Portsmouth,Other,4638
+E06000045,Southampton,No qualifications,35381
+E06000045,Southampton,Level 1,19470
+E06000045,Southampton,Level 2,25671
+E06000045,Southampton,Apprenticeship,11096
+E06000045,Southampton,Level 3,41992
+E06000045,Southampton,Level 4+,64663
+E06000045,Southampton,Other,6095
+E06000046,Isle of Wight,No qualifications,22064
+E06000046,Isle of Wight,Level 1,13355
+E06000046,Isle of Wight,Level 2,17501
+E06000046,Isle of Wight,Apprenticeship,8926
+E06000046,Isle of Wight,Level 3,21444
+E06000046,Isle of Wight,Level 4+,32783
+E06000046,Isle of Wight,Other,3513
+E06000047,County Durham,No qualifications,90804
+E06000047,County Durham,Level 1,41359
+E06000047,County Durham,Level 2,61724
+E06000047,County Durham,Apprenticeship,27061
+E06000047,County Durham,Level 3,86414
+E06000047,County Durham,Level 4+,116019
+E06000047,County Durham,Other,10577
+E06000049,Cheshire East,No qualifications,49524
+E06000049,Cheshire East,Level 1,28571
+E06000049,Cheshire East,Level 2,45115
+E06000049,Cheshire East,Apprenticeship,19394
+E06000049,Cheshire East,Level 3,55373
+E06000049,Cheshire East,Level 4+,123785
+E06000049,Cheshire East,Other,7711
+E06000050,Cheshire West and Chester,No qualifications,46771
+E06000050,Cheshire West and Chester,Level 1,27467
+E06000050,Cheshire West and Chester,Level 2,40467
+E06000050,Cheshire West and Chester,Apprenticeship,15914
+E06000050,Cheshire West and Chester,Level 3,52461
+E06000050,Cheshire West and Chester,Level 4+,105387
+E06000050,Cheshire West and Chester,Other,6891
+E06000051,Shropshire,No qualifications,45573
+E06000051,Shropshire,Level 1,26154
+E06000051,Shropshire,Level 2,40900
+E06000051,Shropshire,Apprenticeship,16564
+E06000051,Shropshire,Level 3,47417
+E06000051,Shropshire,Level 4+,88502
+E06000051,Shropshire,Other,7136
+E06000052,Cornwall,No qualifications,77919
+E06000052,Cornwall,Level 1,47676
+E06000052,Cornwall,Level 2,72367
+E06000052,Cornwall,Apprenticeship,31455
+E06000052,Cornwall,Level 3,89955
+E06000052,Cornwall,Level 4+,145890
+E06000052,Cornwall,Other,12163
+E06000053,Isles of Scilly,No qualifications,213
+E06000053,Isles of Scilly,Level 1,119
+E06000053,Isles of Scilly,Level 2,272
+E06000053,Isles of Scilly,Apprenticeship,88
+E06000053,Isles of Scilly,Level 3,341
+E06000053,Isles of Scilly,Level 4+,655
+E06000053,Isles of Scilly,Other,42
+E06000054,Wiltshire,No qualifications,60409
+E06000054,Wiltshire,Level 1,42756
+E06000054,Wiltshire,Level 2,62668
+E06000054,Wiltshire,Apprenticeship,23327
+E06000054,Wiltshire,Level 3,76544
+E06000054,Wiltshire,Level 4+,143201
+E06000054,Wiltshire,Other,10209
+E06000055,Bedford,No qualifications,24813
+E06000055,Bedford,Level 1,15366
+E06000055,Bedford,Level 2,19977
+E06000055,Bedford,Apprenticeship,8263
+E06000055,Bedford,Level 3,23976
+E06000055,Bedford,Level 4+,51411
+E06000055,Bedford,Other,4312
+E06000056,Central Bedfordshire,No qualifications,35598
+E06000056,Central Bedfordshire,Level 1,24650
+E06000056,Central Bedfordshire,Level 2,34892
+E06000056,Central Bedfordshire,Apprenticeship,14069
+E06000056,Central Bedfordshire,Level 3,43107
+E06000056,Central Bedfordshire,Level 4+,78654
+E06000056,Central Bedfordshire,Other,5789
+E06000057,Northumberland,No qualifications,48173
+E06000057,Northumberland,Level 1,26051
+E06000057,Northumberland,Level 2,38873
+E06000057,Northumberland,Apprenticeship,18624
+E06000057,Northumberland,Level 3,47690
+E06000057,Northumberland,Level 4+,82653
+E06000057,Northumberland,Other,6782
+E06000058,"Bournemouth, Christchurch and Poole",No qualifications,53317
+E06000058,"Bournemouth, Christchurch and Poole",Level 1,33102
+E06000058,"Bournemouth, Christchurch and Poole",Level 2,47335
+E06000058,"Bournemouth, Christchurch and Poole",Apprenticeship,20187
+E06000058,"Bournemouth, Christchurch and Poole",Level 3,63771
+E06000058,"Bournemouth, Christchurch and Poole",Level 4+,107437
+E06000058,"Bournemouth, Christchurch and Poole",Other,9759
+E06000059,Dorset,No qualifications,50834
+E06000059,Dorset,Level 1,33549
+E06000059,Dorset,Level 2,48267
+E06000059,Dorset,Apprenticeship,21943
+E06000059,Dorset,Level 3,56884
+E06000059,Dorset,Level 4+,101298
+E06000059,Dorset,Other,9127
+E06000060,Buckinghamshire,No qualifications,60981
+E06000060,Buckinghamshire,Level 1,39427
+E06000060,Buckinghamshire,Level 2,59473
+E06000060,Buckinghamshire,Apprenticeship,21261
+E06000060,Buckinghamshire,Level 3,69811
+E06000060,Buckinghamshire,Level 4+,181721
+E06000060,Buckinghamshire,Other,10721
+E06000061,North Northamptonshire,No qualifications,57682
+E06000061,North Northamptonshire,Level 1,34404
+E06000061,North Northamptonshire,Level 2,44428
+E06000061,North Northamptonshire,Apprenticeship,18199
+E06000061,North Northamptonshire,Level 3,48272
+E06000061,North Northamptonshire,Level 4+,77281
+E06000061,North Northamptonshire,Other,8920
+E06000062,West Northamptonshire,No qualifications,59804
+E06000062,West Northamptonshire,Level 1,37390
+E06000062,West Northamptonshire,Level 2,49213
+E06000062,West Northamptonshire,Apprenticeship,19758
+E06000062,West Northamptonshire,Level 3,58081
+E06000062,West Northamptonshire,Level 4+,109086
+E06000062,West Northamptonshire,Other,10168
+E07000008,Cambridge,No qualifications,11957
+E07000008,Cambridge,Level 1,5989
+E07000008,Cambridge,Level 2,8592
+E07000008,Cambridge,Apprenticeship,3236
+E07000008,Cambridge,Level 3,22686
+E07000008,Cambridge,Level 4+,69666
+E07000008,Cambridge,Other,2639
+E07000009,East Cambridgeshire,No qualifications,11824
+E07000009,East Cambridgeshire,Level 1,6993
+E07000009,East Cambridgeshire,Level 2,9636
+E07000009,East Cambridgeshire,Apprenticeship,4385
+E07000009,East Cambridgeshire,Level 3,11736
+E07000009,East Cambridgeshire,Level 4+,25007
+E07000009,East Cambridgeshire,Other,1848
+E07000010,Fenland,No qualifications,21889
+E07000010,Fenland,Level 1,10947
+E07000010,Fenland,Level 2,13346
+E07000010,Fenland,Apprenticeship,5732
+E07000010,Fenland,Level 3,13842
+E07000010,Fenland,Level 4+,16152
+E07000010,Fenland,Other,2924
+E07000011,Huntingdonshire,No qualifications,23194
+E07000011,Huntingdonshire,Level 1,15790
+E07000011,Huntingdonshire,Level 2,21608
+E07000011,Huntingdonshire,Apprenticeship,8222
+E07000011,Huntingdonshire,Level 3,26020
+E07000011,Huntingdonshire,Level 4+,49593
+E07000011,Huntingdonshire,Other,3834
+E07000012,South Cambridgeshire,No qualifications,15409
+E07000012,South Cambridgeshire,Level 1,10095
+E07000012,South Cambridgeshire,Level 2,15214
+E07000012,South Cambridgeshire,Apprenticeship,6049
+E07000012,South Cambridgeshire,Level 3,18451
+E07000012,South Cambridgeshire,Level 4+,62375
+E07000012,South Cambridgeshire,Other,2769
+E07000026,Allerdale,No qualifications,16609
+E07000026,Allerdale,Level 1,7969
+E07000026,Allerdale,Level 2,11162
+E07000026,Allerdale,Apprenticeship,6020
+E07000026,Allerdale,Level 3,13887
+E07000026,Allerdale,Level 4+,22855
+E07000026,Allerdale,Other,2011
+E07000027,Barrow-in-Furness,No qualifications,10307
+E07000027,Barrow-in-Furness,Level 1,5527
+E07000027,Barrow-in-Furness,Level 2,7380
+E07000027,Barrow-in-Furness,Apprenticeship,6075
+E07000027,Barrow-in-Furness,Level 3,11450
+E07000027,Barrow-in-Furness,Level 4+,13821
+E07000027,Barrow-in-Furness,Other,1274
+E07000028,Carlisle,No qualifications,18141
+E07000028,Carlisle,Level 1,9640
+E07000028,Carlisle,Level 2,13322
+E07000028,Carlisle,Apprenticeship,6464
+E07000028,Carlisle,Level 3,16000
+E07000028,Carlisle,Level 4+,25472
+E07000028,Carlisle,Other,2304
+E07000029,Copeland,No qualifications,11895
+E07000029,Copeland,Level 1,5629
+E07000029,Copeland,Level 2,7780
+E07000029,Copeland,Apprenticeship,4514
+E07000029,Copeland,Level 3,10272
+E07000029,Copeland,Level 4+,14543
+E07000029,Copeland,Other,1375
+E07000030,Eden,No qualifications,8086
+E07000030,Eden,Level 1,4645
+E07000030,Eden,Level 2,6651
+E07000030,Eden,Apprenticeship,3132
+E07000030,Eden,Level 3,7854
+E07000030,Eden,Level 4+,15183
+E07000030,Eden,Other,1084
+E07000031,South Lakeland,No qualifications,12393
+E07000031,South Lakeland,Level 1,7393
+E07000031,South Lakeland,Level 2,11563
+E07000031,South Lakeland,Apprenticeship,6323
+E07000031,South Lakeland,Level 3,15341
+E07000031,South Lakeland,Level 4+,34591
+E07000031,South Lakeland,Other,2099
+E07000032,Amber Valley,No qualifications,20668
+E07000032,Amber Valley,Level 1,10975
+E07000032,Amber Valley,Level 2,15009
+E07000032,Amber Valley,Apprenticeship,7032
+E07000032,Amber Valley,Level 3,18723
+E07000032,Amber Valley,Level 4+,30265
+E07000032,Amber Valley,Other,2388
+E07000033,Bolsover,No qualifications,16018
+E07000033,Bolsover,Level 1,7697
+E07000033,Bolsover,Level 2,10066
+E07000033,Bolsover,Apprenticeship,4516
+E07000033,Bolsover,Level 3,11771
+E07000033,Bolsover,Level 4+,14406
+E07000033,Bolsover,Other,1804
+E07000034,Chesterfield,No qualifications,17380
+E07000034,Chesterfield,Level 1,9384
+E07000034,Chesterfield,Level 2,13050
+E07000034,Chesterfield,Apprenticeship,5515
+E07000034,Chesterfield,Level 3,15449
+E07000034,Chesterfield,Level 4+,23053
+E07000034,Chesterfield,Other,2170
+E07000035,Derbyshire Dales,No qualifications,9583
+E07000035,Derbyshire Dales,Level 1,5301
+E07000035,Derbyshire Dales,Level 2,8121
+E07000035,Derbyshire Dales,Apprenticeship,3173
+E07000035,Derbyshire Dales,Level 3,9588
+E07000035,Derbyshire Dales,Level 4+,23939
+E07000035,Derbyshire Dales,Other,1353
+E07000036,Erewash,No qualifications,18530
+E07000036,Erewash,Level 1,10440
+E07000036,Erewash,Level 2,14022
+E07000036,Erewash,Apprenticeship,6983
+E07000036,Erewash,Level 3,17036
+E07000036,Erewash,Level 4+,24203
+E07000036,Erewash,Other,2316
+E07000037,High Peak,No qualifications,11307
+E07000037,High Peak,Level 1,7063
+E07000037,High Peak,Level 2,10412
+E07000037,High Peak,Apprenticeship,4578
+E07000037,High Peak,Level 3,13751
+E07000037,High Peak,Level 4+,26922
+E07000037,High Peak,Other,1627
+E07000038,North East Derbyshire,No qualifications,17066
+E07000038,North East Derbyshire,Level 1,9101
+E07000038,North East Derbyshire,Level 2,12364
+E07000038,North East Derbyshire,Apprenticeship,5825
+E07000038,North East Derbyshire,Level 3,15328
+E07000038,North East Derbyshire,Level 4+,23507
+E07000038,North East Derbyshire,Other,2082
+E07000039,South Derbyshire,No qualifications,13922
+E07000039,South Derbyshire,Level 1,8596
+E07000039,South Derbyshire,Level 2,12843
+E07000039,South Derbyshire,Apprenticeship,5439
+E07000039,South Derbyshire,Level 3,16365
+E07000039,South Derbyshire,Level 4+,27668
+E07000039,South Derbyshire,Other,2121
+E07000040,East Devon,No qualifications,19207
+E07000040,East Devon,Level 1,12653
+E07000040,East Devon,Level 2,19009
+E07000040,East Devon,Apprenticeship,8200
+E07000040,East Devon,Level 3,21722
+E07000040,East Devon,Level 4+,43114
+E07000040,East Devon,Other,3484
+E07000041,Exeter,No qualifications,15078
+E07000041,Exeter,Level 1,9098
+E07000041,Exeter,Level 2,12730
+E07000041,Exeter,Apprenticeship,5316
+E07000041,Exeter,Level 3,27915
+E07000041,Exeter,Level 4+,38612
+E07000041,Exeter,Other,2582
+E07000042,Mid Devon,No qualifications,11614
+E07000042,Mid Devon,Level 1,6968
+E07000042,Mid Devon,Level 2,10548
+E07000042,Mid Devon,Apprenticeship,4122
+E07000042,Mid Devon,Level 3,12262
+E07000042,Mid Devon,Level 4+,20928
+E07000042,Mid Devon,Other,1762
+E07000043,North Devon,No qualifications,14596
+E07000043,North Devon,Level 1,9099
+E07000043,North Devon,Level 2,12743
+E07000043,North Devon,Apprenticeship,5557
+E07000043,North Devon,Level 3,14604
+E07000043,North Devon,Level 4+,23458
+E07000043,North Devon,Other,2137
+E07000044,South Hams,No qualifications,9725
+E07000044,South Hams,Level 1,6329
+E07000044,South Hams,Level 2,10121
+E07000044,South Hams,Apprenticeship,4397
+E07000044,South Hams,Level 3,12682
+E07000044,South Hams,Level 4+,29878
+E07000044,South Hams,Other,1838
+E07000045,Teignbridge,No qualifications,17758
+E07000045,Teignbridge,Level 1,11479
+E07000045,Teignbridge,Level 2,16817
+E07000045,Teignbridge,Apprenticeship,7420
+E07000045,Teignbridge,Level 3,19731
+E07000045,Teignbridge,Level 4+,37172
+E07000045,Teignbridge,Other,3084
+E07000046,Torridge,No qualifications,10824
+E07000046,Torridge,Level 1,6635
+E07000046,Torridge,Level 2,9073
+E07000046,Torridge,Apprenticeship,4208
+E07000046,Torridge,Level 3,10137
+E07000046,Torridge,Level 4+,15059
+E07000046,Torridge,Other,1624
+E07000047,West Devon,No qualifications,7530
+E07000047,West Devon,Level 1,4858
+E07000047,West Devon,Level 2,7079
+E07000047,West Devon,Apprenticeship,3049
+E07000047,West Devon,Level 3,8119
+E07000047,West Devon,Level 4+,16468
+E07000047,West Devon,Other,1258
+E07000061,Eastbourne,No qualifications,15567
+E07000061,Eastbourne,Level 1,9379
+E07000061,Eastbourne,Level 2,12393
+E07000061,Eastbourne,Apprenticeship,4808
+E07000061,Eastbourne,Level 3,14436
+E07000061,Eastbourne,Level 4+,25210
+E07000061,Eastbourne,Other,2781
+E07000062,Hastings,No qualifications,15039
+E07000062,Hastings,Level 1,8387
+E07000062,Hastings,Level 2,11256
+E07000062,Hastings,Apprenticeship,3815
+E07000062,Hastings,Level 3,12768
+E07000062,Hastings,Level 4+,21357
+E07000062,Hastings,Other,2082
+E07000063,Lewes,No qualifications,13372
+E07000063,Lewes,Level 1,8498
+E07000063,Lewes,Level 2,11840
+E07000063,Lewes,Apprenticeship,4497
+E07000063,Lewes,Level 3,13794
+E07000063,Lewes,Level 4+,28978
+E07000063,Lewes,Other,2243
+E07000064,Rother,No qualifications,15007
+E07000064,Rother,Level 1,8802
+E07000064,Rother,Level 2,11688
+E07000064,Rother,Apprenticeship,4728
+E07000064,Rother,Level 3,13035
+E07000064,Rother,Level 4+,23746
+E07000064,Rother,Other,2483
+E07000065,Wealden,No qualifications,19965
+E07000065,Wealden,Level 1,13935
+E07000065,Wealden,Level 2,20838
+E07000065,Wealden,Apprenticeship,7742
+E07000065,Wealden,Level 3,24057
+E07000065,Wealden,Level 4+,43548
+E07000065,Wealden,Other,3563
+E07000066,Basildon,No qualifications,30827
+E07000066,Basildon,Level 1,19440
+E07000066,Basildon,Level 2,24489
+E07000066,Basildon,Apprenticeship,7966
+E07000066,Basildon,Level 3,25316
+E07000066,Basildon,Level 4+,36541
+E07000066,Basildon,Other,4084
+E07000067,Braintree,No qualifications,23238
+E07000067,Braintree,Level 1,15569
+E07000067,Braintree,Level 2,21107
+E07000067,Braintree,Apprenticeship,7466
+E07000067,Braintree,Level 3,23081
+E07000067,Braintree,Level 4+,32674
+E07000067,Braintree,Other,3431
+E07000068,Brentwood,No qualifications,9482
+E07000068,Brentwood,Level 1,6071
+E07000068,Brentwood,Level 2,9668
+E07000068,Brentwood,Apprenticeship,2966
+E07000068,Brentwood,Level 3,10790
+E07000068,Brentwood,Level 4+,22248
+E07000068,Brentwood,Other,1643
+E07000069,Castle Point,No qualifications,17753
+E07000069,Castle Point,Level 1,10153
+E07000069,Castle Point,Level 2,12632
+E07000069,Castle Point,Apprenticeship,5036
+E07000069,Castle Point,Level 3,12659
+E07000069,Castle Point,Level 4+,13747
+E07000069,Castle Point,Other,2432
+E07000070,Chelmsford,No qualifications,22401
+E07000070,Chelmsford,Level 1,15318
+E07000070,Chelmsford,Level 2,22513
+E07000070,Chelmsford,Apprenticeship,7621
+E07000070,Chelmsford,Level 3,25917
+E07000070,Chelmsford,Level 4+,50086
+E07000070,Chelmsford,Other,3882
+E07000071,Colchester,No qualifications,24043
+E07000071,Colchester,Level 1,16123
+E07000071,Colchester,Level 2,23196
+E07000071,Colchester,Apprenticeship,8139
+E07000071,Colchester,Level 3,30420
+E07000071,Colchester,Level 4+,50401
+E07000071,Colchester,Other,4020
+E07000072,Epping Forest,No qualifications,20734
+E07000072,Epping Forest,Level 1,11388
+E07000072,Epping Forest,Level 2,16115
+E07000072,Epping Forest,Apprenticeship,5490
+E07000072,Epping Forest,Level 3,17575
+E07000072,Epping Forest,Level 4+,35632
+E07000072,Epping Forest,Other,2995
+E07000073,Harlow,No qualifications,15364
+E07000073,Harlow,Level 1,9802
+E07000073,Harlow,Level 2,11618
+E07000073,Harlow,Apprenticeship,4120
+E07000073,Harlow,Level 3,12132
+E07000073,Harlow,Level 4+,17864
+E07000073,Harlow,Other,2202
+E07000074,Maldon,No qualifications,10674
+E07000074,Maldon,Level 1,6744
+E07000074,Maldon,Level 2,8920
+E07000074,Maldon,Apprenticeship,3600
+E07000074,Maldon,Level 3,9798
+E07000074,Maldon,Level 4+,14080
+E07000074,Maldon,Other,1612
+E07000075,Rochford,No qualifications,13556
+E07000075,Rochford,Level 1,9084
+E07000075,Rochford,Level 2,12358
+E07000075,Rochford,Apprenticeship,4440
+E07000075,Rochford,Level 3,13097
+E07000075,Rochford,Level 4+,16095
+E07000075,Rochford,Other,2080
+E07000076,Tendring,No qualifications,32782
+E07000076,Tendring,Level 1,16158
+E07000076,Tendring,Level 2,19076
+E07000076,Tendring,Apprenticeship,8535
+E07000076,Tendring,Level 3,19444
+E07000076,Tendring,Level 4+,24811
+E07000076,Tendring,Other,4084
+E07000077,Uttlesford,No qualifications,10117
+E07000077,Uttlesford,Level 1,6980
+E07000077,Uttlesford,Level 2,11425
+E07000077,Uttlesford,Apprenticeship,3739
+E07000077,Uttlesford,Level 3,12688
+E07000077,Uttlesford,Level 4+,26926
+E07000077,Uttlesford,Other,1646
+E07000078,Cheltenham,No qualifications,13181
+E07000078,Cheltenham,Level 1,7848
+E07000078,Cheltenham,Level 2,12338
+E07000078,Cheltenham,Apprenticeship,4337
+E07000078,Cheltenham,Level 3,15886
+E07000078,Cheltenham,Level 4+,42441
+E07000078,Cheltenham,Other,2405
+E07000079,Cotswold,No qualifications,10439
+E07000079,Cotswold,Level 1,6768
+E07000079,Cotswold,Level 2,10640
+E07000079,Cotswold,Apprenticeship,3669
+E07000079,Cotswold,Level 3,12575
+E07000079,Cotswold,Level 4+,30370
+E07000079,Cotswold,Other,1854
+E07000080,Forest of Dean,No qualifications,13427
+E07000080,Forest of Dean,Level 1,7648
+E07000080,Forest of Dean,Level 2,11425
+E07000080,Forest of Dean,Apprenticeship,4722
+E07000080,Forest of Dean,Level 3,12861
+E07000080,Forest of Dean,Level 4+,21023
+E07000080,Forest of Dean,Other,1941
+E07000081,Gloucester,No qualifications,19473
+E07000081,Gloucester,Level 1,12336
+E07000081,Gloucester,Level 2,16332
+E07000081,Gloucester,Apprenticeship,6536
+E07000081,Gloucester,Level 3,19965
+E07000081,Gloucester,Level 4+,29295
+E07000081,Gloucester,Other,3002
+E07000082,Stroud,No qualifications,13517
+E07000082,Stroud,Level 1,9028
+E07000082,Stroud,Level 2,13879
+E07000082,Stroud,Apprenticeship,5638
+E07000082,Stroud,Level 3,17118
+E07000082,Stroud,Level 4+,38746
+E07000082,Stroud,Other,2269
+E07000083,Tewkesbury,No qualifications,10717
+E07000083,Tewkesbury,Level 1,7566
+E07000083,Tewkesbury,Level 2,11500
+E07000083,Tewkesbury,Apprenticeship,4432
+E07000083,Tewkesbury,Level 3,13455
+E07000083,Tewkesbury,Level 4+,27744
+E07000083,Tewkesbury,Other,1938
+E07000084,Basingstoke and Deane,No qualifications,21302
+E07000084,Basingstoke and Deane,Level 1,15914
+E07000084,Basingstoke and Deane,Level 2,21571
+E07000084,Basingstoke and Deane,Apprenticeship,7405
+E07000084,Basingstoke and Deane,Level 3,27027
+E07000084,Basingstoke and Deane,Level 4+,52806
+E07000084,Basingstoke and Deane,Other,3782
+E07000085,East Hampshire,No qualifications,13605
+E07000085,East Hampshire,Level 1,9076
+E07000085,East Hampshire,Level 2,15052
+E07000085,East Hampshire,Apprenticeship,4996
+E07000085,East Hampshire,Level 3,18474
+E07000085,East Hampshire,Level 4+,40207
+E07000085,East Hampshire,Other,2420
+E07000086,Eastleigh,No qualifications,15155
+E07000086,Eastleigh,Level 1,11209
+E07000086,Eastleigh,Level 2,16397
+E07000086,Eastleigh,Apprenticeship,7251
+E07000086,Eastleigh,Level 3,21007
+E07000086,Eastleigh,Level 4+,36540
+E07000086,Eastleigh,Other,2775
+E07000087,Fareham,No qualifications,13246
+E07000087,Fareham,Level 1,9376
+E07000087,Fareham,Level 2,13952
+E07000087,Fareham,Apprenticeship,6292
+E07000087,Fareham,Level 3,18423
+E07000087,Fareham,Level 4+,31910
+E07000087,Fareham,Other,2435
+E07000088,Gosport,No qualifications,11695
+E07000088,Gosport,Level 1,8504
+E07000088,Gosport,Level 2,10664
+E07000088,Gosport,Apprenticeship,4495
+E07000088,Gosport,Level 3,13322
+E07000088,Gosport,Level 4+,16648
+E07000088,Gosport,Other,1883
+E07000089,Hart,No qualifications,8742
+E07000089,Hart,Level 1,7066
+E07000089,Hart,Level 2,11310
+E07000089,Hart,Apprenticeship,3800
+E07000089,Hart,Level 3,14320
+E07000089,Hart,Level 4+,33217
+E07000089,Hart,Other,1872
+E07000090,Havant,No qualifications,20492
+E07000090,Havant,Level 1,11643
+E07000090,Havant,Level 2,15718
+E07000090,Havant,Apprenticeship,6593
+E07000090,Havant,Level 3,18281
+E07000090,Havant,Level 4+,27262
+E07000090,Havant,Other,2876
+E07000091,New Forest,No qualifications,23951
+E07000091,New Forest,Level 1,15276
+E07000091,New Forest,Level 2,22002
+E07000091,New Forest,Apprenticeship,10396
+E07000091,New Forest,Level 3,26369
+E07000091,New Forest,Level 4+,46380
+E07000091,New Forest,Other,4370
+E07000092,Rushmoor,No qualifications,14803
+E07000092,Rushmoor,Level 1,9582
+E07000092,Rushmoor,Level 2,11523
+E07000092,Rushmoor,Apprenticeship,4515
+E07000092,Rushmoor,Level 3,13850
+E07000092,Rushmoor,Level 4+,24115
+E07000092,Rushmoor,Other,2483
+E07000093,Test Valley,No qualifications,15047
+E07000093,Test Valley,Level 1,10487
+E07000093,Test Valley,Level 2,15329
+E07000093,Test Valley,Apprenticeship,5805
+E07000093,Test Valley,Level 3,19252
+E07000093,Test Valley,Level 4+,38099
+E07000093,Test Valley,Other,2733
+E07000094,Winchester,No qualifications,11624
+E07000094,Winchester,Level 1,7320
+E07000094,Winchester,Level 2,12998
+E07000094,Winchester,Apprenticeship,4209
+E07000094,Winchester,Level 3,19439
+E07000094,Winchester,Level 4+,47033
+E07000094,Winchester,Other,2127
+E07000095,Broxbourne,No qualifications,16557
+E07000095,Broxbourne,Level 1,9349
+E07000095,Broxbourne,Level 2,11727
+E07000095,Broxbourne,Apprenticeship,4508
+E07000095,Broxbourne,Level 3,13270
+E07000095,Broxbourne,Level 4+,21689
+E07000095,Broxbourne,Other,2337
+E07000096,Dacorum,No qualifications,18167
+E07000096,Dacorum,Level 1,12499
+E07000096,Dacorum,Level 2,17595
+E07000096,Dacorum,Apprenticeship,5928
+E07000096,Dacorum,Level 3,19844
+E07000096,Dacorum,Level 4+,46745
+E07000096,Dacorum,Other,3002
+E07000098,Hertsmere,No qualifications,13778
+E07000098,Hertsmere,Level 1,7921
+E07000098,Hertsmere,Level 2,11396
+E07000098,Hertsmere,Apprenticeship,3825
+E07000098,Hertsmere,Level 3,12741
+E07000098,Hertsmere,Level 4+,34134
+E07000098,Hertsmere,Other,2396
+E07000099,North Hertfordshire,No qualifications,14652
+E07000099,North Hertfordshire,Level 1,9987
+E07000099,North Hertfordshire,Level 2,14358
+E07000099,North Hertfordshire,Apprenticeship,4833
+E07000099,North Hertfordshire,Level 3,16645
+E07000099,North Hertfordshire,Level 4+,44740
+E07000099,North Hertfordshire,Other,2526
+E07000102,Three Rivers,No qualifications,10022
+E07000102,Three Rivers,Level 1,6539
+E07000102,Three Rivers,Level 2,9838
+E07000102,Three Rivers,Apprenticeship,3331
+E07000102,Three Rivers,Level 3,11479
+E07000102,Three Rivers,Level 4+,32023
+E07000102,Three Rivers,Other,1771
+E07000103,Watford,No qualifications,12841
+E07000103,Watford,Level 1,7463
+E07000103,Watford,Level 2,9965
+E07000103,Watford,Apprenticeship,3296
+E07000103,Watford,Level 3,11677
+E07000103,Watford,Level 4+,33256
+E07000103,Watford,Other,2465
+E07000105,Ashford,No qualifications,18829
+E07000105,Ashford,Level 1,12098
+E07000105,Ashford,Level 2,16412
+E07000105,Ashford,Apprenticeship,5952
+E07000105,Ashford,Level 3,18232
+E07000105,Ashford,Level 4+,32148
+E07000105,Ashford,Other,3095
+E07000106,Canterbury,No qualifications,21555
+E07000106,Canterbury,Level 1,11845
+E07000106,Canterbury,Level 2,16598
+E07000106,Canterbury,Apprenticeship,6456
+E07000106,Canterbury,Level 3,28827
+E07000106,Canterbury,Level 4+,43896
+E07000106,Canterbury,Other,3598
+E07000107,Dartford,No qualifications,14717
+E07000107,Dartford,Level 1,10008
+E07000107,Dartford,Level 2,13850
+E07000107,Dartford,Apprenticeship,5055
+E07000107,Dartford,Level 3,15187
+E07000107,Dartford,Level 4+,29362
+E07000107,Dartford,Other,2521
+E07000108,Dover,No qualifications,18706
+E07000108,Dover,Level 1,10741
+E07000108,Dover,Level 2,14905
+E07000108,Dover,Apprenticeship,5682
+E07000108,Dover,Level 3,17218
+E07000108,Dover,Level 4+,25951
+E07000108,Dover,Other,2927
+E07000109,Gravesham,No qualifications,17186
+E07000109,Gravesham,Level 1,10086
+E07000109,Gravesham,Level 2,12846
+E07000109,Gravesham,Apprenticeship,4954
+E07000109,Gravesham,Level 3,13962
+E07000109,Gravesham,Level 4+,22572
+E07000109,Gravesham,Other,2948
+E07000110,Maidstone,No qualifications,24786
+E07000110,Maidstone,Level 1,15510
+E07000110,Maidstone,Level 2,21706
+E07000110,Maidstone,Apprenticeship,8547
+E07000110,Maidstone,Level 3,24906
+E07000110,Maidstone,Level 4+,42531
+E07000110,Maidstone,Other,4148
+E07000111,Sevenoaks,No qualifications,15087
+E07000111,Sevenoaks,Level 1,9281
+E07000111,Sevenoaks,Level 2,14060
+E07000111,Sevenoaks,Apprenticeship,4641
+E07000111,Sevenoaks,Level 3,15101
+E07000111,Sevenoaks,Level 4+,36073
+E07000111,Sevenoaks,Other,2360
+E07000112,Folkestone and Hythe,No qualifications,17756
+E07000112,Folkestone and Hythe,Level 1,10642
+E07000112,Folkestone and Hythe,Level 2,13599
+E07000112,Folkestone and Hythe,Apprenticeship,5791
+E07000112,Folkestone and Hythe,Level 3,15793
+E07000112,Folkestone and Hythe,Level 4+,25068
+E07000112,Folkestone and Hythe,Other,2907
+E07000113,Swale,No qualifications,26824
+E07000113,Swale,Level 1,15032
+E07000113,Swale,Level 2,18975
+E07000113,Swale,Apprenticeship,7665
+E07000113,Swale,Level 3,21027
+E07000113,Swale,Level 4+,28911
+E07000113,Swale,Other,3566
+E07000114,Thanet,No qualifications,24990
+E07000114,Thanet,Level 1,13332
+E07000114,Thanet,Level 2,16646
+E07000114,Thanet,Apprenticeship,7147
+E07000114,Thanet,Level 3,19294
+E07000114,Thanet,Level 4+,30376
+E07000114,Thanet,Other,3632
+E07000115,Tonbridge and Malling,No qualifications,16324
+E07000115,Tonbridge and Malling,Level 1,11163
+E07000115,Tonbridge and Malling,Level 2,16681
+E07000115,Tonbridge and Malling,Apprenticeship,5851
+E07000115,Tonbridge and Malling,Level 3,18458
+E07000115,Tonbridge and Malling,Level 4+,34332
+E07000115,Tonbridge and Malling,Other,2717
+E07000116,Tunbridge Wells,No qualifications,12454
+E07000116,Tunbridge Wells,Level 1,7996
+E07000116,Tunbridge Wells,Level 2,13396
+E07000116,Tunbridge Wells,Apprenticeship,3874
+E07000116,Tunbridge Wells,Level 3,14385
+E07000116,Tunbridge Wells,Level 4+,38010
+E07000116,Tunbridge Wells,Other,2285
+E07000117,Burnley,No qualifications,18347
+E07000117,Burnley,Level 1,8368
+E07000117,Burnley,Level 2,10415
+E07000117,Burnley,Apprenticeship,4920
+E07000117,Burnley,Level 3,12610
+E07000117,Burnley,Level 4+,18299
+E07000117,Burnley,Other,2240
+E07000118,Chorley,No qualifications,15422
+E07000118,Chorley,Level 1,9007
+E07000118,Chorley,Level 2,13468
+E07000118,Chorley,Apprenticeship,6465
+E07000118,Chorley,Level 3,17264
+E07000118,Chorley,Level 4+,32614
+E07000118,Chorley,Other,2129
+E07000119,Fylde,No qualifications,11117
+E07000119,Fylde,Level 1,6406
+E07000119,Fylde,Level 2,9605
+E07000119,Fylde,Apprenticeship,4387
+E07000119,Fylde,Level 3,12055
+E07000119,Fylde,Level 4+,23868
+E07000119,Fylde,Other,1809
+E07000120,Hyndburn,No qualifications,14951
+E07000120,Hyndburn,Level 1,6845
+E07000120,Hyndburn,Level 2,9321
+E07000120,Hyndburn,Apprenticeship,4778
+E07000120,Hyndburn,Level 3,11527
+E07000120,Hyndburn,Level 4+,16514
+E07000120,Hyndburn,Other,1696
+E07000121,Lancaster,No qualifications,18885
+E07000121,Lancaster,Level 1,10307
+E07000121,Lancaster,Level 2,14998
+E07000121,Lancaster,Apprenticeship,6790
+E07000121,Lancaster,Level 3,27060
+E07000121,Lancaster,Level 4+,38664
+E07000121,Lancaster,Other,2937
+E07000122,Pendle,No qualifications,18639
+E07000122,Pendle,Level 1,8006
+E07000122,Pendle,Level 2,9740
+E07000122,Pendle,Apprenticeship,4852
+E07000122,Pendle,Level 3,12521
+E07000122,Pendle,Level 4+,19085
+E07000122,Pendle,Other,2379
+E07000123,Preston,No qualifications,23079
+E07000123,Preston,Level 1,11143
+E07000123,Preston,Level 2,15243
+E07000123,Preston,Apprenticeship,6411
+E07000123,Preston,Level 3,21665
+E07000123,Preston,Level 4+,37641
+E07000123,Preston,Other,3487
+E07000124,Ribble Valley,No qualifications,6802
+E07000124,Ribble Valley,Level 1,4059
+E07000124,Ribble Valley,Level 2,6746
+E07000124,Ribble Valley,Apprenticeship,3472
+E07000124,Ribble Valley,Level 3,8863
+E07000124,Ribble Valley,Level 4+,20456
+E07000124,Ribble Valley,Other,1064
+E07000125,Rossendale,No qualifications,10672
+E07000125,Rossendale,Level 1,5433
+E07000125,Rossendale,Level 2,8145
+E07000125,Rossendale,Apprenticeship,3651
+E07000125,Rossendale,Level 3,10561
+E07000125,Rossendale,Level 4+,17565
+E07000125,Rossendale,Other,1271
+E07000126,South Ribble,No qualifications,14356
+E07000126,South Ribble,Level 1,8782
+E07000126,South Ribble,Level 2,12886
+E07000126,South Ribble,Apprenticeship,6678
+E07000126,South Ribble,Level 3,17422
+E07000126,South Ribble,Level 4+,29235
+E07000126,South Ribble,Other,2140
+E07000127,West Lancashire,No qualifications,17485
+E07000127,West Lancashire,Level 1,9061
+E07000127,West Lancashire,Level 2,13457
+E07000127,West Lancashire,Apprenticeship,5776
+E07000127,West Lancashire,Level 3,20675
+E07000127,West Lancashire,Level 4+,29460
+E07000127,West Lancashire,Other,2418
+E07000128,Wyre,No qualifications,18693
+E07000128,Wyre,Level 1,9497
+E07000128,Wyre,Level 2,13859
+E07000128,Wyre,Apprenticeship,6726
+E07000128,Wyre,Level 3,16519
+E07000128,Wyre,Level 4+,26682
+E07000128,Wyre,Other,2375
+E07000129,Blaby,No qualifications,14463
+E07000129,Blaby,Level 1,8373
+E07000129,Blaby,Level 2,11882
+E07000129,Blaby,Apprenticeship,5944
+E07000129,Blaby,Level 3,15427
+E07000129,Blaby,Level 4+,25547
+E07000129,Blaby,Other,2031
+E07000130,Charnwood,No qualifications,24122
+E07000130,Charnwood,Level 1,13858
+E07000130,Charnwood,Level 2,18970
+E07000130,Charnwood,Apprenticeship,8982
+E07000130,Charnwood,Level 3,33746
+E07000130,Charnwood,Level 4+,49884
+E07000130,Charnwood,Other,3538
+E07000131,Harborough,No qualifications,10937
+E07000131,Harborough,Level 1,7232
+E07000131,Harborough,Level 2,11248
+E07000131,Harborough,Apprenticeship,4832
+E07000131,Harborough,Level 3,13900
+E07000131,Harborough,Level 4+,30387
+E07000131,Harborough,Other,1892
+E07000132,Hinckley and Bosworth,No qualifications,17207
+E07000132,Hinckley and Bosworth,Level 1,10026
+E07000132,Hinckley and Bosworth,Level 2,13584
+E07000132,Hinckley and Bosworth,Apprenticeship,6196
+E07000132,Hinckley and Bosworth,Level 3,16900
+E07000132,Hinckley and Bosworth,Level 4+,27630
+E07000132,Hinckley and Bosworth,Other,2375
+E07000133,Melton,No qualifications,7034
+E07000133,Melton,Level 1,4293
+E07000133,Melton,Level 2,6303
+E07000133,Melton,Apprenticeship,2893
+E07000133,Melton,Level 3,7908
+E07000133,Melton,Level 4+,13349
+E07000133,Melton,Other,1166
+E07000134,North West Leicestershire,No qualifications,15813
+E07000134,North West Leicestershire,Level 1,8570
+E07000134,North West Leicestershire,Level 2,12133
+E07000134,North West Leicestershire,Apprenticeship,5566
+E07000134,North West Leicestershire,Level 3,16173
+E07000134,North West Leicestershire,Level 4+,25818
+E07000134,North West Leicestershire,Other,2092
+E07000135,Oadby and Wigston,No qualifications,8771
+E07000135,Oadby and Wigston,Level 1,4581
+E07000135,Oadby and Wigston,Level 2,6035
+E07000135,Oadby and Wigston,Apprenticeship,2692
+E07000135,Oadby and Wigston,Level 3,8731
+E07000135,Oadby and Wigston,Level 4+,15123
+E07000135,Oadby and Wigston,Other,1277
+E07000136,Boston,No qualifications,15921
+E07000136,Boston,Level 1,7317
+E07000136,Boston,Level 2,8274
+E07000136,Boston,Apprenticeship,4241
+E07000136,Boston,Level 3,8157
+E07000136,Boston,Level 4+,10963
+E07000136,Boston,Other,2711
+E07000137,East Lindsey,No qualifications,30632
+E07000137,East Lindsey,Level 1,13930
+E07000137,East Lindsey,Level 2,18400
+E07000137,East Lindsey,Apprenticeship,8542
+E07000137,East Lindsey,Level 3,20068
+E07000137,East Lindsey,Level 4+,26133
+E07000137,East Lindsey,Other,3713
+E07000138,Lincoln,No qualifications,15135
+E07000138,Lincoln,Level 1,8461
+E07000138,Lincoln,Level 2,11149
+E07000138,Lincoln,Apprenticeship,4845
+E07000138,Lincoln,Level 3,22253
+E07000138,Lincoln,Level 4+,22943
+E07000138,Lincoln,Other,2281
+E07000139,North Kesteven,No qualifications,15887
+E07000139,North Kesteven,Level 1,9741
+E07000139,North Kesteven,Level 2,14570
+E07000139,North Kesteven,Apprenticeship,6344
+E07000139,North Kesteven,Level 3,19662
+E07000139,North Kesteven,Level 4+,29278
+E07000139,North Kesteven,Other,2533
+E07000140,South Holland,No qualifications,19399
+E07000140,South Holland,Level 1,9844
+E07000140,South Holland,Level 2,12424
+E07000140,South Holland,Apprenticeship,5601
+E07000140,South Holland,Level 3,12675
+E07000140,South Holland,Level 4+,15866
+E07000140,South Holland,Other,3188
+E07000141,South Kesteven,No qualifications,19963
+E07000141,South Kesteven,Level 1,12432
+E07000141,South Kesteven,Level 2,17947
+E07000141,South Kesteven,Apprenticeship,7707
+E07000141,South Kesteven,Level 3,21236
+E07000141,South Kesteven,Level 4+,35554
+E07000141,South Kesteven,Other,3174
+E07000142,West Lindsey,No qualifications,14326
+E07000142,West Lindsey,Level 1,8194
+E07000142,West Lindsey,Level 2,11616
+E07000142,West Lindsey,Apprenticeship,5360
+E07000142,West Lindsey,Level 3,14323
+E07000142,West Lindsey,Level 4+,23191
+E07000142,West Lindsey,Other,2107
+E07000143,Breckland,No qualifications,26228
+E07000143,Breckland,Level 1,14196
+E07000143,Breckland,Level 2,18382
+E07000143,Breckland,Apprenticeship,8066
+E07000143,Breckland,Level 3,19911
+E07000143,Breckland,Level 4+,27207
+E07000143,Breckland,Other,3862
+E07000144,Broadland,No qualifications,19415
+E07000144,Broadland,Level 1,12253
+E07000144,Broadland,Level 2,17364
+E07000144,Broadland,Apprenticeship,8114
+E07000144,Broadland,Level 3,20032
+E07000144,Broadland,Level 4+,30320
+E07000144,Broadland,Other,3008
+E07000145,Great Yarmouth,No qualifications,21926
+E07000145,Great Yarmouth,Level 1,10744
+E07000145,Great Yarmouth,Level 2,12935
+E07000145,Great Yarmouth,Apprenticeship,5971
+E07000145,Great Yarmouth,Level 3,13209
+E07000145,Great Yarmouth,Level 4+,15091
+E07000145,Great Yarmouth,Other,2843
+E07000146,King's Lynn and West Norfolk,No qualifications,30136
+E07000146,King's Lynn and West Norfolk,Level 1,15595
+E07000146,King's Lynn and West Norfolk,Level 2,19503
+E07000146,King's Lynn and West Norfolk,Apprenticeship,8226
+E07000146,King's Lynn and West Norfolk,Level 3,21172
+E07000146,King's Lynn and West Norfolk,Level 4+,30036
+E07000146,King's Lynn and West Norfolk,Other,4224
+E07000147,North Norfolk,No qualifications,18332
+E07000147,North Norfolk,Level 1,10337
+E07000147,North Norfolk,Level 2,13574
+E07000147,North Norfolk,Apprenticeship,6300
+E07000147,North Norfolk,Level 3,14426
+E07000147,North Norfolk,Level 4+,23391
+E07000147,North Norfolk,Other,2787
+E07000148,Norwich,No qualifications,20617
+E07000148,Norwich,Level 1,11147
+E07000148,Norwich,Level 2,14453
+E07000148,Norwich,Apprenticeship,5181
+E07000148,Norwich,Level 3,25170
+E07000148,Norwich,Level 4+,41202
+E07000148,Norwich,Other,2992
+E07000149,South Norfolk,No qualifications,19996
+E07000149,South Norfolk,Level 1,11816
+E07000149,South Norfolk,Level 2,17561
+E07000149,South Norfolk,Apprenticeship,7045
+E07000149,South Norfolk,Level 3,20294
+E07000149,South Norfolk,Level 4+,37556
+E07000149,South Norfolk,Other,2951
+E07000163,Craven,No qualifications,7032
+E07000163,Craven,Level 1,4260
+E07000163,Craven,Level 2,6406
+E07000163,Craven,Apprenticeship,3114
+E07000163,Craven,Level 3,8257
+E07000163,Craven,Level 4+,18165
+E07000163,Craven,Other,1050
+E07000164,Hambleton,No qualifications,11686
+E07000164,Hambleton,Level 1,6806
+E07000164,Hambleton,Level 2,10321
+E07000164,Hambleton,Apprenticeship,4998
+E07000164,Hambleton,Level 3,13201
+E07000164,Hambleton,Level 4+,28170
+E07000164,Hambleton,Other,1799
+E07000165,Harrogate,No qualifications,18605
+E07000165,Harrogate,Level 1,11298
+E07000165,Harrogate,Level 2,18794
+E07000165,Harrogate,Apprenticeship,7425
+E07000165,Harrogate,Level 3,21872
+E07000165,Harrogate,Level 4+,54047
+E07000165,Harrogate,Other,3264
+E07000166,Richmondshire,No qualifications,6425
+E07000166,Richmondshire,Level 1,3904
+E07000166,Richmondshire,Level 2,6097
+E07000166,Richmondshire,Apprenticeship,2892
+E07000166,Richmondshire,Level 3,7766
+E07000166,Richmondshire,Level 4+,13702
+E07000166,Richmondshire,Other,954
+E07000167,Ryedale,No qualifications,8210
+E07000167,Ryedale,Level 1,4381
+E07000167,Ryedale,Level 2,6730
+E07000167,Ryedale,Apprenticeship,3010
+E07000167,Ryedale,Level 3,7555
+E07000167,Ryedale,Level 4+,15303
+E07000167,Ryedale,Other,1135
+E07000168,Scarborough,No qualifications,18938
+E07000168,Scarborough,Level 1,9288
+E07000168,Scarborough,Level 2,13002
+E07000168,Scarborough,Apprenticeship,7486
+E07000168,Scarborough,Level 3,15466
+E07000168,Scarborough,Level 4+,25365
+E07000168,Scarborough,Other,2565
+E07000169,Selby,No qualifications,12094
+E07000169,Selby,Level 1,7686
+E07000169,Selby,Level 2,11027
+E07000169,Selby,Apprenticeship,4976
+E07000169,Selby,Level 3,13710
+E07000169,Selby,Level 4+,24194
+E07000169,Selby,Other,1743
+E07000170,Ashfield,No qualifications,24281
+E07000170,Ashfield,Level 1,12299
+E07000170,Ashfield,Level 2,16138
+E07000170,Ashfield,Apprenticeship,6949
+E07000170,Ashfield,Level 3,18393
+E07000170,Ashfield,Level 4+,22185
+E07000170,Ashfield,Other,2602
+E07000171,Bassetlaw,No qualifications,21013
+E07000171,Bassetlaw,Level 1,10651
+E07000171,Bassetlaw,Level 2,14392
+E07000171,Bassetlaw,Apprenticeship,6514
+E07000171,Bassetlaw,Level 3,16961
+E07000171,Bassetlaw,Level 4+,24848
+E07000171,Bassetlaw,Other,2988
+E07000172,Broxtowe,No qualifications,16079
+E07000172,Broxtowe,Level 1,8758
+E07000172,Broxtowe,Level 2,11486
+E07000172,Broxtowe,Apprenticeship,5535
+E07000172,Broxtowe,Level 3,16771
+E07000172,Broxtowe,Level 4+,31640
+E07000172,Broxtowe,Other,2270
+E07000173,Gedling,No qualifications,17002
+E07000173,Gedling,Level 1,9337
+E07000173,Gedling,Level 2,13327
+E07000173,Gedling,Apprenticeship,5965
+E07000173,Gedling,Level 3,17661
+E07000173,Gedling,Level 4+,30727
+E07000173,Gedling,Other,2439
+E07000174,Mansfield,No qualifications,21910
+E07000174,Mansfield,Level 1,10542
+E07000174,Mansfield,Level 2,13216
+E07000174,Mansfield,Apprenticeship,5898
+E07000174,Mansfield,Level 3,15853
+E07000174,Mansfield,Level 4+,19902
+E07000174,Mansfield,Other,2849
+E07000175,Newark and Sherwood,No qualifications,19448
+E07000175,Newark and Sherwood,Level 1,10577
+E07000175,Newark and Sherwood,Level 2,14913
+E07000175,Newark and Sherwood,Apprenticeship,6360
+E07000175,Newark and Sherwood,Level 3,18403
+E07000175,Newark and Sherwood,Level 4+,29579
+E07000175,Newark and Sherwood,Other,2687
+E07000176,Rushcliffe,No qualifications,11727
+E07000176,Rushcliffe,Level 1,6924
+E07000176,Rushcliffe,Level 2,11725
+E07000176,Rushcliffe,Apprenticeship,4378
+E07000176,Rushcliffe,Level 3,16649
+E07000176,Rushcliffe,Level 4+,44227
+E07000176,Rushcliffe,Other,2094
+E07000177,Cherwell,No qualifications,20951
+E07000177,Cherwell,Level 1,13727
+E07000177,Cherwell,Level 2,18169
+E07000177,Cherwell,Apprenticeship,7305
+E07000177,Cherwell,Level 3,20982
+E07000177,Cherwell,Level 4+,45840
+E07000177,Cherwell,Other,3614
+E07000178,Oxford,No qualifications,17204
+E07000178,Oxford,Level 1,8339
+E07000178,Oxford,Level 2,10389
+E07000178,Oxford,Apprenticeship,3798
+E07000178,Oxford,Level 3,28127
+E07000178,Oxford,Level 4+,65698
+E07000178,Oxford,Other,3163
+E07000179,South Oxfordshire,No qualifications,15109
+E07000179,South Oxfordshire,Level 1,10349
+E07000179,South Oxfordshire,Level 2,15412
+E07000179,South Oxfordshire,Apprenticeship,5837
+E07000179,South Oxfordshire,Level 3,19105
+E07000179,South Oxfordshire,Level 4+,52950
+E07000179,South Oxfordshire,Other,2729
+E07000180,Vale of White Horse,No qualifications,14092
+E07000180,Vale of White Horse,Level 1,9588
+E07000180,Vale of White Horse,Level 2,13750
+E07000180,Vale of White Horse,Apprenticeship,5595
+E07000180,Vale of White Horse,Level 3,17367
+E07000180,Vale of White Horse,Level 4+,49504
+E07000180,Vale of White Horse,Other,2530
+E07000181,West Oxfordshire,No qualifications,13058
+E07000181,West Oxfordshire,Level 1,8896
+E07000181,West Oxfordshire,Level 2,12617
+E07000181,West Oxfordshire,Apprenticeship,5076
+E07000181,West Oxfordshire,Level 3,16106
+E07000181,West Oxfordshire,Level 4+,35913
+E07000181,West Oxfordshire,Other,2143
+E07000187,Mendip,No qualifications,15504
+E07000187,Mendip,Level 1,9097
+E07000187,Mendip,Level 2,14339
+E07000187,Mendip,Apprenticeship,5478
+E07000187,Mendip,Level 3,16704
+E07000187,Mendip,Level 4+,32616
+E07000187,Mendip,Other,2313
+E07000188,Sedgemoor,No qualifications,20290
+E07000188,Sedgemoor,Level 1,11654
+E07000188,Sedgemoor,Level 2,16176
+E07000188,Sedgemoor,Apprenticeship,7042
+E07000188,Sedgemoor,Level 3,18553
+E07000188,Sedgemoor,Level 4+,27081
+E07000188,Sedgemoor,Other,2985
+E07000189,South Somerset,No qualifications,23749
+E07000189,South Somerset,Level 1,15108
+E07000189,South Somerset,Level 2,21995
+E07000189,South Somerset,Apprenticeship,10407
+E07000189,South Somerset,Level 3,25900
+E07000189,South Somerset,Level 4+,42574
+E07000189,South Somerset,Other,4078
+E07000192,Cannock Chase,No qualifications,18134
+E07000192,Cannock Chase,Level 1,9826
+E07000192,Cannock Chase,Level 2,13079
+E07000192,Cannock Chase,Apprenticeship,4989
+E07000192,Cannock Chase,Level 3,15521
+E07000192,Cannock Chase,Level 4+,18748
+E07000192,Cannock Chase,Other,2181
+E07000193,East Staffordshire,No qualifications,20231
+E07000193,East Staffordshire,Level 1,10759
+E07000193,East Staffordshire,Level 2,14594
+E07000193,East Staffordshire,Apprenticeship,6021
+E07000193,East Staffordshire,Level 3,17079
+E07000193,East Staffordshire,Level 4+,28826
+E07000193,East Staffordshire,Other,2998
+E07000194,Lichfield,No qualifications,15110
+E07000194,Lichfield,Level 1,8930
+E07000194,Lichfield,Level 2,12487
+E07000194,Lichfield,Apprenticeship,4743
+E07000194,Lichfield,Level 3,15241
+E07000194,Lichfield,Level 4+,29789
+E07000194,Lichfield,Other,2296
+E07000195,Newcastle-under-Lyme,No qualifications,20689
+E07000195,Newcastle-under-Lyme,Level 1,9991
+E07000195,Newcastle-under-Lyme,Level 2,14052
+E07000195,Newcastle-under-Lyme,Apprenticeship,6883
+E07000195,Newcastle-under-Lyme,Level 3,20200
+E07000195,Newcastle-under-Lyme,Level 4+,28938
+E07000195,Newcastle-under-Lyme,Other,2430
+E07000196,South Staffordshire,No qualifications,18011
+E07000196,South Staffordshire,Level 1,9515
+E07000196,South Staffordshire,Level 2,13510
+E07000196,South Staffordshire,Apprenticeship,5924
+E07000196,South Staffordshire,Level 3,16424
+E07000196,South Staffordshire,Level 4+,27448
+E07000196,South Staffordshire,Other,2540
+E07000197,Stafford,No qualifications,17910
+E07000197,Stafford,Level 1,10712
+E07000197,Stafford,Level 2,15946
+E07000197,Stafford,Apprenticeship,6417
+E07000197,Stafford,Level 3,19756
+E07000197,Stafford,Level 4+,39860
+E07000197,Stafford,Other,3014
+E07000198,Staffordshire Moorlands,No qualifications,16223
+E07000198,Staffordshire Moorlands,Level 1,7840
+E07000198,Staffordshire Moorlands,Level 2,11441
+E07000198,Staffordshire Moorlands,Apprenticeship,5730
+E07000198,Staffordshire Moorlands,Level 3,14491
+E07000198,Staffordshire Moorlands,Level 4+,22944
+E07000198,Staffordshire Moorlands,Other,2189
+E07000199,Tamworth,No qualifications,13899
+E07000199,Tamworth,Level 1,8284
+E07000199,Tamworth,Level 2,10718
+E07000199,Tamworth,Apprenticeship,3495
+E07000199,Tamworth,Level 3,11728
+E07000199,Tamworth,Level 4+,13953
+E07000199,Tamworth,Other,1714
+E07000200,Babergh,No qualifications,13491
+E07000200,Babergh,Level 1,8642
+E07000200,Babergh,Level 2,12142
+E07000200,Babergh,Apprenticeship,4783
+E07000200,Babergh,Level 3,13410
+E07000200,Babergh,Level 4+,22817
+E07000200,Babergh,Other,2092
+E07000202,Ipswich,No qualifications,24251
+E07000202,Ipswich,Level 1,13437
+E07000202,Ipswich,Level 2,16100
+E07000202,Ipswich,Apprenticeship,7015
+E07000202,Ipswich,Level 3,18241
+E07000202,Ipswich,Level 4+,29295
+E07000202,Ipswich,Other,3493
+E07000203,Mid Suffolk,No qualifications,15185
+E07000203,Mid Suffolk,Level 1,9148
+E07000203,Mid Suffolk,Level 2,12784
+E07000203,Mid Suffolk,Apprenticeship,5345
+E07000203,Mid Suffolk,Level 3,15667
+E07000203,Mid Suffolk,Level 4+,25917
+E07000203,Mid Suffolk,Other,2259
+E07000207,Elmbridge,No qualifications,11753
+E07000207,Elmbridge,Level 1,7048
+E07000207,Elmbridge,Level 2,12442
+E07000207,Elmbridge,Apprenticeship,3515
+E07000207,Elmbridge,Level 3,14811
+E07000207,Elmbridge,Level 4+,56677
+E07000207,Elmbridge,Other,2528
+E07000208,Epsom and Ewell,No qualifications,8246
+E07000208,Epsom and Ewell,Level 1,5106
+E07000208,Epsom and Ewell,Level 2,8177
+E07000208,Epsom and Ewell,Apprenticeship,2628
+E07000208,Epsom and Ewell,Level 3,10110
+E07000208,Epsom and Ewell,Level 4+,28642
+E07000208,Epsom and Ewell,Other,1698
+E07000209,Guildford,No qualifications,13540
+E07000209,Guildford,Level 1,8646
+E07000209,Guildford,Level 2,13528
+E07000209,Guildford,Apprenticeship,4686
+E07000209,Guildford,Level 3,23554
+E07000209,Guildford,Level 4+,52620
+E07000209,Guildford,Other,2783
+E07000210,Mole Valley,No qualifications,8901
+E07000210,Mole Valley,Level 1,6236
+E07000210,Mole Valley,Level 2,9857
+E07000210,Mole Valley,Apprenticeship,3209
+E07000210,Mole Valley,Level 3,11182
+E07000210,Mole Valley,Level 4+,31214
+E07000210,Mole Valley,Other,1740
+E07000211,Reigate and Banstead,No qualifications,15765
+E07000211,Reigate and Banstead,Level 1,10997
+E07000211,Reigate and Banstead,Level 2,17047
+E07000211,Reigate and Banstead,Apprenticeship,5244
+E07000211,Reigate and Banstead,Level 3,19632
+E07000211,Reigate and Banstead,Level 4+,48338
+E07000211,Reigate and Banstead,Other,3106
+E07000212,Runnymede,No qualifications,10528
+E07000212,Runnymede,Level 1,6543
+E07000212,Runnymede,Level 2,9130
+E07000212,Runnymede,Apprenticeship,3400
+E07000212,Runnymede,Level 3,15509
+E07000212,Runnymede,Level 4+,25643
+E07000212,Runnymede,Other,1964
+E07000213,Spelthorne,No qualifications,14012
+E07000213,Spelthorne,Level 1,9231
+E07000213,Spelthorne,Level 2,12028
+E07000213,Spelthorne,Apprenticeship,4367
+E07000213,Spelthorne,Level 3,13227
+E07000213,Spelthorne,Level 4+,27996
+E07000213,Spelthorne,Other,2501
+E07000214,Surrey Heath,No qualifications,9643
+E07000214,Surrey Heath,Level 1,7076
+E07000214,Surrey Heath,Level 2,10557
+E07000214,Surrey Heath,Apprenticeship,3326
+E07000214,Surrey Heath,Level 3,12377
+E07000214,Surrey Heath,Level 4+,28929
+E07000214,Surrey Heath,Other,1876
+E07000215,Tandridge,No qualifications,9787
+E07000215,Tandridge,Level 1,6662
+E07000215,Tandridge,Level 2,10727
+E07000215,Tandridge,Apprenticeship,3098
+E07000215,Tandridge,Level 3,12267
+E07000215,Tandridge,Level 4+,26516
+E07000215,Tandridge,Other,1769
+E07000216,Waverley,No qualifications,11859
+E07000216,Waverley,Level 1,7531
+E07000216,Waverley,Level 2,13644
+E07000216,Waverley,Apprenticeship,4078
+E07000216,Waverley,Level 3,15825
+E07000216,Waverley,Level 4+,48292
+E07000216,Waverley,Other,2405
+E07000217,Woking,No qualifications,10993
+E07000217,Woking,Level 1,7003
+E07000217,Woking,Level 2,10324
+E07000217,Woking,Apprenticeship,3209
+E07000217,Woking,Level 3,12138
+E07000217,Woking,Level 4+,37112
+E07000217,Woking,Other,2202
+E07000218,North Warwickshire,No qualifications,11954
+E07000218,North Warwickshire,Level 1,6217
+E07000218,North Warwickshire,Level 2,8265
+E07000218,North Warwickshire,Apprenticeship,3281
+E07000218,North Warwickshire,Level 3,9482
+E07000218,North Warwickshire,Level 4+,13387
+E07000218,North Warwickshire,Other,1312
+E07000219,Nuneaton and Bedworth,No qualifications,24568
+E07000219,Nuneaton and Bedworth,Level 1,12912
+E07000219,Nuneaton and Bedworth,Level 2,16263
+E07000219,Nuneaton and Bedworth,Apprenticeship,6746
+E07000219,Nuneaton and Bedworth,Level 3,18440
+E07000219,Nuneaton and Bedworth,Level 4+,26577
+E07000219,Nuneaton and Bedworth,Other,3081
+E07000220,Rugby,No qualifications,14451
+E07000220,Rugby,Level 1,8974
+E07000220,Rugby,Level 2,12919
+E07000220,Rugby,Apprenticeship,5873
+E07000220,Rugby,Level 3,15159
+E07000220,Rugby,Level 4+,32174
+E07000220,Rugby,Other,2640
+E07000221,Stratford-on-Avon,No qualifications,16230
+E07000221,Stratford-on-Avon,Level 1,9845
+E07000221,Stratford-on-Avon,Level 2,15155
+E07000221,Stratford-on-Avon,Apprenticeship,5664
+E07000221,Stratford-on-Avon,Level 3,18532
+E07000221,Stratford-on-Avon,Level 4+,44455
+E07000221,Stratford-on-Avon,Other,2758
+E07000222,Warwick,No qualifications,15548
+E07000222,Warwick,Level 1,9022
+E07000222,Warwick,Level 2,13233
+E07000222,Warwick,Apprenticeship,5157
+E07000222,Warwick,Level 3,21832
+E07000222,Warwick,Level 4+,55685
+E07000222,Warwick,Other,2775
+E07000223,Adur,No qualifications,10333
+E07000223,Adur,Level 1,6065
+E07000223,Adur,Level 2,7949
+E07000223,Adur,Apprenticeship,3325
+E07000223,Adur,Level 3,9055
+E07000223,Adur,Level 4+,14784
+E07000223,Adur,Other,1440
+E07000224,Arun,No qualifications,27534
+E07000224,Arun,Level 1,16142
+E07000224,Arun,Level 2,21323
+E07000224,Arun,Apprenticeship,9101
+E07000224,Arun,Level 3,23983
+E07000224,Arun,Level 4+,36839
+E07000224,Arun,Other,4630
+E07000225,Chichester,No qualifications,15536
+E07000225,Chichester,Level 1,9263
+E07000225,Chichester,Level 2,14360
+E07000225,Chichester,Apprenticeship,5336
+E07000225,Chichester,Level 3,18587
+E07000225,Chichester,Level 4+,38992
+E07000225,Chichester,Other,2636
+E07000226,Crawley,No qualifications,16682
+E07000226,Crawley,Level 1,12423
+E07000226,Crawley,Level 2,15256
+E07000226,Crawley,Apprenticeship,4895
+E07000226,Crawley,Level 3,15358
+E07000226,Crawley,Level 4+,25773
+E07000226,Crawley,Other,3180
+E07000227,Horsham,No qualifications,15075
+E07000227,Horsham,Level 1,11412
+E07000227,Horsham,Level 2,18801
+E07000227,Horsham,Apprenticeship,5837
+E07000227,Horsham,Level 3,21877
+E07000227,Horsham,Level 4+,44615
+E07000227,Horsham,Other,3047
+E07000228,Mid Sussex,No qualifications,14457
+E07000228,Mid Sussex,Level 1,11498
+E07000228,Mid Sussex,Level 2,18511
+E07000228,Mid Sussex,Apprenticeship,5769
+E07000228,Mid Sussex,Level 3,22257
+E07000228,Mid Sussex,Level 4+,47689
+E07000228,Mid Sussex,Other,3135
+E07000229,Worthing,No qualifications,14977
+E07000229,Worthing,Level 1,9868
+E07000229,Worthing,Level 2,14057
+E07000229,Worthing,Apprenticeship,5009
+E07000229,Worthing,Level 3,16416
+E07000229,Worthing,Level 4+,29318
+E07000229,Worthing,Other,2710
+E07000234,Bromsgrove,No qualifications,12725
+E07000234,Bromsgrove,Level 1,7355
+E07000234,Bromsgrove,Level 2,11428
+E07000234,Bromsgrove,Apprenticeship,4338
+E07000234,Bromsgrove,Level 3,13476
+E07000234,Bromsgrove,Level 4+,29698
+E07000234,Bromsgrove,Other,2081
+E07000235,Malvern Hills,No qualifications,9778
+E07000235,Malvern Hills,Level 1,5781
+E07000235,Malvern Hills,Level 2,9379
+E07000235,Malvern Hills,Apprenticeship,3689
+E07000235,Malvern Hills,Level 3,10781
+E07000235,Malvern Hills,Level 4+,26021
+E07000235,Malvern Hills,Other,1691
+E07000236,Redditch,No qualifications,14605
+E07000236,Redditch,Level 1,8168
+E07000236,Redditch,Level 2,11026
+E07000236,Redditch,Apprenticeship,4119
+E07000236,Redditch,Level 3,12108
+E07000236,Redditch,Level 4+,18162
+E07000236,Redditch,Other,2063
+E07000237,Worcester,No qualifications,14869
+E07000237,Worcester,Level 1,7892
+E07000237,Worcester,Level 2,11506
+E07000237,Worcester,Apprenticeship,4558
+E07000237,Worcester,Level 3,15703
+E07000237,Worcester,Level 4+,28872
+E07000237,Worcester,Other,2207
+E07000238,Wychavon,No qualifications,19535
+E07000238,Wychavon,Level 1,11321
+E07000238,Wychavon,Level 2,15311
+E07000238,Wychavon,Apprenticeship,6464
+E07000238,Wychavon,Level 3,18393
+E07000238,Wychavon,Level 4+,36591
+E07000238,Wychavon,Other,3102
+E07000239,Wyre Forest,No qualifications,18419
+E07000239,Wyre Forest,Level 1,9053
+E07000239,Wyre Forest,Level 2,12683
+E07000239,Wyre Forest,Apprenticeship,5610
+E07000239,Wyre Forest,Level 3,14402
+E07000239,Wyre Forest,Level 4+,22057
+E07000239,Wyre Forest,Other,2339
+E07000240,St Albans,No qualifications,11783
+E07000240,St Albans,Level 1,7775
+E07000240,St Albans,Level 2,13318
+E07000240,St Albans,Apprenticeship,4003
+E07000240,St Albans,Level 3,15218
+E07000240,St Albans,Level 4+,61536
+E07000240,St Albans,Other,2458
+E07000241,Welwyn Hatfield,No qualifications,13975
+E07000241,Welwyn Hatfield,Level 1,8998
+E07000241,Welwyn Hatfield,Level 2,12533
+E07000241,Welwyn Hatfield,Apprenticeship,4352
+E07000241,Welwyn Hatfield,Level 3,18576
+E07000241,Welwyn Hatfield,Level 4+,36378
+E07000241,Welwyn Hatfield,Other,2672
+E07000242,East Hertfordshire,No qualifications,16756
+E07000242,East Hertfordshire,Level 1,11407
+E07000242,East Hertfordshire,Level 2,17400
+E07000242,East Hertfordshire,Apprenticeship,5691
+E07000242,East Hertfordshire,Level 3,20392
+E07000242,East Hertfordshire,Level 4+,46724
+E07000242,East Hertfordshire,Other,2782
+E07000243,Stevenage,No qualifications,12113
+E07000243,Stevenage,Level 1,9213
+E07000243,Stevenage,Level 2,10908
+E07000243,Stevenage,Apprenticeship,3836
+E07000243,Stevenage,Level 3,12205
+E07000243,Stevenage,Level 4+,21096
+E07000243,Stevenage,Other,1865
+E07000244,East Suffolk,No qualifications,40105
+E07000244,East Suffolk,Level 1,23295
+E07000244,East Suffolk,Level 2,31039
+E07000244,East Suffolk,Apprenticeship,14261
+E07000244,East Suffolk,Level 3,34993
+E07000244,East Suffolk,Level 4+,56968
+E07000244,East Suffolk,Other,6058
+E07000245,West Suffolk,No qualifications,31016
+E07000245,West Suffolk,Level 1,16000
+E07000245,West Suffolk,Level 2,20814
+E07000245,West Suffolk,Apprenticeship,9349
+E07000245,West Suffolk,Level 3,23853
+E07000245,West Suffolk,Level 4+,42235
+E07000245,West Suffolk,Other,4861
+E07000246,Somerset West and Taunton,No qualifications,21532
+E07000246,Somerset West and Taunton,Level 1,12641
+E07000246,Somerset West and Taunton,Level 2,20160
+E07000246,Somerset West and Taunton,Apprenticeship,7892
+E07000246,Somerset West and Taunton,Level 3,22628
+E07000246,Somerset West and Taunton,Level 4+,42630
+E07000246,Somerset West and Taunton,Other,3812
+E08000001,Bolton,No qualifications,52451
+E08000001,Bolton,Level 1,24792
+E08000001,Bolton,Level 2,32352
+E08000001,Bolton,Apprenticeship,14327
+E08000001,Bolton,Level 3,38190
+E08000001,Bolton,Level 4+,63678
+E08000001,Bolton,Other,6497
+E08000002,Bury,No qualifications,28706
+E08000002,Bury,Level 1,15069
+E08000002,Bury,Level 2,22659
+E08000002,Bury,Apprenticeship,8605
+E08000002,Bury,Level 3,25587
+E08000002,Bury,Level 4+,50036
+E08000002,Bury,Other,4211
+E08000003,Manchester,No qualifications,86110
+E08000003,Manchester,Level 1,34988
+E08000003,Manchester,Level 2,45164
+E08000003,Manchester,Apprenticeship,15322
+E08000003,Manchester,Level 3,79621
+E08000003,Manchester,Level 4+,164763
+E08000003,Manchester,Other,11990
+E08000004,Oldham,No qualifications,46208
+E08000004,Oldham,Level 1,20672
+E08000004,Oldham,Level 2,26021
+E08000004,Oldham,Apprenticeship,11939
+E08000004,Oldham,Level 3,30829
+E08000004,Oldham,Level 4+,46023
+E08000004,Oldham,Other,5343
+E08000005,Rochdale,No qualifications,40649
+E08000005,Rochdale,Level 1,18414
+E08000005,Rochdale,Level 2,24559
+E08000005,Rochdale,Apprenticeship,10564
+E08000005,Rochdale,Level 3,29467
+E08000005,Rochdale,Level 4+,46238
+E08000005,Rochdale,Other,5056
+E08000006,Salford,No qualifications,42829
+E08000006,Salford,Level 1,20027
+E08000006,Salford,Level 2,27231
+E08000006,Salford,Apprenticeship,11687
+E08000006,Salford,Level 3,36911
+E08000006,Salford,Level 4+,72678
+E08000006,Salford,Other,5560
+E08000007,Stockport,No qualifications,37081
+E08000007,Stockport,Level 1,21831
+E08000007,Stockport,Level 2,32340
+E08000007,Stockport,Apprenticeship,13923
+E08000007,Stockport,Level 3,38563
+E08000007,Stockport,Level 4+,89741
+E08000007,Stockport,Other,5448
+E08000008,Tameside,No qualifications,40437
+E08000008,Tameside,Level 1,20811
+E08000008,Tameside,Level 2,28050
+E08000008,Tameside,Apprenticeship,12776
+E08000008,Tameside,Level 3,32847
+E08000008,Tameside,Level 4+,45214
+E08000008,Tameside,Other,5000
+E08000009,Trafford,No qualifications,25990
+E08000009,Trafford,Level 1,15309
+E08000009,Trafford,Level 2,23608
+E08000009,Trafford,Apprenticeship,8931
+E08000009,Trafford,Level 3,28141
+E08000009,Trafford,Level 4+,79961
+E08000009,Trafford,Other,4211
+E08000010,Wigan,No qualifications,56571
+E08000010,Wigan,Level 1,28257
+E08000010,Wigan,Level 2,41466
+E08000010,Wigan,Apprenticeship,18997
+E08000010,Wigan,Level 3,47383
+E08000010,Wigan,Level 4+,69357
+E08000010,Wigan,Other,6663
+E08000011,Knowsley,No qualifications,32600
+E08000011,Knowsley,Level 1,13203
+E08000011,Knowsley,Level 2,17898
+E08000011,Knowsley,Apprenticeship,6817
+E08000011,Knowsley,Level 3,21411
+E08000011,Knowsley,Level 4+,29578
+E08000011,Knowsley,Other,2792
+E08000012,Liverpool,No qualifications,90049
+E08000012,Liverpool,Level 1,34955
+E08000012,Liverpool,Level 2,46141
+E08000012,Liverpool,Apprenticeship,17624
+E08000012,Liverpool,Level 3,80909
+E08000012,Liverpool,Level 4+,124150
+E08000012,Liverpool,Other,9200
+E08000013,St. Helens,No qualifications,32245
+E08000013,St. Helens,Level 1,15613
+E08000013,St. Helens,Level 2,22079
+E08000013,St. Helens,Apprenticeship,9728
+E08000013,St. Helens,Level 3,26153
+E08000013,St. Helens,Level 4+,40903
+E08000013,St. Helens,Other,3850
+E08000014,Sefton,No qualifications,45890
+E08000014,Sefton,Level 1,23885
+E08000014,Sefton,Level 2,32729
+E08000014,Sefton,Apprenticeship,13808
+E08000014,Sefton,Level 3,40580
+E08000014,Sefton,Level 4+,69495
+E08000014,Sefton,Other,6005
+E08000015,Wirral,No qualifications,46894
+E08000015,Wirral,Level 1,25282
+E08000015,Wirral,Level 2,38576
+E08000015,Wirral,Apprenticeship,15663
+E08000015,Wirral,Level 3,46887
+E08000015,Wirral,Level 4+,82451
+E08000015,Wirral,Other,6359
+E08000016,Barnsley,No qualifications,50329
+E08000016,Barnsley,Level 1,21589
+E08000016,Barnsley,Level 2,28977
+E08000016,Barnsley,Apprenticeship,13193
+E08000016,Barnsley,Level 3,33652
+E08000016,Barnsley,Level 4+,46798
+E08000016,Barnsley,Other,5252
+E08000017,Doncaster,No qualifications,61805
+E08000017,Doncaster,Level 1,28721
+E08000017,Doncaster,Level 2,37907
+E08000017,Doncaster,Apprenticeship,16765
+E08000017,Doncaster,Level 3,41594
+E08000017,Doncaster,Level 4+,56931
+E08000017,Doncaster,Other,7205
+E08000018,Rotherham,No qualifications,50529
+E08000018,Rotherham,Level 1,24545
+E08000018,Rotherham,Level 2,33613
+E08000018,Rotherham,Apprenticeship,14398
+E08000018,Rotherham,Level 3,36879
+E08000018,Rotherham,Level 4+,49807
+E08000018,Rotherham,Other,5802
+E08000019,Sheffield,No qualifications,88425
+E08000019,Sheffield,Level 1,41454
+E08000019,Sheffield,Level 2,53589
+E08000019,Sheffield,Apprenticeship,24865
+E08000019,Sheffield,Level 3,84712
+E08000019,Sheffield,Level 4+,152194
+E08000019,Sheffield,Other,11011
+E08000021,Newcastle upon Tyne,No qualifications,46232
+E08000021,Newcastle upon Tyne,Level 1,19729
+E08000021,Newcastle upon Tyne,Level 2,25891
+E08000021,Newcastle upon Tyne,Apprenticeship,11943
+E08000021,Newcastle upon Tyne,Level 3,52768
+E08000021,Newcastle upon Tyne,Level 4+,86063
+E08000021,Newcastle upon Tyne,Other,5824
+E08000022,North Tyneside,No qualifications,29968
+E08000022,North Tyneside,Level 1,16025
+E08000022,North Tyneside,Level 2,24300
+E08000022,North Tyneside,Apprenticeship,11773
+E08000022,North Tyneside,Level 3,28969
+E08000022,North Tyneside,Level 4+,56375
+E08000022,North Tyneside,Other,4102
+E08000023,South Tyneside,No qualifications,24849
+E08000023,South Tyneside,Level 1,12323
+E08000023,South Tyneside,Level 2,17393
+E08000023,South Tyneside,Apprenticeship,9706
+E08000023,South Tyneside,Level 3,22265
+E08000023,South Tyneside,Level 4+,31707
+E08000023,South Tyneside,Other,3049
+E08000024,Sunderland,No qualifications,51666
+E08000024,Sunderland,Level 1,24530
+E08000024,Sunderland,Level 2,33553
+E08000024,Sunderland,Apprenticeship,16312
+E08000024,Sunderland,Level 3,38679
+E08000024,Sunderland,Level 4+,55532
+E08000024,Sunderland,Other,5799
+E08000025,Birmingham,No qualifications,212198
+E08000025,Birmingham,Level 1,90079
+E08000025,Birmingham,Level 2,111212
+E08000025,Birmingham,Apprenticeship,32425
+E08000025,Birmingham,Level 3,152046
+E08000025,Birmingham,Level 4+,265806
+E08000025,Birmingham,Other,25857
+E08000026,Coventry,No qualifications,53671
+E08000026,Coventry,Level 1,27542
+E08000026,Coventry,Level 2,34920
+E08000026,Coventry,Apprenticeship,14284
+E08000026,Coventry,Level 3,52525
+E08000026,Coventry,Level 4+,84691
+E08000026,Coventry,Other,9240
+E08000027,Dudley,No qualifications,60569
+E08000027,Dudley,Level 1,28475
+E08000027,Dudley,Level 2,39480
+E08000027,Dudley,Apprenticeship,15703
+E08000027,Dudley,Level 3,45064
+E08000027,Dudley,Level 4+,65589
+E08000027,Dudley,Other,7608
+E08000028,Sandwell,No qualifications,76839
+E08000028,Sandwell,Level 1,30586
+E08000028,Sandwell,Level 2,36175
+E08000028,Sandwell,Apprenticeship,12758
+E08000028,Sandwell,Level 3,39465
+E08000028,Sandwell,Level 4+,60316
+E08000028,Sandwell,Other,9889
+E08000029,Solihull,No qualifications,30642
+E08000029,Solihull,Level 1,16623
+E08000029,Solihull,Level 2,24691
+E08000029,Solihull,Apprenticeship,8069
+E08000029,Solihull,Level 3,28266
+E08000029,Solihull,Level 4+,61847
+E08000029,Solihull,Other,4365
+E08000030,Walsall,No qualifications,58781
+E08000030,Walsall,Level 1,25619
+E08000030,Walsall,Level 2,31738
+E08000030,Walsall,Apprenticeship,11823
+E08000030,Walsall,Level 3,35038
+E08000030,Walsall,Level 4+,52903
+E08000030,Walsall,Other,7198
+E08000031,Wolverhampton,No qualifications,52803
+E08000031,Wolverhampton,Level 1,22947
+E08000031,Wolverhampton,Level 2,28741
+E08000031,Wolverhampton,Apprenticeship,10241
+E08000031,Wolverhampton,Level 3,31391
+E08000031,Wolverhampton,Level 4+,54712
+E08000031,Wolverhampton,Other,7606
+E08000032,Bradford,No qualifications,101122
+E08000032,Bradford,Level 1,46051
+E08000032,Bradford,Level 2,57458
+E08000032,Bradford,Apprenticeship,22777
+E08000032,Bradford,Level 3,66275
+E08000032,Bradford,Level 4+,115663
+E08000032,Bradford,Other,12228
+E08000033,Calderdale,No qualifications,31965
+E08000033,Calderdale,Level 1,16313
+E08000033,Calderdale,Level 2,23351
+E08000033,Calderdale,Apprenticeship,10524
+E08000033,Calderdale,Level 3,29096
+E08000033,Calderdale,Level 4+,51419
+E08000033,Calderdale,Other,3966
+E08000034,Kirklees,No qualifications,71832
+E08000034,Kirklees,Level 1,33776
+E08000034,Kirklees,Level 2,46112
+E08000034,Kirklees,Apprenticeship,21655
+E08000034,Kirklees,Level 3,60187
+E08000034,Kirklees,Level 4+,103532
+E08000034,Kirklees,Other,9180
+E08000035,Leeds,No qualifications,119597
+E08000035,Leeds,Level 1,60190
+E08000035,Leeds,Level 2,79192
+E08000035,Leeds,Apprenticeship,34353
+E08000035,Leeds,Level 3,120782
+E08000035,Leeds,Level 4+,228358
+E08000035,Leeds,Other,15996
+E08000036,Wakefield,No qualifications,70233
+E08000036,Wakefield,Level 1,31086
+E08000036,Wakefield,Level 2,42945
+E08000036,Wakefield,Apprenticeship,18709
+E08000036,Wakefield,Level 3,46794
+E08000036,Wakefield,Level 4+,69797
+E08000036,Wakefield,Other,7975
+E08000037,Gateshead,No qualifications,34975
+E08000037,Gateshead,Level 1,16022
+E08000037,Gateshead,Level 2,22280
+E08000037,Gateshead,Apprenticeship,11629
+E08000037,Gateshead,Level 3,27436
+E08000037,Gateshead,Level 4+,45246
+E08000037,Gateshead,Other,4158
+E09000001,City of London,No qualifications,529
+E09000001,City of London,Level 1,223
+E09000001,City of London,Level 2,392
+E09000001,City of London,Apprenticeship,80
+E09000001,City of London,Level 3,708
+E09000001,City of London,Level 4+,5939
+E09000001,City of London,Other,135
+E09000002,Barking and Dagenham,No qualifications,36796
+E09000002,Barking and Dagenham,Level 1,16752
+E09000002,Barking and Dagenham,Level 2,20367
+E09000002,Barking and Dagenham,Apprenticeship,6260
+E09000002,Barking and Dagenham,Level 3,21819
+E09000002,Barking and Dagenham,Level 4+,53791
+E09000002,Barking and Dagenham,Other,5961
+E09000003,Barnet,No qualifications,47762
+E09000003,Barnet,Level 1,21302
+E09000003,Barnet,Level 2,30687
+E09000003,Barnet,Apprenticeship,9630
+E09000003,Barnet,Level 3,38541
+E09000003,Barnet,Level 4+,151642
+E09000003,Barnet,Other,9790
+E09000004,Bexley,No qualifications,35582
+E09000004,Bexley,Level 1,21413
+E09000004,Bexley,Level 2,28535
+E09000004,Bexley,Apprenticeship,10225
+E09000004,Bexley,Level 3,32511
+E09000004,Bexley,Level 4+,61837
+E09000004,Bexley,Other,5722
+E09000005,Brent,No qualifications,59770
+E09000005,Brent,Level 1,24296
+E09000005,Brent,Level 2,26148
+E09000005,Brent,Apprenticeship,9529
+E09000005,Brent,Level 3,34338
+E09000005,Brent,Level 4+,109998
+E09000005,Brent,Other,11064
+E09000006,Bromley,No qualifications,36581
+E09000006,Bromley,Level 1,23030
+E09000006,Bromley,Level 2,35258
+E09000006,Bromley,Apprenticeship,10559
+E09000006,Bromley,Level 3,39420
+E09000006,Bromley,Level 4+,113508
+E09000006,Bromley,Other,6732
+E09000007,Camden,No qualifications,20948
+E09000007,Camden,Level 1,8996
+E09000007,Camden,Level 2,12776
+E09000007,Camden,Apprenticeship,3402
+E09000007,Camden,Level 3,25154
+E09000007,Camden,Level 4+,101932
+E09000007,Camden,Other,4701
+E09000008,Croydon,No qualifications,49877
+E09000008,Croydon,Level 1,28370
+E09000008,Croydon,Level 2,38241
+E09000008,Croydon,Apprenticeship,11786
+E09000008,Croydon,Level 3,45535
+E09000008,Croydon,Level 4+,127342
+E09000008,Croydon,Other,9246
+E09000009,Ealing,No qualifications,52925
+E09000009,Ealing,Level 1,23821
+E09000009,Ealing,Level 2,27461
+E09000009,Ealing,Apprenticeship,10012
+E09000009,Ealing,Level 3,37920
+E09000009,Ealing,Level 4+,130981
+E09000009,Ealing,Other,12251
+E09000010,Enfield,No qualifications,57813
+E09000010,Enfield,Level 1,24151
+E09000010,Enfield,Level 2,29005
+E09000010,Enfield,Apprenticeship,10055
+E09000010,Enfield,Level 3,34476
+E09000010,Enfield,Level 4+,93371
+E09000010,Enfield,Other,8311
+E09000011,Greenwich,No qualifications,38319
+E09000011,Greenwich,Level 1,18349
+E09000011,Greenwich,Level 2,23747
+E09000011,Greenwich,Apprenticeship,7937
+E09000011,Greenwich,Level 3,30154
+E09000011,Greenwich,Level 4+,104926
+E09000011,Greenwich,Other,6316
+E09000012,Hackney,No qualifications,35043
+E09000012,Hackney,Level 1,12782
+E09000012,Hackney,Level 2,17449
+E09000012,Hackney,Apprenticeship,4938
+E09000012,Hackney,Level 3,24171
+E09000012,Hackney,Level 4+,109724
+E09000012,Hackney,Other,5361
+E09000013,Hammersmith and Fulham,No qualifications,18332
+E09000013,Hammersmith and Fulham,Level 1,7892
+E09000013,Hammersmith and Fulham,Level 2,11387
+E09000013,Hammersmith and Fulham,Apprenticeship,3534
+E09000013,Hammersmith and Fulham,Level 3,20165
+E09000013,Hammersmith and Fulham,Level 4+,89043
+E09000013,Hammersmith and Fulham,Other,4273
+E09000014,Haringey,No qualifications,39921
+E09000014,Haringey,Level 1,14732
+E09000014,Haringey,Level 2,18392
+E09000014,Haringey,Apprenticeship,6781
+E09000014,Haringey,Level 3,25260
+E09000014,Haringey,Level 4+,104270
+E09000014,Haringey,Other,6644
+E09000015,Harrow,No qualifications,36454
+E09000015,Harrow,Level 1,17150
+E09000015,Harrow,Level 2,21857
+E09000015,Harrow,Apprenticeship,6656
+E09000015,Harrow,Level 3,26422
+E09000015,Harrow,Level 4+,94317
+E09000015,Harrow,Other,6764
+E09000016,Havering,No qualifications,41947
+E09000016,Havering,Level 1,23453
+E09000016,Havering,Level 2,31228
+E09000016,Havering,Apprenticeship,10778
+E09000016,Havering,Level 3,34125
+E09000016,Havering,Level 4+,61921
+E09000016,Havering,Other,6278
+E09000017,Hillingdon,No qualifications,43906
+E09000017,Hillingdon,Level 1,23872
+E09000017,Hillingdon,Level 2,28514
+E09000017,Hillingdon,Apprenticeship,10298
+E09000017,Hillingdon,Level 3,35836
+E09000017,Hillingdon,Level 4+,90664
+E09000017,Hillingdon,Other,8788
+E09000018,Hounslow,No qualifications,42630
+E09000018,Hounslow,Level 1,21674
+E09000018,Hounslow,Level 2,23390
+E09000018,Hounslow,Apprenticeship,8090
+E09000018,Hounslow,Level 3,28046
+E09000018,Hounslow,Level 4+,95076
+E09000018,Hounslow,Other,9775
+E09000019,Islington,No qualifications,25257
+E09000019,Islington,Level 1,10273
+E09000019,Islington,Level 2,13146
+E09000019,Islington,Apprenticeship,4212
+E09000019,Islington,Level 3,22337
+E09000019,Islington,Level 4+,103975
+E09000019,Islington,Other,4426
+E09000020,Kensington and Chelsea,No qualifications,13971
+E09000020,Kensington and Chelsea,Level 1,5446
+E09000020,Kensington and Chelsea,Level 2,8803
+E09000020,Kensington and Chelsea,Apprenticeship,2378
+E09000020,Kensington and Chelsea,Level 3,15439
+E09000020,Kensington and Chelsea,Level 4+,73226
+E09000020,Kensington and Chelsea,Other,3826
+E09000021,Kingston upon Thames,No qualifications,16128
+E09000021,Kingston upon Thames,Level 1,8744
+E09000021,Kingston upon Thames,Level 2,13319
+E09000021,Kingston upon Thames,Apprenticeship,4324
+E09000021,Kingston upon Thames,Level 3,19766
+E09000021,Kingston upon Thames,Level 4+,69582
+E09000021,Kingston upon Thames,Other,3603
+E09000022,Lambeth,No qualifications,35185
+E09000022,Lambeth,Level 1,16252
+E09000022,Lambeth,Level 2,21025
+E09000022,Lambeth,Apprenticeship,6973
+E09000022,Lambeth,Level 3,31935
+E09000022,Lambeth,Level 4+,151312
+E09000022,Lambeth,Other,6263
+E09000023,Lewisham,No qualifications,35447
+E09000023,Lewisham,Level 1,17738
+E09000023,Lewisham,Level 2,23426
+E09000023,Lewisham,Apprenticeship,7261
+E09000023,Lewisham,Level 3,31537
+E09000023,Lewisham,Level 4+,120814
+E09000023,Lewisham,Other,6187
+E09000024,Merton,No qualifications,24609
+E09000024,Merton,Level 1,12368
+E09000024,Merton,Level 2,16510
+E09000024,Merton,Apprenticeship,5752
+E09000024,Merton,Level 3,21786
+E09000024,Merton,Level 4+,86412
+E09000024,Merton,Other,5334
+E09000025,Newham,No qualifications,57151
+E09000025,Newham,Level 1,24931
+E09000025,Newham,Level 2,28082
+E09000025,Newham,Apprenticeship,8619
+E09000025,Newham,Level 3,35783
+E09000025,Newham,Level 4+,111130
+E09000025,Newham,Other,10478
+E09000026,Redbridge,No qualifications,41948
+E09000026,Redbridge,Level 1,20878
+E09000026,Redbridge,Level 2,27163
+E09000026,Redbridge,Apprenticeship,7557
+E09000026,Redbridge,Level 3,33074
+E09000026,Redbridge,Level 4+,102696
+E09000026,Redbridge,Other,8701
+E09000027,Richmond upon Thames,No qualifications,14163
+E09000027,Richmond upon Thames,Level 1,7779
+E09000027,Richmond upon Thames,Level 2,14029
+E09000027,Richmond upon Thames,Apprenticeship,3743
+E09000027,Richmond upon Thames,Level 3,18830
+E09000027,Richmond upon Thames,Level 4+,94089
+E09000027,Richmond upon Thames,Other,3201
+E09000028,Southwark,No qualifications,35516
+E09000028,Southwark,Level 1,15851
+E09000028,Southwark,Level 2,20135
+E09000028,Southwark,Apprenticeship,6509
+E09000028,Southwark,Level 3,31574
+E09000028,Southwark,Level 4+,140514
+E09000028,Southwark,Other,6037
+E09000029,Sutton,No qualifications,25122
+E09000029,Sutton,Level 1,15348
+E09000029,Sutton,Level 2,21432
+E09000029,Sutton,Apprenticeship,7281
+E09000029,Sutton,Level 3,25866
+E09000029,Sutton,Level 4+,65889
+E09000029,Sutton,Other,4719
+E09000030,Tower Hamlets,No qualifications,40999
+E09000030,Tower Hamlets,Level 1,17155
+E09000030,Tower Hamlets,Level 2,21433
+E09000030,Tower Hamlets,Apprenticeship,5441
+E09000030,Tower Hamlets,Level 3,33343
+E09000030,Tower Hamlets,Level 4+,127299
+E09000030,Tower Hamlets,Other,7213
+E09000031,Waltham Forest,No qualifications,40535
+E09000031,Waltham Forest,Level 1,18874
+E09000031,Waltham Forest,Level 2,23106
+E09000031,Waltham Forest,Apprenticeship,7699
+E09000031,Waltham Forest,Level 3,28770
+E09000031,Waltham Forest,Level 4+,95910
+E09000031,Waltham Forest,Other,7288
+E09000032,Wandsworth,No qualifications,27202
+E09000032,Wandsworth,Level 1,12759
+E09000032,Wandsworth,Level 2,18895
+E09000032,Wandsworth,Apprenticeship,5578
+E09000032,Wandsworth,Level 3,31214
+E09000032,Wandsworth,Level 4+,171346
+E09000032,Wandsworth,Other,6564
+E09000033,Westminster,No qualifications,22882
+E09000033,Westminster,Level 1,8615
+E09000033,Westminster,Level 2,12181
+E09000033,Westminster,Apprenticeship,3746
+E09000033,Westminster,Level 3,22019
+E09000033,Westminster,Level 4+,102356
+E09000033,Westminster,Other,5668
+W06000001,Isle of Anglesey,No qualifications,10270
+W06000001,Isle of Anglesey,Level 1,4828
+W06000001,Isle of Anglesey,Level 2,8455
+W06000001,Isle of Anglesey,Apprenticeship,3752
+W06000001,Isle of Anglesey,Level 3,9930
+W06000001,Isle of Anglesey,Level 4+,18445
+W06000001,Isle of Anglesey,Other,1467
+W06000002,Gwynedd,No qualifications,15937
+W06000002,Gwynedd,Level 1,7421
+W06000002,Gwynedd,Level 2,14302
+W06000002,Gwynedd,Apprenticeship,5715
+W06000002,Gwynedd,Level 3,18370
+W06000002,Gwynedd,Level 4+,33807
+W06000002,Gwynedd,Other,2416
+W06000003,Conwy,No qualifications,17998
+W06000003,Conwy,Level 1,8317
+W06000003,Conwy,Level 2,13890
+W06000003,Conwy,Apprenticeship,6111
+W06000003,Conwy,Level 3,15948
+W06000003,Conwy,Level 4+,31232
+W06000003,Conwy,Other,2868
+W06000004,Denbighshire,No qualifications,15668
+W06000004,Denbighshire,Level 1,7175
+W06000004,Denbighshire,Level 2,11990
+W06000004,Denbighshire,Apprenticeship,4966
+W06000004,Denbighshire,Level 3,12903
+W06000004,Denbighshire,Level 4+,24010
+W06000004,Denbighshire,Other,2196
+W06000005,Flintshire,No qualifications,23373
+W06000005,Flintshire,Level 1,12648
+W06000005,Flintshire,Level 2,19486
+W06000005,Flintshire,Apprenticeship,8431
+W06000005,Flintshire,Level 3,22746
+W06000005,Flintshire,Level 4+,37209
+W06000005,Flintshire,Other,3685
+W06000006,Wrexham,No qualifications,23095
+W06000006,Wrexham,Level 1,10473
+W06000006,Wrexham,Level 2,16995
+W06000006,Wrexham,Apprenticeship,6816
+W06000006,Wrexham,Level 3,17690
+W06000006,Wrexham,Level 4+,32037
+W06000006,Wrexham,Other,3169
+W06000008,Ceredigion,No qualifications,9036
+W06000008,Ceredigion,Level 1,4513
+W06000008,Ceredigion,Level 2,8411
+W06000008,Ceredigion,Apprenticeship,3297
+W06000008,Ceredigion,Level 3,13036
+W06000008,Ceredigion,Level 4+,21653
+W06000008,Ceredigion,Other,1445
+W06000009,Pembrokeshire,No qualifications,19283
+W06000009,Pembrokeshire,Level 1,9333
+W06000009,Pembrokeshire,Level 2,15533
+W06000009,Pembrokeshire,Apprenticeship,6373
+W06000009,Pembrokeshire,Level 3,17462
+W06000009,Pembrokeshire,Level 4+,31991
+W06000009,Pembrokeshire,Other,2576
+W06000010,Carmarthenshire,No qualifications,31165
+W06000010,Carmarthenshire,Level 1,13267
+W06000010,Carmarthenshire,Level 2,23691
+W06000010,Carmarthenshire,Apprenticeship,9652
+W06000010,Carmarthenshire,Level 3,25018
+W06000010,Carmarthenshire,Level 4+,48644
+W06000010,Carmarthenshire,Other,4049
+W06000011,Swansea,No qualifications,37304
+W06000011,Swansea,Level 1,15552
+W06000011,Swansea,Level 2,27362
+W06000011,Swansea,Apprenticeship,11525
+W06000011,Swansea,Level 3,36055
+W06000011,Swansea,Level 4+,64835
+W06000011,Swansea,Other,5228
+W06000012,Neath Port Talbot,No qualifications,27722
+W06000012,Neath Port Talbot,Level 1,10667
+W06000012,Neath Port Talbot,Level 2,17359
+W06000012,Neath Port Talbot,Apprenticeship,7557
+W06000012,Neath Port Talbot,Level 3,20433
+W06000012,Neath Port Talbot,Level 4+,30280
+W06000012,Neath Port Talbot,Other,3164
+W06000013,Bridgend,No qualifications,25993
+W06000013,Bridgend,Level 1,10624
+W06000013,Bridgend,Level 2,17717
+W06000013,Bridgend,Apprenticeship,6572
+W06000013,Bridgend,Level 3,19477
+W06000013,Bridgend,Level 4+,35852
+W06000013,Bridgend,Other,3247
+W06000014,Vale of Glamorgan,No qualifications,16740
+W06000014,Vale of Glamorgan,Level 1,8902
+W06000014,Vale of Glamorgan,Level 2,15459
+W06000014,Vale of Glamorgan,Apprenticeship,5671
+W06000014,Vale of Glamorgan,Level 3,17835
+W06000014,Vale of Glamorgan,Level 4+,40062
+W06000014,Vale of Glamorgan,Other,2788
+W06000015,Cardiff,No qualifications,48399
+W06000015,Cardiff,Level 1,20457
+W06000015,Cardiff,Level 2,32900
+W06000015,Cardiff,Apprenticeship,11522
+W06000015,Cardiff,Level 3,56856
+W06000015,Cardiff,Level 4+,118529
+W06000015,Cardiff,Other,7650
+W06000016,Rhondda Cynon Taf,No qualifications,46915
+W06000016,Rhondda Cynon Taf,Level 1,18283
+W06000016,Rhondda Cynon Taf,Level 2,29121
+W06000016,Rhondda Cynon Taf,Apprenticeship,9966
+W06000016,Rhondda Cynon Taf,Level 3,32637
+W06000016,Rhondda Cynon Taf,Level 4+,51749
+W06000016,Rhondda Cynon Taf,Other,5170
+W06000018,Caerphilly,No qualifications,34625
+W06000018,Caerphilly,Level 1,14433
+W06000018,Caerphilly,Level 2,22242
+W06000018,Caerphilly,Apprenticeship,7889
+W06000018,Caerphilly,Level 3,24146
+W06000018,Caerphilly,Level 4+,36306
+W06000018,Caerphilly,Other,3841
+W06000019,Blaenau Gwent,No qualifications,15376
+W06000019,Blaenau Gwent,Level 1,5980
+W06000019,Blaenau Gwent,Level 2,8554
+W06000019,Blaenau Gwent,Apprenticeship,3151
+W06000019,Blaenau Gwent,Level 3,8647
+W06000019,Blaenau Gwent,Level 4+,11892
+W06000019,Blaenau Gwent,Other,1544
+W06000020,Torfaen,No qualifications,16631
+W06000020,Torfaen,Level 1,7697
+W06000020,Torfaen,Level 2,11458
+W06000020,Torfaen,Apprenticeship,4311
+W06000020,Torfaen,Level 3,12736
+W06000020,Torfaen,Level 4+,20128
+W06000020,Torfaen,Other,2152
+W06000021,Monmouthshire,No qualifications,12315
+W06000021,Monmouthshire,Level 1,6463
+W06000021,Monmouthshire,Level 2,10589
+W06000021,Monmouthshire,Apprenticeship,3958
+W06000021,Monmouthshire,Level 3,12172
+W06000021,Monmouthshire,Level 4+,30809
+W06000021,Monmouthshire,Other,1933
+W06000022,Newport,No qualifications,27690
+W06000022,Newport,Level 1,11741
+W06000022,Newport,Level 2,18188
+W06000022,Newport,Apprenticeship,6498
+W06000022,Newport,Level 3,19978
+W06000022,Newport,Level 4+,39544
+W06000022,Newport,Other,3784
+W06000023,Powys,No qualifications,21316
+W06000023,Powys,Level 1,9694
+W06000023,Powys,Level 2,16747
+W06000023,Powys,Apprenticeship,6868
+W06000023,Powys,Level 3,19125
+W06000023,Powys,Level 4+,35849
+W06000023,Powys,Other,2937
+W06000024,Merthyr Tydfil,No qualifications,12831
+W06000024,Merthyr Tydfil,Level 1,4556
+W06000024,Merthyr Tydfil,Level 2,6911
+W06000024,Merthyr Tydfil,Apprenticeship,2713
+W06000024,Merthyr Tydfil,Level 3,7453
+W06000024,Merthyr Tydfil,Level 4+,11911
+W06000024,Merthyr Tydfil,Other,1299
