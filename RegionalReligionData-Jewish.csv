@@ -1,0 +1,332 @@
+Authority Code,Authorities,Religion,Total
+E06000001,Hartlepool,Jewish,27
+E06000002,Middlesbrough,Jewish,41
+E06000003,Redcar and Cleveland,Jewish,37
+E06000004,Stockton-on-Tees,Jewish,61
+E06000005,Darlington,Jewish,36
+E06000006,Halton,Jewish,46
+E06000007,Warrington,Jewish,190
+E06000008,Blackburn with Darwen,Jewish,49
+E06000009,Blackpool,Jewish,227
+E06000010,Kingston upon Hull,Jewish,146
+E06000011,East Riding of Yorkshire,Jewish,284
+E06000012,North East Lincolnshire,Jewish,79
+E06000013,North Lincolnshire,Jewish,49
+E06000014,York,Jewish,273
+E06000015,Derby,Jewish,150
+E06000016,Leicester,Jewish,326
+E06000017,Rutland,Jewish,53
+E06000018,Nottingham,Jewish,941
+E06000019,Herefordshire,Jewish,142
+E06000020,Telford and Wrekin,Jewish,78
+E06000021,Stoke-on-Trent,Jewish,83
+E06000022,Bath and North East Somerset,Jewish,325
+E06000023,Bristol,Jewish,1228
+E06000024,North Somerset,Jewish,166
+E06000025,South Gloucestershire,Jewish,173
+E06000026,Plymouth,Jewish,207
+E06000027,Torbay,Jewish,141
+E06000030,Swindon,Jewish,131
+E06000031,Peterborough,Jewish,185
+E06000032,Luton,Jewish,246
+E06000033,Southend-on-Sea,Jewish,2057
+E06000034,Thurrock,Jewish,225
+E06000035,Medway,Jewish,217
+E06000036,Bracknell Forest,Jewish,190
+E06000037,West Berkshire,Jewish,236
+E06000038,Reading,Jewish,329
+E06000039,Slough,Jewish,85
+E06000040,Windsor and Maidenhead,Jewish,521
+E06000041,Wokingham,Jewish,435
+E06000042,Milton Keynes,Jewish,383
+E06000043,Brighton and Hove,Jewish,2455
+E06000044,Portsmouth,Jewish,200
+E06000045,Southampton,Jewish,254
+E06000046,Isle of Wight,Jewish,136
+E06000047,County Durham,Jewish,286
+E06000049,Cheshire East,Jewish,640
+E06000050,Cheshire West and Chester,Jewish,288
+E06000051,Shropshire,Jewish,182
+E06000052,Cornwall,Jewish,507
+E06000053,Isles of Scilly,Jewish,1
+E06000054,Wiltshire,Jewish,458
+E06000055,Bedford,Jewish,232
+E06000056,Central Bedfordshire,Jewish,620
+E06000057,Northumberland,Jewish,172
+E06000058,"Bournemouth, Christchurch and Poole",Jewish,1601
+E06000059,Dorset,Jewish,453
+E06000060,Buckinghamshire,Jewish,1688
+E06000061,North Northamptonshire,Jewish,291
+E06000062,West Northamptonshire,Jewish,430
+E07000008,Cambridge,Jewish,1057
+E07000009,East Cambridgeshire,Jewish,123
+E07000010,Fenland,Jewish,110
+E07000011,Huntingdonshire,Jewish,222
+E07000012,South Cambridgeshire,Jewish,466
+E07000026,Allerdale,Jewish,36
+E07000027,Barrow-in-Furness,Jewish,19
+E07000028,Carlisle,Jewish,44
+E07000029,Copeland,Jewish,17
+E07000030,Eden,Jewish,30
+E07000031,South Lakeland,Jewish,91
+E07000032,Amber Valley,Jewish,60
+E07000033,Bolsover,Jewish,39
+E07000034,Chesterfield,Jewish,35
+E07000035,Derbyshire Dales,Jewish,54
+E07000036,Erewash,Jewish,40
+E07000037,High Peak,Jewish,55
+E07000038,North East Derbyshire,Jewish,62
+E07000039,South Derbyshire,Jewish,40
+E07000040,East Devon,Jewish,154
+E07000041,Exeter,Jewish,201
+E07000042,Mid Devon,Jewish,63
+E07000043,North Devon,Jewish,90
+E07000044,South Hams,Jewish,126
+E07000045,Teignbridge,Jewish,117
+E07000046,Torridge,Jewish,45
+E07000047,West Devon,Jewish,63
+E07000061,Eastbourne,Jewish,187
+E07000062,Hastings,Jewish,172
+E07000063,Lewes,Jewish,305
+E07000064,Rother,Jewish,169
+E07000065,Wealden,Jewish,312
+E07000066,Basildon,Jewish,403
+E07000067,Braintree,Jewish,281
+E07000068,Brentwood,Jewish,330
+E07000069,Castle Point,Jewish,661
+E07000070,Chelmsford,Jewish,387
+E07000071,Colchester,Jewish,325
+E07000072,Epping Forest,Jewish,4376
+E07000073,Harlow,Jewish,319
+E07000074,Maldon,Jewish,128
+E07000075,Rochford,Jewish,293
+E07000076,Tendring,Jewish,224
+E07000077,Uttlesford,Jewish,351
+E07000078,Cheltenham,Jewish,198
+E07000079,Cotswold,Jewish,159
+E07000080,Forest of Dean,Jewish,59
+E07000081,Gloucester,Jewish,64
+E07000082,Stroud,Jewish,141
+E07000083,Tewkesbury,Jewish,70
+E07000084,Basingstoke and Deane,Jewish,168
+E07000085,East Hampshire,Jewish,213
+E07000086,Eastleigh,Jewish,114
+E07000087,Fareham,Jewish,66
+E07000088,Gosport,Jewish,37
+E07000089,Hart,Jewish,117
+E07000090,Havant,Jewish,97
+E07000091,New Forest,Jewish,234
+E07000092,Rushmoor,Jewish,60
+E07000093,Test Valley,Jewish,114
+E07000094,Winchester,Jewish,219
+E07000095,Broxbourne,Jewish,365
+E07000096,Dacorum,Jewish,896
+E07000098,Hertsmere,Jewish,18346
+E07000099,North Hertfordshire,Jewish,369
+E07000102,Three Rivers,Jewish,1463
+E07000103,Watford,Jewish,944
+E07000105,Ashford,Jewish,142
+E07000106,Canterbury,Jewish,310
+E07000107,Dartford,Jewish,91
+E07000108,Dover,Jewish,113
+E07000109,Gravesham,Jewish,76
+E07000110,Maidstone,Jewish,164
+E07000111,Sevenoaks,Jewish,234
+E07000112,Folkestone and Hythe,Jewish,146
+E07000113,Swale,Jewish,118
+E07000114,Thanet,Jewish,268
+E07000115,Tonbridge and Malling,Jewish,163
+E07000116,Tunbridge Wells,Jewish,224
+E07000117,Burnley,Jewish,33
+E07000118,Chorley,Jewish,59
+E07000119,Fylde,Jewish,288
+E07000120,Hyndburn,Jewish,28
+E07000121,Lancaster,Jewish,144
+E07000122,Pendle,Jewish,32
+E07000123,Preston,Jewish,76
+E07000124,Ribble Valley,Jewish,22
+E07000125,Rossendale,Jewish,64
+E07000126,South Ribble,Jewish,58
+E07000127,West Lancashire,Jewish,70
+E07000128,Wyre,Jewish,85
+E07000129,Blaby,Jewish,57
+E07000130,Charnwood,Jewish,149
+E07000131,Harborough,Jewish,118
+E07000132,Hinckley and Bosworth,Jewish,39
+E07000133,Melton,Jewish,28
+E07000134,North West Leicestershire,Jewish,45
+E07000135,Oadby and Wigston,Jewish,95
+E07000136,Boston,Jewish,41
+E07000137,East Lindsey,Jewish,84
+E07000138,Lincoln,Jewish,70
+E07000139,North Kesteven,Jewish,67
+E07000140,South Holland,Jewish,62
+E07000141,South Kesteven,Jewish,126
+E07000142,West Lindsey,Jewish,45
+E07000143,Breckland,Jewish,145
+E07000144,Broadland,Jewish,157
+E07000145,Great Yarmouth,Jewish,63
+E07000146,King's Lynn and West Norfolk,Jewish,157
+E07000147,North Norfolk,Jewish,130
+E07000148,Norwich,Jewish,331
+E07000149,South Norfolk,Jewish,197
+E07000163,Craven,Jewish,48
+E07000164,Hambleton,Jewish,55
+E07000165,Harrogate,Jewish,359
+E07000166,Richmondshire,Jewish,20
+E07000167,Ryedale,Jewish,29
+E07000168,Scarborough,Jewish,56
+E07000169,Selby,Jewish,64
+E07000170,Ashfield,Jewish,40
+E07000171,Bassetlaw,Jewish,45
+E07000172,Broxtowe,Jewish,122
+E07000173,Gedling,Jewish,98
+E07000174,Mansfield,Jewish,37
+E07000175,Newark and Sherwood,Jewish,90
+E07000176,Rushcliffe,Jewish,280
+E07000177,Cherwell,Jewish,200
+E07000178,Oxford,Jewish,1120
+E07000179,South Oxfordshire,Jewish,342
+E07000180,Vale of White Horse,Jewish,268
+E07000181,West Oxfordshire,Jewish,187
+E07000187,Mendip,Jewish,151
+E07000188,Sedgemoor,Jewish,65
+E07000189,South Somerset,Jewish,118
+E07000192,Cannock Chase,Jewish,29
+E07000193,East Staffordshire,Jewish,38
+E07000194,Lichfield,Jewish,61
+E07000195,Newcastle-under-Lyme,Jewish,66
+E07000196,South Staffordshire,Jewish,41
+E07000197,Stafford,Jewish,61
+E07000198,Staffordshire Moorlands,Jewish,35
+E07000199,Tamworth,Jewish,15
+E07000200,Babergh,Jewish,127
+E07000202,Ipswich,Jewish,101
+E07000203,Mid Suffolk,Jewish,86
+E07000207,Elmbridge,Jewish,750
+E07000208,Epsom and Ewell,Jewish,206
+E07000209,Guildford,Jewish,382
+E07000210,Mole Valley,Jewish,218
+E07000211,Reigate and Banstead,Jewish,364
+E07000212,Runnymede,Jewish,223
+E07000213,Spelthorne,Jewish,174
+E07000214,Surrey Heath,Jewish,142
+E07000215,Tandridge,Jewish,152
+E07000216,Waverley,Jewish,265
+E07000217,Woking,Jewish,223
+E07000218,North Warwickshire,Jewish,26
+E07000219,Nuneaton and Bedworth,Jewish,39
+E07000220,Rugby,Jewish,69
+E07000221,Stratford-on-Avon,Jewish,178
+E07000222,Warwick,Jewish,278
+E07000223,Adur,Jewish,249
+E07000224,Arun,Jewish,262
+E07000225,Chichester,Jewish,226
+E07000226,Crawley,Jewish,96
+E07000227,Horsham,Jewish,272
+E07000228,Mid Sussex,Jewish,328
+E07000229,Worthing,Jewish,274
+E07000234,Bromsgrove,Jewish,94
+E07000235,Malvern Hills,Jewish,65
+E07000236,Redditch,Jewish,52
+E07000237,Worcester,Jewish,51
+E07000238,Wychavon,Jewish,112
+E07000239,Wyre Forest,Jewish,42
+E07000240,St Albans,Jewish,2237
+E07000241,Welwyn Hatfield,Jewish,1093
+E07000242,East Hertfordshire,Jewish,560
+E07000243,Stevenage,Jewish,163
+E07000244,East Suffolk,Jewish,266
+E07000245,West Suffolk,Jewish,198
+E07000246,Somerset West and Taunton,Jewish,117
+E08000001,Bolton,Jewish,159
+E08000002,Bury,Jewish,10734
+E08000003,Manchester,Jewish,2632
+E08000004,Oldham,Jewish,146
+E08000005,Rochdale,Jewish,218
+E08000006,Salford,Jewish,10373
+E08000007,Stockport,Jewish,1234
+E08000008,Tameside,Jewish,87
+E08000009,Trafford,Jewish,2408
+E08000010,Wigan,Jewish,84
+E08000011,Knowsley,Jewish,86
+E08000012,Liverpool,Jewish,1807
+E08000013,St. Helens,Jewish,63
+E08000014,Sefton,Jewish,364
+E08000015,Wirral,Jewish,256
+E08000016,Barnsley,Jewish,62
+E08000017,Doncaster,Jewish,116
+E08000018,Rotherham,Jewish,81
+E08000019,Sheffield,Jewish,649
+E08000021,Newcastle upon Tyne,Jewish,573
+E08000022,North Tyneside,Jewish,128
+E08000023,South Tyneside,Jewish,36
+E08000024,Sunderland,Jewish,87
+E08000025,Birmingham,Jewish,1687
+E08000026,Coventry,Jewish,259
+E08000027,Dudley,Jewish,83
+E08000028,Sandwell,Jewish,79
+E08000029,Solihull,Jewish,283
+E08000030,Walsall,Jewish,74
+E08000031,Wolverhampton,Jewish,94
+E08000032,Bradford,Jewish,254
+E08000033,Calderdale,Jewish,153
+E08000034,Kirklees,Jewish,187
+E08000035,Leeds,Jewish,6267
+E08000036,Wakefield,Jewish,127
+E08000037,Gateshead,Jewish,2905
+E09000001,City of London,Jewish,177
+E09000002,Barking and Dagenham,Jewish,272
+E09000003,Barnet,Jewish,56616
+E09000004,Bexley,Jewish,217
+E09000005,Brent,Jewish,3723
+E09000006,Bromley,Jewish,966
+E09000007,Camden,Jewish,10079
+E09000008,Croydon,Jewish,609
+E09000009,Ealing,Jewish,1041
+E09000010,Enfield,Jewish,3713
+E09000011,Greenwich,Jewish,603
+E09000012,Hackney,Jewish,17426
+E09000013,Hammersmith and Fulham,Jewish,1228
+E09000014,Haringey,Jewish,9397
+E09000015,Harrow,Jewish,7304
+E09000016,Havering,Jewish,1305
+E09000017,Hillingdon,Jewish,1392
+E09000018,Hounslow,Jewish,622
+E09000019,Islington,Jewish,2714
+E09000020,Kensington and Chelsea,Jewish,2681
+E09000021,Kingston upon Thames,Jewish,693
+E09000022,Lambeth,Jewish,1344
+E09000023,Lewisham,Jewish,826
+E09000024,Merton,Jewish,754
+E09000025,Newham,Jewish,448
+E09000026,Redbridge,Jewish,6412
+E09000027,Richmond upon Thames,Jewish,1262
+E09000028,Southwark,Jewish,1243
+E09000029,Sutton,Jewish,407
+E09000030,Tower Hamlets,Jewish,1341
+E09000031,Waltham Forest,Jewish,1268
+E09000032,Wandsworth,Jewish,1756
+E09000033,Westminster,Jewish,5628
+W06000001,Isle of Anglesey,Jewish,30
+W06000002,Gwynedd,Jewish,59
+W06000003,Conwy,Jewish,63
+W06000004,Denbighshire,Jewish,48
+W06000005,Flintshire,Jewish,60
+W06000006,Wrexham,Jewish,51
+W06000008,Ceredigion,Jewish,75
+W06000009,Pembrokeshire,Jewish,58
+W06000010,Carmarthenshire,Jewish,103
+W06000011,Swansea,Jewish,159
+W06000012,Neath Port Talbot,Jewish,32
+W06000013,Bridgend,Jewish,38
+W06000014,Vale of Glamorgan,Jewish,143
+W06000015,Cardiff,Jewish,690
+W06000016,Rhondda Cynon Taf,Jewish,72
+W06000018,Caerphilly,Jewish,84
+W06000019,Blaenau Gwent,Jewish,10
+W06000020,Torfaen,Jewish,14
+W06000021,Monmouthshire,Jewish,79
+W06000022,Newport,Jewish,90
+W06000023,Powys,Jewish,81
+W06000024,Merthyr Tydfil,Jewish,5

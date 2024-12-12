@@ -1,0 +1,332 @@
+Authority Code,Authorities,Religion,Total
+E06000001,Hartlepool,No religion,36995
+E06000002,Middlesbrough,No religion,52415
+E06000003,Redcar and Cleveland,No religion,54921
+E06000004,Stockton-on-Tees,No religion,76840
+E06000005,Darlington,No religion,42780
+E06000006,Halton,No religion,45261
+E06000007,Warrington,No religion,73042
+E06000008,Blackburn with Darwen,No religion,32717
+E06000009,Blackpool,No religion,57812
+E06000010,Kingston upon Hull,No religion,131424
+E06000011,East Riding of Yorkshire,No religion,133916
+E06000012,North East Lincolnshire,No religion,73008
+E06000013,North Lincolnshire,No religion,65581
+E06000014,York,No religion,93577
+E06000015,Derby,No religion,95639
+E06000016,Leicester,No religion,84607
+E06000017,Rutland,No religion,15239
+E06000018,Nottingham,No religion,133403
+E06000019,Herefordshire,No religion,68475
+E06000020,Telford and Wrekin,No religion,75965
+E06000021,Stoke-on-Trent,No religion,97433
+E06000022,Bath and North East Somerset,No religion,92567
+E06000023,Bristol,No religion,242864
+E06000024,North Somerset,No religion,98085
+E06000025,South Gloucestershire,No religion,133749
+E06000026,Plymouth,No religion,129338
+E06000027,Torbay,No religion,60178
+E06000030,Swindon,No religion,94559
+E06000031,Peterborough,No religion,70066
+E06000032,Luton,No religion,39580
+E06000033,Southend-on-Sea,No religion,81187
+E06000034,Thurrock,No religion,61043
+E06000035,Medway,No religion,120309
+E06000036,Bracknell Forest,No religion,50300
+E06000037,West Berkshire,No religion,66290
+E06000038,Reading,No religion,63287
+E06000039,Slough,No religion,20726
+E06000040,Windsor and Maidenhead,No religion,47641
+E06000041,Wokingham,No religion,65428
+E06000042,Milton Keynes,No religion,108953
+E06000043,Brighton and Hove,No religion,152966
+E06000044,Portsmouth,No religion,97887
+E06000045,Southampton,No religion,108000
+E06000046,Isle of Wight,No religion,61721
+E06000047,County Durham,No religion,201688
+E06000049,Cheshire East,No religion,150257
+E06000050,Cheshire West and Chester,No religion,135025
+E06000051,Shropshire,No religion,119573
+E06000052,Cornwall,No religion,264037
+E06000053,Isles of Scilly,No religion,950
+E06000054,Wiltshire,No religion,210601
+E06000055,Bedford,No religion,63243
+E06000056,Central Bedfordshire,No religion,126001
+E06000057,Northumberland,No religion,128703
+E06000058,"Bournemouth, Christchurch and Poole",No religion,168852
+E06000059,Dorset,No religion,152267
+E06000060,Buckinghamshire,No religion,189204
+E06000061,North Northamptonshire,No religion,152998
+E06000062,West Northamptonshire,No religion,162751
+E07000008,Cambridge,No religion,65160
+E07000009,East Cambridgeshire,No religion,37682
+E07000010,Fenland,No religion,40897
+E07000011,Huntingdonshire,No religion,79126
+E07000012,South Cambridgeshire,No religion,70269
+E07000026,Allerdale,No religion,32066
+E07000027,Barrow-in-Furness,No religion,26781
+E07000028,Carlisle,No religion,43058
+E07000029,Copeland,No religion,19185
+E07000030,Eden,No religion,18815
+E07000031,South Lakeland,No religion,39102
+E07000032,Amber Valley,No religion,59722
+E07000033,Bolsover,No religion,36067
+E07000034,Chesterfield,No religion,46066
+E07000035,Derbyshire Dales,No religion,26688
+E07000036,Erewash,No religion,56350
+E07000037,High Peak,No religion,40381
+E07000038,North East Derbyshire,No religion,43173
+E07000039,South Derbyshire,No religion,46148
+E07000040,East Devon,No religion,63176
+E07000041,Exeter,No religion,63385
+E07000042,Mid Devon,No religion,37304
+E07000043,North Devon,No religion,44490
+E07000044,South Hams,No religion,39029
+E07000045,Teignbridge,No religion,60421
+E07000046,Torridge,No religion,29542
+E07000047,West Devon,No religion,23754
+E07000061,Eastbourne,No religion,43919
+E07000062,Hastings,No religion,46750
+E07000063,Lewes,No religion,48136
+E07000064,Rother,No religion,37859
+E07000065,Wealden,No religion,67386
+E07000066,Basildon,No religion,82780
+E07000067,Braintree,No religion,69930
+E07000068,Brentwood,No religion,25655
+E07000069,Castle Point,No religion,38985
+E07000070,Chelmsford,No religion,74741
+E07000071,Colchester,No religion,85484
+E07000072,Epping Forest,No religion,44976
+E07000073,Harlow,No religion,40506
+E07000074,Maldon,No religion,28754
+E07000075,Rochford,No religion,38497
+E07000076,Tendring,No religion,64075
+E07000077,Uttlesford,No religion,37916
+E07000078,Cheltenham,No religion,52733
+E07000079,Cotswold,No religion,33310
+E07000080,Forest of Dean,No religion,36238
+E07000081,Gloucester,No religion,52507
+E07000082,Stroud,No religion,53424
+E07000083,Tewkesbury,No religion,38746
+E07000084,Basingstoke and Deane,No religion,80443
+E07000085,East Hampshire,No religion,51488
+E07000086,Eastleigh,No religion,61379
+E07000087,Fareham,No religion,49987
+E07000088,Gosport,No religion,39662
+E07000089,Hart,No religion,40898
+E07000090,Havant,No religion,58869
+E07000091,New Forest,No religion,71539
+E07000092,Rushmoor,No religion,37854
+E07000093,Test Valley,No religion,53030
+E07000094,Winchester,No religion,53752
+E07000095,Broxbourne,No religion,32714
+E07000096,Dacorum,No religion,63681
+E07000098,Hertsmere,No religion,26092
+E07000099,North Hertfordshire,No religion,59315
+E07000102,Three Rivers,No religion,28922
+E07000103,Watford,No religion,25340
+E07000105,Ashford,No religion,54002
+E07000106,Canterbury,No religion,66087
+E07000107,Dartford,No religion,42581
+E07000108,Dover,No religion,49302
+E07000109,Gravesham,No religion,34353
+E07000110,Maidstone,No religion,70501
+E07000111,Sevenoaks,No religion,47639
+E07000112,Folkestone and Hythe,No religion,45890
+E07000113,Swale,No religion,68784
+E07000114,Thanet,No religion,62054
+E07000115,Tonbridge and Malling,No religion,56516
+E07000116,Tunbridge Wells,No religion,46480
+E07000117,Burnley,No religion,29822
+E07000118,Chorley,No religion,36383
+E07000119,Fylde,No religion,25389
+E07000120,Hyndburn,No religion,23360
+E07000121,Lancaster,No religion,54433
+E07000122,Pendle,No religion,27526
+E07000123,Preston,No religion,38931
+E07000124,Ribble Valley,No religion,16144
+E07000125,Rossendale,No religion,28412
+E07000126,South Ribble,No religion,34239
+E07000127,West Lancashire,No religion,37018
+E07000128,Wyre,No religion,37720
+E07000129,Blaby,No religion,43851
+E07000130,Charnwood,No religion,74902
+E07000131,Harborough,No religion,37480
+E07000132,Hinckley and Bosworth,No religion,47368
+E07000133,Melton,No religion,20365
+E07000134,North West Leicestershire,No religion,45987
+E07000135,Oadby and Wigston,No religion,17441
+E07000136,Boston,No religion,22034
+E07000137,East Lindsey,No religion,55197
+E07000138,Lincoln,No religion,48940
+E07000139,North Kesteven,No religion,46641
+E07000140,South Holland,No religion,31438
+E07000141,South Kesteven,No religion,53837
+E07000142,West Lindsey,No religion,36111
+E07000143,Breckland,No religion,59622
+E07000144,Broadland,No religion,58584
+E07000145,Great Yarmouth,No religion,45084
+E07000146,King's Lynn and West Norfolk,No religion,60898
+E07000147,North Norfolk,No religion,40804
+E07000148,Norwich,No religion,76973
+E07000149,South Norfolk,No religion,62982
+E07000163,Craven,No religion,21902
+E07000164,Hambleton,No religion,30917
+E07000165,Harrogate,No religion,58941
+E07000166,Richmondshire,No religion,17803
+E07000167,Ryedale,No religion,18710
+E07000168,Scarborough,No religion,42889
+E07000169,Selby,No religion,35718
+E07000170,Ashfield,No religion,63479
+E07000171,Bassetlaw,No religion,44234
+E07000172,Broxtowe,No religion,51966
+E07000173,Gedling,No religion,55880
+E07000174,Mansfield,No religion,50400
+E07000175,Newark and Sherwood,No religion,50655
+E07000176,Rushcliffe,No religion,52917
+E07000177,Cherwell,No religion,61286
+E07000178,Oxford,No religion,63201
+E07000179,South Oxfordshire,No religion,61344
+E07000180,Vale of White Horse,No religion,57894
+E07000181,West Oxfordshire,No religion,46393
+E07000187,Mendip,No religion,50786
+E07000188,Sedgemoor,No religion,52497
+E07000189,South Somerset,No religion,67942
+E07000192,Cannock Chase,No religion,41294
+E07000193,East Staffordshire,No religion,42020
+E07000194,Lichfield,No religion,40563
+E07000195,Newcastle-under-Lyme,No religion,48009
+E07000196,South Staffordshire,No religion,35933
+E07000197,Stafford,No religion,50479
+E07000198,Staffordshire Moorlands,No religion,32466
+E07000199,Tamworth,No religion,34850
+E07000200,Babergh,No religion,39638
+E07000202,Ipswich,No religion,63256
+E07000203,Mid Suffolk,No religion,44715
+E07000207,Elmbridge,No religion,49121
+E07000208,Epsom and Ewell,No religion,28903
+E07000209,Guildford,No religion,56969
+E07000210,Mole Valley,No religion,33563
+E07000211,Reigate and Banstead,No religion,57451
+E07000212,Runnymede,No religion,30654
+E07000213,Spelthorne,No religion,32112
+E07000214,Surrey Heath,No religion,32546
+E07000215,Tandridge,No religion,34192
+E07000216,Waverley,No religion,49987
+E07000217,Woking,No religion,34574
+E07000218,North Warwickshire,No religion,24802
+E07000219,Nuneaton and Bedworth,No religion,50778
+E07000220,Rugby,No religion,41331
+E07000221,Stratford-on-Avon,No religion,48339
+E07000222,Warwick,No religion,59337
+E07000223,Adur,No religion,30890
+E07000224,Arun,No religion,65762
+E07000225,Chichester,No religion,47977
+E07000226,Crawley,No religion,41555
+E07000227,Horsham,No religion,61763
+E07000228,Mid Sussex,No religion,64207
+E07000229,Worthing,No religion,50895
+E07000234,Bromsgrove,No religion,37139
+E07000235,Malvern Hills,No religion,30310
+E07000236,Redditch,No religion,34837
+E07000237,Worcester,No religion,41084
+E07000238,Wychavon,No religion,46361
+E07000239,Wyre Forest,No religion,39256
+E07000240,St Albans,No religion,55020
+E07000241,Welwyn Hatfield,No religion,44307
+E07000242,East Hertfordshire,No religion,62816
+E07000243,Stevenage,No religion,40158
+E07000244,East Suffolk,No religion,110438
+E07000245,West Suffolk,No religion,76597
+E07000246,Somerset West and Taunton,No religion,66037
+E08000001,Bolton,No religion,76244
+E08000002,Bury,No religion,57008
+E08000003,Manchester,No religion,179037
+E08000004,Oldham,No religion,60507
+E08000005,Rochdale,No religion,64349
+E08000006,Salford,No religion,96140
+E08000007,Stockport,No religion,116749
+E08000008,Tameside,No religion,87910
+E08000009,Trafford,No religion,77864
+E08000010,Wigan,No religion,99784
+E08000011,Knowsley,No religion,42001
+E08000012,Liverpool,No religion,142994
+E08000013,St. Helens,No religion,57184
+E08000014,Sefton,No religion,79905
+E08000015,Wirral,No religion,119447
+E08000016,Barnsley,No religion,102906
+E08000017,Doncaster,No religion,122645
+E08000018,Rotherham,No religion,105821
+E08000019,Sheffield,No religion,241556
+E08000021,Newcastle upon Tyne,No religion,122485
+E08000022,North Tyneside,No religion,96413
+E08000023,South Tyneside,No religion,58045
+E08000024,Sunderland,No religion,108261
+E08000025,Birmingham,No religion,276327
+E08000026,Coventry,No religion,102338
+E08000027,Dudley,No religion,116404
+E08000028,Sandwell,No religion,89102
+E08000029,Solihull,No religion,71065
+E08000030,Walsall,No religion,85819
+E08000031,Wolverhampton,No religion,73317
+E08000032,Bradford,No religion,154305
+E08000033,Calderdale,No religion,86787
+E08000034,Kirklees,No religion,150599
+E08000035,Leeds,No religion,326231
+E08000036,Wakefield,No religion,145950
+E08000037,Gateshead,No religion,78572
+E09000001,City of London,No religion,3763
+E09000002,Barking and Dagenham,No religion,41191
+E09000003,Barnet,No religion,78684
+E09000004,Bexley,No religion,82816
+E09000005,Brent,No religion,46153
+E09000006,Bromley,No religion,122943
+E09000007,Camden,No religion,72776
+E09000008,Croydon,No religion,101119
+E09000009,Ealing,No religion,70233
+E09000010,Enfield,No religion,65241
+E09000011,Greenwich,No religion,94208
+E09000012,Hackney,No religion,94113
+E09000013,Hammersmith and Fulham,No religion,56059
+E09000014,Haringey,No religion,83535
+E09000015,Harrow,No religion,27748
+E09000016,Havering,No religion,80235
+E09000017,Hillingdon,No religion,59214
+E09000018,Hounslow,No religion,53502
+E09000019,Islington,No religion,88466
+E09000020,Kensington and Chelsea,No religion,35610
+E09000021,Kingston upon Thames,No religion,57641
+E09000022,Lambeth,No religion,119123
+E09000023,Lewisham,No religion,110379
+E09000024,Merton,No religion,60224
+E09000025,Newham,No religion,50795
+E09000026,Redbridge,No religion,38999
+E09000027,Richmond upon Thames,No religion,74076
+E09000028,Southwark,No religion,111935
+E09000029,Sutton,No religion,67769
+E09000030,Tower Hamlets,No religion,82635
+E09000031,Waltham Forest,No religion,77739
+E09000032,Wandsworth,No religion,118543
+E09000033,Westminster,No religion,52936
+W06000001,Isle of Anglesey,No religion,28066
+W06000002,Gwynedd,No religion,51941
+W06000003,Conwy,No religion,46946
+W06000004,Denbighshire,No religion,40297
+W06000005,Flintshire,No religion,62995
+W06000006,Wrexham,No religion,56477
+W06000008,Ceredigion,No religion,30749
+W06000009,Pembrokeshire,No religion,52998
+W06000010,Carmarthenshire,No religion,83409
+W06000011,Swansea,No religion,112687
+W06000012,Neath Port Talbot,No religion,70941
+W06000013,Bridgend,No religion,76141
+W06000014,Vale of Glamorgan,No religion,63164
+W06000015,Cardiff,No religion,155589
+W06000016,Rhondda Cynon Taf,No religion,133486
+W06000018,Caerphilly,No religion,99767
+W06000019,Blaenau Gwent,No religion,37706
+W06000020,Torfaen,No religion,46872
+W06000021,Monmouthshire,No religion,40311
+W06000022,Newport,No religion,68564
+W06000023,Powys,No religion,55971
+W06000024,Merthyr Tydfil,No religion,31322

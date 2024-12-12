@@ -1,0 +1,332 @@
+Authority Code,Authorities,Religion,Total
+E06000001,Hartlepool,Buddhist,180
+E06000002,Middlesbrough,Buddhist,437
+E06000003,Redcar and Cleveland,Buddhist,280
+E06000004,Stockton-on-Tees,Buddhist,532
+E06000005,Darlington,Buddhist,344
+E06000006,Halton,Buddhist,291
+E06000007,Warrington,Buddhist,605
+E06000008,Blackburn with Darwen,Buddhist,262
+E06000009,Blackpool,Buddhist,500
+E06000010,Kingston upon Hull,Buddhist,746
+E06000011,East Riding of Yorkshire,Buddhist,885
+E06000012,North East Lincolnshire,Buddhist,417
+E06000013,North Lincolnshire,Buddhist,406
+E06000014,York,Buddhist,1045
+E06000015,Derby,Buddhist,828
+E06000016,Leicester,Buddhist,1181
+E06000017,Rutland,Buddhist,150
+E06000018,Nottingham,Buddhist,1671
+E06000019,Herefordshire,Buddhist,646
+E06000020,Telford and Wrekin,Buddhist,597
+E06000021,Stoke-on-Trent,Buddhist,811
+E06000022,Bath and North East Somerset,Buddhist,996
+E06000023,Bristol,Buddhist,2710
+E06000024,North Somerset,Buddhist,695
+E06000025,South Gloucestershire,Buddhist,1056
+E06000026,Plymouth,Buddhist,1018
+E06000027,Torbay,Buddhist,553
+E06000030,Swindon,Buddhist,1700
+E06000031,Peterborough,Buddhist,617
+E06000032,Luton,Buddhist,664
+E06000033,Southend-on-Sea,Buddhist,953
+E06000034,Thurrock,Buddhist,703
+E06000035,Medway,Buddhist,999
+E06000036,Bracknell Forest,Buddhist,1039
+E06000037,West Berkshire,Buddhist,552
+E06000038,Reading,Buddhist,2887
+E06000039,Slough,Buddhist,776
+E06000040,Windsor and Maidenhead,Buddhist,870
+E06000041,Wokingham,Buddhist,881
+E06000042,Milton Keynes,Buddhist,1404
+E06000043,Brighton and Hove,Buddhist,2455
+E06000044,Portsmouth,Buddhist,1077
+E06000045,Southampton,Buddhist,1333
+E06000046,Isle of Wight,Buddhist,499
+E06000047,County Durham,Buddhist,1290
+E06000049,Cheshire East,Buddhist,1314
+E06000050,Cheshire West and Chester,Buddhist,1074
+E06000051,Shropshire,Buddhist,895
+E06000052,Cornwall,Buddhist,2079
+E06000053,Isles of Scilly,Buddhist,3
+E06000054,Wiltshire,Buddhist,2521
+E06000055,Bedford,Buddhist,629
+E06000056,Central Bedfordshire,Buddhist,996
+E06000057,Northumberland,Buddhist,752
+E06000058,"Bournemouth, Christchurch and Poole",Buddhist,2022
+E06000059,Dorset,Buddhist,1613
+E06000060,Buckinghamshire,Buddhist,2914
+E06000061,North Northamptonshire,Buddhist,1095
+E06000062,West Northamptonshire,Buddhist,1515
+E07000008,Cambridge,Buddhist,1668
+E07000009,East Cambridgeshire,Buddhist,325
+E07000010,Fenland,Buddhist,239
+E07000011,Huntingdonshire,Buddhist,670
+E07000012,South Cambridgeshire,Buddhist,796
+E07000026,Allerdale,Buddhist,217
+E07000027,Barrow-in-Furness,Buddhist,165
+E07000028,Carlisle,Buddhist,340
+E07000029,Copeland,Buddhist,147
+E07000030,Eden,Buddhist,146
+E07000031,South Lakeland,Buddhist,549
+E07000032,Amber Valley,Buddhist,280
+E07000033,Bolsover,Buddhist,150
+E07000034,Chesterfield,Buddhist,265
+E07000035,Derbyshire Dales,Buddhist,207
+E07000036,Erewash,Buddhist,261
+E07000037,High Peak,Buddhist,332
+E07000038,North East Derbyshire,Buddhist,199
+E07000039,South Derbyshire,Buddhist,245
+E07000040,East Devon,Buddhist,499
+E07000041,Exeter,Buddhist,715
+E07000042,Mid Devon,Buddhist,258
+E07000043,North Devon,Buddhist,326
+E07000044,South Hams,Buddhist,540
+E07000045,Teignbridge,Buddhist,541
+E07000046,Torridge,Buddhist,212
+E07000047,West Devon,Buddhist,209
+E07000061,Eastbourne,Buddhist,568
+E07000062,Hastings,Buddhist,568
+E07000063,Lewes,Buddhist,560
+E07000064,Rother,Buddhist,327
+E07000065,Wealden,Buddhist,530
+E07000066,Basildon,Buddhist,556
+E07000067,Braintree,Buddhist,417
+E07000068,Brentwood,Buddhist,302
+E07000069,Castle Point,Buddhist,238
+E07000070,Chelmsford,Buddhist,878
+E07000071,Colchester,Buddhist,1321
+E07000072,Epping Forest,Buddhist,512
+E07000073,Harlow,Buddhist,370
+E07000074,Maldon,Buddhist,197
+E07000075,Rochford,Buddhist,206
+E07000076,Tendring,Buddhist,420
+E07000077,Uttlesford,Buddhist,369
+E07000078,Cheltenham,Buddhist,559
+E07000079,Cotswold,Buddhist,333
+E07000080,Forest of Dean,Buddhist,220
+E07000081,Gloucester,Buddhist,401
+E07000082,Stroud,Buddhist,530
+E07000083,Tewkesbury,Buddhist,341
+E07000084,Basingstoke and Deane,Buddhist,1583
+E07000085,East Hampshire,Buddhist,403
+E07000086,Eastleigh,Buddhist,514
+E07000087,Fareham,Buddhist,341
+E07000088,Gosport,Buddhist,272
+E07000089,Hart,Buddhist,630
+E07000090,Havant,Buddhist,357
+E07000091,New Forest,Buddhist,536
+E07000092,Rushmoor,Buddhist,4732
+E07000093,Test Valley,Buddhist,619
+E07000094,Winchester,Buddhist,789
+E07000095,Broxbourne,Buddhist,479
+E07000096,Dacorum,Buddhist,726
+E07000098,Hertsmere,Buddhist,623
+E07000099,North Hertfordshire,Buddhist,658
+E07000102,Three Rivers,Buddhist,486
+E07000103,Watford,Buddhist,1021
+E07000105,Ashford,Buddhist,1341
+E07000106,Canterbury,Buddhist,961
+E07000107,Dartford,Buddhist,691
+E07000108,Dover,Buddhist,591
+E07000109,Gravesham,Buddhist,347
+E07000110,Maidstone,Buddhist,1341
+E07000111,Sevenoaks,Buddhist,464
+E07000112,Folkestone and Hythe,Buddhist,1074
+E07000113,Swale,Buddhist,406
+E07000114,Thanet,Buddhist,598
+E07000115,Tonbridge and Malling,Buddhist,451
+E07000116,Tunbridge Wells,Buddhist,484
+E07000117,Burnley,Buddhist,227
+E07000118,Chorley,Buddhist,286
+E07000119,Fylde,Buddhist,275
+E07000120,Hyndburn,Buddhist,152
+E07000121,Lancaster,Buddhist,604
+E07000122,Pendle,Buddhist,223
+E07000123,Preston,Buddhist,435
+E07000124,Ribble Valley,Buddhist,132
+E07000125,Rossendale,Buddhist,184
+E07000126,South Ribble,Buddhist,232
+E07000127,West Lancashire,Buddhist,262
+E07000128,Wyre,Buddhist,294
+E07000129,Blaby,Buddhist,263
+E07000130,Charnwood,Buddhist,643
+E07000131,Harborough,Buddhist,256
+E07000132,Hinckley and Bosworth,Buddhist,265
+E07000133,Melton,Buddhist,148
+E07000134,North West Leicestershire,Buddhist,221
+E07000135,Oadby and Wigston,Buddhist,185
+E07000136,Boston,Buddhist,164
+E07000137,East Lindsey,Buddhist,324
+E07000138,Lincoln,Buddhist,355
+E07000139,North Kesteven,Buddhist,215
+E07000140,South Holland,Buddhist,171
+E07000141,South Kesteven,Buddhist,374
+E07000142,West Lindsey,Buddhist,221
+E07000143,Breckland,Buddhist,400
+E07000144,Broadland,Buddhist,391
+E07000145,Great Yarmouth,Buddhist,267
+E07000146,King's Lynn and West Norfolk,Buddhist,476
+E07000147,North Norfolk,Buddhist,373
+E07000148,Norwich,Buddhist,983
+E07000149,South Norfolk,Buddhist,524
+E07000163,Craven,Buddhist,129
+E07000164,Hambleton,Buddhist,200
+E07000165,Harrogate,Buddhist,561
+E07000166,Richmondshire,Buddhist,480
+E07000167,Ryedale,Buddhist,123
+E07000168,Scarborough,Buddhist,357
+E07000169,Selby,Buddhist,183
+E07000170,Ashfield,Buddhist,250
+E07000171,Bassetlaw,Buddhist,253
+E07000172,Broxtowe,Buddhist,475
+E07000173,Gedling,Buddhist,364
+E07000174,Mansfield,Buddhist,305
+E07000175,Newark and Sherwood,Buddhist,289
+E07000176,Rushcliffe,Buddhist,402
+E07000177,Cherwell,Buddhist,900
+E07000178,Oxford,Buddhist,1195
+E07000179,South Oxfordshire,Buddhist,618
+E07000180,Vale of White Horse,Buddhist,755
+E07000181,West Oxfordshire,Buddhist,433
+E07000187,Mendip,Buddhist,601
+E07000188,Sedgemoor,Buddhist,310
+E07000189,South Somerset,Buddhist,503
+E07000192,Cannock Chase,Buddhist,222
+E07000193,East Staffordshire,Buddhist,332
+E07000194,Lichfield,Buddhist,245
+E07000195,Newcastle-under-Lyme,Buddhist,474
+E07000196,South Staffordshire,Buddhist,273
+E07000197,Stafford,Buddhist,570
+E07000198,Staffordshire Moorlands,Buddhist,182
+E07000199,Tamworth,Buddhist,194
+E07000200,Babergh,Buddhist,242
+E07000202,Ipswich,Buddhist,596
+E07000203,Mid Suffolk,Buddhist,327
+E07000207,Elmbridge,Buddhist,750
+E07000208,Epsom and Ewell,Buddhist,549
+E07000209,Guildford,Buddhist,991
+E07000210,Mole Valley,Buddhist,345
+E07000211,Reigate and Banstead,Buddhist,698
+E07000212,Runnymede,Buddhist,458
+E07000213,Spelthorne,Buddhist,703
+E07000214,Surrey Heath,Buddhist,951
+E07000215,Tandridge,Buddhist,340
+E07000216,Waverley,Buddhist,564
+E07000217,Woking,Buddhist,642
+E07000218,North Warwickshire,Buddhist,139
+E07000219,Nuneaton and Bedworth,Buddhist,726
+E07000220,Rugby,Buddhist,440
+E07000221,Stratford-on-Avon,Buddhist,397
+E07000222,Warwick,Buddhist,594
+E07000223,Adur,Buddhist,274
+E07000224,Arun,Buddhist,502
+E07000225,Chichester,Buddhist,611
+E07000226,Crawley,Buddhist,529
+E07000227,Horsham,Buddhist,581
+E07000228,Mid Sussex,Buddhist,577
+E07000229,Worthing,Buddhist,704
+E07000234,Bromsgrove,Buddhist,284
+E07000235,Malvern Hills,Buddhist,288
+E07000236,Redditch,Buddhist,184
+E07000237,Worcester,Buddhist,367
+E07000238,Wychavon,Buddhist,334
+E07000239,Wyre Forest,Buddhist,234
+E07000240,St Albans,Buddhist,735
+E07000241,Welwyn Hatfield,Buddhist,890
+E07000242,East Hertfordshire,Buddhist,546
+E07000243,Stevenage,Buddhist,398
+E07000244,East Suffolk,Buddhist,814
+E07000245,West Suffolk,Buddhist,810
+E07000246,Somerset West and Taunton,Buddhist,516
+E08000001,Bolton,Buddhist,576
+E08000002,Bury,Buddhist,508
+E08000003,Manchester,Buddhist,3219
+E08000004,Oldham,Buddhist,468
+E08000005,Rochdale,Buddhist,398
+E08000006,Salford,Buddhist,1022
+E08000007,Stockport,Buddhist,964
+E08000008,Tameside,Buddhist,588
+E08000009,Trafford,Buddhist,955
+E08000010,Wigan,Buddhist,831
+E08000011,Knowsley,Buddhist,260
+E08000012,Liverpool,Buddhist,2128
+E08000013,St. Helens,Buddhist,501
+E08000014,Sefton,Buddhist,681
+E08000015,Wirral,Buddhist,1015
+E08000016,Barnsley,Buddhist,435
+E08000017,Doncaster,Buddhist,821
+E08000018,Rotherham,Buddhist,542
+E08000019,Sheffield,Buddhist,2215
+E08000021,Newcastle upon Tyne,Buddhist,1352
+E08000022,North Tyneside,Buddhist,587
+E08000023,South Tyneside,Buddhist,264
+E08000024,Sunderland,Buddhist,539
+E08000025,Birmingham,Buddhist,4340
+E08000026,Coventry,Buddhist,1257
+E08000027,Dudley,Buddhist,798
+E08000028,Sandwell,Buddhist,943
+E08000029,Solihull,Buddhist,594
+E08000030,Walsall,Buddhist,533
+E08000031,Wolverhampton,Buddhist,915
+E08000032,Bradford,Buddhist,959
+E08000033,Calderdale,Buddhist,630
+E08000034,Kirklees,Buddhist,996
+E08000035,Leeds,Buddhist,2874
+E08000036,Wakefield,Buddhist,797
+E08000037,Gateshead,Buddhist,469
+E09000001,City of London,Buddhist,95
+E09000002,Barking and Dagenham,Buddhist,821
+E09000003,Barnet,Buddhist,4158
+E09000004,Bexley,Buddhist,2048
+E09000005,Brent,Buddhist,3117
+E09000006,Bromley,Buddhist,2100
+E09000007,Camden,Buddhist,2410
+E09000008,Croydon,Buddhist,2371
+E09000009,Ealing,Buddhist,4003
+E09000010,Enfield,Buddhist,1716
+E09000011,Greenwich,Buddhist,5034
+E09000012,Hackney,Buddhist,2343
+E09000013,Hammersmith and Fulham,Buddhist,1723
+E09000014,Haringey,Buddhist,2455
+E09000015,Harrow,Buddhist,2812
+E09000016,Havering,Buddhist,1092
+E09000017,Hillingdon,Buddhist,2621
+E09000018,Hounslow,Buddhist,3932
+E09000019,Islington,Buddhist,1813
+E09000020,Kensington and Chelsea,Buddhist,1606
+E09000021,Kingston upon Thames,Buddhist,1726
+E09000022,Lambeth,Buddhist,2437
+E09000023,Lewisham,Buddhist,3270
+E09000024,Merton,Buddhist,1899
+E09000025,Newham,Buddhist,2160
+E09000026,Redbridge,Buddhist,1611
+E09000027,Richmond upon Thames,Buddhist,1593
+E09000028,Southwark,Buddhist,2965
+E09000029,Sutton,Buddhist,1822
+E09000030,Tower Hamlets,Buddhist,2961
+E09000031,Waltham Forest,Buddhist,1834
+E09000032,Wandsworth,Buddhist,2275
+E09000033,Westminster,Buddhist,2603
+W06000001,Isle of Anglesey,Buddhist,154
+W06000002,Gwynedd,Buddhist,426
+W06000003,Conwy,Buddhist,375
+W06000004,Denbighshire,Buddhist,320
+W06000005,Flintshire,Buddhist,397
+W06000006,Wrexham,Buddhist,404
+W06000008,Ceredigion,Buddhist,378
+W06000009,Pembrokeshire,Buddhist,462
+W06000010,Carmarthenshire,Buddhist,557
+W06000011,Swansea,Buddhist,942
+W06000012,Neath Port Talbot,Buddhist,383
+W06000013,Bridgend,Buddhist,398
+W06000014,Vale of Glamorgan,Buddhist,420
+W06000015,Cardiff,Buddhist,1630
+W06000016,Rhondda Cynon Taf,Buddhist,588
+W06000018,Caerphilly,Buddhist,322
+W06000019,Blaenau Gwent,Buddhist,119
+W06000020,Torfaen,Buddhist,260
+W06000021,Monmouthshire,Buddhist,339
+W06000022,Newport,Buddhist,479
+W06000023,Powys,Buddhist,595
+W06000024,Merthyr Tydfil,Buddhist,127
